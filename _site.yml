@@ -1,0 +1,12 @@
+name: "sif-ssla"
+navbar:
+  title: "SIG SSLA"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "List of members"
+      href: members.html
+    - text: "Statement of purpose"
+      href: statement.html
+    - text: "CAA Special Interest Groups"
+      href: about_sigs.html

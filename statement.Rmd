@@ -1,0 +1,3 @@
+## Statement of purpose
+
+The purpose of this SIG is to...
