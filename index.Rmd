@@ -27,7 +27,9 @@ Within the next year we aim at installing the basic functionalities and aggree o
 
 ### What you can do
 
-If you are working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to contact us. Either through the [Github Issues Forum](https://github.com/MartinHinz/sig_sci_scripting_languages/issues), or direct via our email address:
+If you are working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to contact us. 
+
+We set up a [small survey](https://goo.gl/forms/1gXCsP1fZyLlSVxP2) to collect some opinions. Beyond that you can use the [Github Issues Forum](https://github.com/MartinHinz/sig_sci_scripting_languages/issues), or contact us directly via our email address:
 
 [sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
 
