@@ -1,4 +1,5 @@
 name: "sif-ssla"
+output_dir: "."
 navbar:
   title: "SIG SSLA"
   left:
