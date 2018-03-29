@@ -4,8 +4,24 @@
 
 The purpose of the CAA Special Interest Group **Scientific Scripting Languages in Archaeology** is to provide an exchange platform for scientists in and around archaeology who use scripting languages to conduct major or minor parts of their research. Scientific programming in non-scripting languages is not excluded, but this SIG focussed on software projects and data analysis work-flows that use code interactively. We invite students and young career researches to become part of a wider network of developers and users to improve their skills, and promote the use of scripting languages in research, publication and teaching in archaeology. 
 
-A scripting language is a programming language which allows live coding interaction with an software interpreter to perform tasks with data. It does not require the compilation of a  software module (or only requires this incidentally to the main coding activity) and it is therefore linked to a rapid development style especially suitable for scientific data exploration, analysis, and visualisation. Currently popular scripting languages in archaeology and many other sciences include R, Python and Netlogo. 
-
-The use of scripting languages for research allows the user to document every necessary step in a research pipeline. The resulting script can be used to reproduce the data analysis by other researchers, given that also the input datasets are provided. Scripting languages are therefore the ideal environment for reproducible research. R and and Python both provide specialised frameworks to combine data, code and text (R Markdown, Jupyter Notebooks). Reproducible research is important for archaeology because it allows other researchers to verify published findings, and to easily extend new methods to other datasets. 
-
 The Special Interest Group is an open format that is intended to support discussion, the circulation of new ideas, and the integration of different approaches in connection with the objectives. Everyone may participate on equal terms in accordance with the Code of Conduct, as is usual in open source software development.
+
+### Scripting languages
+
+A scripting language is a programming language which allows live coding interaction with an software interpreter to perform tasks with data. It does not require the compilation of a software module (or only requires this incidentally to the main coding activity) and it is therefore linked to a rapid development style especially suitable for scientific data exploration, analysis, and visualisation. The following list includes popular scripting languages in archaeology and many other sciences:
+
+- [R](https://www.r-project.org/) 
+- [Python](https://www.python.org/)
+- [Netlogo](https://ccl.northwestern.edu/netlogo/)
+- [Stan](http://mc-stan.org/)
+- [OxCal](https://c14.arch.ox.ac.uk/oxcal.html)
+- ...
+
+### Reproducible research
+
+The use of scripting languages for research allows the user to document every necessary step in a research pipeline. The resulting script can be used to reproduce the data analysis by other researchers, given that also the input datasets are provided. Scripting languages are therefore the ideal environment for reproducible research. R and and Python for example provide specialised frameworks to combine data, code and text (R Markdown, Jupyter Notebooks, ...). Reproducible research is important for archaeology because it allows other researchers to verify published findings, and to easily extend new methods to other datasets. 
+
+### Version control
+
+Reproducible research ideally also documents the science production process with all inductive and deductive steps of hypothesis building. A modern and powerful way to store a commented succession of changes in text and scripted data analysis is available with tools like Git or SVN which where initially designed for software development. They provide a simple environment to keep track of even minor changes, go back to earlier working stages and allow for well documented collaborations thanks to forking. The combination of scripting languages and version control is an important basis for a fully comprehensible research process.
+
