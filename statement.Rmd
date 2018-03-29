@@ -17,6 +17,8 @@ A scripting language is a programming language which allows live coding interact
 - [OxCal](https://c14.arch.ox.ac.uk/oxcal.html)
 - ...
 
+The scopes and purposes of these scripting languages are highly different. Some of them are fully capable programming languages which provide methods and libraries for all kind of cross-platform system- and network-interaction. Some are rather specific collections of basic commands to control individual software tools and therefor serve as mere interfaces.
+
 ### Reproducible research
 
 The use of scripting languages for research allows the user to document every necessary step in a research pipeline. The resulting script can be used to reproduce the data analysis by other researchers, given that also the input datasets are provided. Scripting languages are therefore the ideal environment for reproducible research. R and and Python for example provide specialised frameworks to combine data, code and text (R Markdown, Jupyter Notebooks, ...). Reproducible research is important for archaeology because it allows other researchers to verify published findings, and to easily extend new methods to other datasets. 
