@@ -9,3 +9,7 @@ navbar:
       href: statement.html
     - text: "CAA Special Interest Groups"
       href: about_sigs.html
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css

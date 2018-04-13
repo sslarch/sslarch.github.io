@@ -1,0 +1,41 @@
+.navbar {
+  font-size: 20px;
+  color: #9b9b9b;
+  background-color: green;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: red;
+}
+
+body {
+    background-color: black;
+    color: #9b9b9b;
+    font-family: "Courier New", monospace;
+    font-size: 15px;
+    margin-top: 60px;
+}
+
+h2, .h2, h3, .h3 {
+    font-family: "Courier New", monospace;
+}
+
+h2, .h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h3, .h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h3:before {
+  content: "$ ./";
+  color: green;
+}
+
+h3:after {
+  content: " ↩";
+  color: red;
+}

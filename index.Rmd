@@ -2,6 +2,7 @@
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
 ### Background
@@ -15,6 +16,12 @@ With this background out of the audience the proposal was made to install a Spec
 Later in the discussion with colleagues it became clear, that it might be a good idea to also include other scripting languages like eg. python into this approach.
 
 With this repository and these Github pages, in the spirit of open accessibility, transparency and reproducible science, we would like to start this process that will hopefully result in the installation of a SIG in Krakow 2019.
+
+### Quicklinks
+
+- <i class="fa fa-github"></i> [Github Issues Forum](https://github.com/MartinHinz/sig_sci_scripting_languages/issues)
+- <i class="fa fa-envelope"></i> [E-mail contact sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
+- <i class="fa fa-edit"></i> [Google Forms survey March/April 2018](https://goo.gl/forms/1gXCsP1fZyLlSVxP2)
 
 ### What we will do
 
