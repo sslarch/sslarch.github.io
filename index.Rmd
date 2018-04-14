@@ -1,3 +1,17 @@
+<div class = "ascii_art">
+
+```
+   _____ _____ _____    _____ _____ _              
+  / ____|_   _/ ____|  / ____/ ____| |       /\
+ | (___   | || |  __  | (___| (___ | |      /  \
+  \___ \  | || | |_ |  \___ \\___ \| |     / /\ \
+  ____) |_| || |__| |  ____) |___) | |___ / ____ \
+ |_____/|_____\_____| |_____/_____/|_____/_/    \_\    
+
+```
+<!-- http://patorjk.com/software/taag/#p=author&f=Big&t=SIG%20SSLA -->
+</div>
+
 ## Special Interest Group on Scientific Scripting Languages in Archaeology
 
 ```{r setup, include=FALSE}
