@@ -1,0 +1,60 @@
+.navbar {
+  font-size: 20px;
+  color: #9b9b9b;
+  background-color: green;
+  border-color: #222233;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: red;
+}
+
+#navbar > ul:nth-child(1) > li.active > a {
+  background-color: #222233;
+}
+
+body {
+    background-color: #222233;
+    color: #9b9b9b;
+    font-family: "Courier New", monospace;
+    font-size: 15px;
+    margin-top: 60px;
+}
+
+h2, .h2, h3, .h3 {
+    font-family: "Courier New", monospace;
+}
+
+h2, .h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h3, .h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h3:before {
+  content: "$ ./";
+  color: green;
+}
+
+h3:after {
+  content: " ↩";
+  color: red;
+}
+
+.ascii_art pre { 
+  color: #9b9b9b;
+  background-color: #222233; 
+  border: none;
+  width: 50%;
+  margin: auto auto;
+}
+
+@media only screen and (max-width: 990px) {
+    .ascii_art {
+        display: none;
+    }
+}

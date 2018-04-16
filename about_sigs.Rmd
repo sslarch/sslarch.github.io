@@ -8,7 +8,7 @@ The Special Interest Group (SIG) initiative was introduced at the 2001 Conferenc
 - Education, Training and Outreach
 - Computer Programs for Archaeologists
 
-**Rules for Special Interest Groups**
+### Rules for Special Interest Groups
 
 1. CAA will enable and encourage the formation of Special Interest Groups (SIG).
 
@@ -28,7 +28,7 @@ The Special Interest Group (SIG) initiative was introduced at the 2001 Conferenc
 
 9. A SIG may be dissolved at any time, subject to the approval of the Steering Committee. The SIG committee should notify the Steering Committee of its intention to dissolve and should normally provide evidence that the dissolution is supported by a simple majority of the active members of the SIG.
 
-**Notes:**
+### Notes
 
 At the request of conference organisers, SIG convenors and other committee members will be expected to aid, advise and participate in the organization of SIG-specific sessions. They should also be prepared to act as referees and to locate other potential referees, both for the initial scrutiny of paper submissions, and for reviewing papers submitted for publication in conference proceedings and other CAA publications.
 
