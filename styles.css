@@ -2,10 +2,15 @@
   font-size: 20px;
   color: #9b9b9b;
   background-color: green;
+  border-color: #222233;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
   background-color: red;
+}
+
+#navbar > ul:nth-child(1) > li.active > a {
+  background-color: #222233;
 }
 
 body {
