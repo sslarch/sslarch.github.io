@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: #222233;
     color: #9b9b9b;
     font-family: "Courier New", monospace;
     font-size: 15px;
@@ -42,7 +42,7 @@ h3:after {
 
 .ascii_art pre { 
   color: #9b9b9b;
-  background-color: black; 
+  background-color: #222233; 
   border: none;
   width: 50%;
   margin: auto auto;
