@@ -34,7 +34,7 @@ Reproducible research ideally also documents the science production process with
 
 Main objectives:
 
-- Promote the use of scripting languages to replace widely-used special-purpose archaeology software with code
+- Promote the use of scripting languages to replace widely-used black-box software with transparent and reproducible code written in open source languages. 
 - Teach and provide teaching materials for scripting languages
 - Discuss and comment on new developments in and for scripting languages
 - Define best practice standards and guides for writing, sharing and publishing code
