@@ -1,4 +1,4 @@
-<a href = "https://github.com/MartinHinz/sig_sci_scripting_languages"> <img style="position: absolute; top: 0; right: 0; border: 0; z-index:2000" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub"></a> 
+<a href = "https://github.com/MartinHinz/sig_sci_scripting_languages"> <img style="position: fixed; top: 0; right: 0; border: 0; z-index:2000" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub"></a> 
 
 <div class = "ascii_art">
 
@@ -33,25 +33,17 @@ Following further discussion with colleagues it became clear that it would be a 
 
 With this repository and these Github pages, in the spirit of open accessibility, transparency and reproducible science, we would like to start this process that will hopefully result in the formation of a SIG in Krakow 2019.
 
-### Quicklinks
-
-- <i class="fa fa-google"></i> [Google Mailing List](https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology)
-- <i class="fa fa-envelope"></i> [E-mail contact sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
-
 ### What we will do
 
-Within the next year we aim at installing the basic functionalities and drafting the basic documents needed to make a successful bid to CAA International to have this SIG accepted as official component of the CAA universe. This  will include:
+Within the next year we aim at installing the basic functionalities and drafting the basic documents needed to make a successful bid to CAA International to have this SIG accepted as official component of the CAA universe. This will include:
 
 - a list of potential members and collaborators for the group
 - an exchange platform for its members and also for the communication with the scientific/archaeological/general community
 - a statement of purpose and scope of the SIG
-- a document that will serve as background for the bid in Krakow 2019
+
+We will discuss the topics, aims, challenges and structure of the SIG in a Roundtable at the Krakow 2019 CAA conference: [S03 -- Roundtable Scientific Scripting Languages in Archaeology - Limits and Opportunities of Open Research](https://ocs.caaconference.org/index.php?conference=caa&schedConf=CAA2019&page=schedConf&op=trackPolicies#track3)
 
 ### What you can do
 
-If you are working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to contact us on our [Google Mailing List](https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology), or write us directly via our email address: [sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
+If you are working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to contact us on our <i class="fa fa-google"></i> [Google Mailing List](https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology), or write us directly via our email address: <i class="fa fa-envelope"></i> [sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
 
-Written in a train from Tübingen to Kiel, on the 24th of March 2018, \
-Martin Hinz
-
-PS: Currently this page is hosted from my personal account, but this might change in the future.
