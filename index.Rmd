@@ -35,9 +35,8 @@ With this repository and these Github pages, in the spirit of open accessibility
 
 ### Quicklinks
 
-- <i class="fa fa-github"></i> [Github Issues Forum](https://github.com/MartinHinz/sig_sci_scripting_languages/issues)
+- <i class="fa fa-google"></i> [Google Mailing List](https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology)
 - <i class="fa fa-envelope"></i> [E-mail contact sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
-- <i class="fa fa-edit"></i> [Google Forms survey March/April 2018](https://goo.gl/forms/1gXCsP1fZyLlSVxP2)
 
 ### What we will do
 
@@ -50,11 +49,7 @@ Within the next year we aim at installing the basic functionalities and drafting
 
 ### What you can do
 
-If you are working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to contact us. 
-
-We set up a [small survey](https://goo.gl/forms/1gXCsP1fZyLlSVxP2) to collect some opinions. Beyond that you can use the [Github Issues Forum](https://github.com/MartinHinz/sig_sci_scripting_languages/issues), or contact us directly via our email address:
-
-[sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
+If you are working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to contact us on our [Google Mailing List](https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology), or write us directly via our email address: [sig.sci.script.arch@gmail.com](mailto:sig.sci.script.arch@gmail.com)
 
 Written in a train from Tübingen to Kiel, on the 24th of March 2018, \
 Martin Hinz
