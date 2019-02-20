@@ -1,3 +1,22 @@
+<div class = "ascii_art_wrapper">
+<div class = "ascii_art">
+
+```
+
+     ,-----------------------------------,     
+----(_\ ~~~~~~~ ~~~ ~~~~ ~~ ~~~~ ~~~~ ~~  \--- 
+      | ~~ ~~ ~~~ ~~~~~ ~~~ ~~~ ~~ ~~~~~  |    
+      | ~~~~ ~~~ ~~~~ ~~~~ ~~~ ~~~~ ~~~~  |    
+      | ~~~ ~~~~~~~~~ ~~~~~~~~ ~~~ ~~ ~~  |    
+     _|                      - SIG SSLA   |    
+----(_/___________________________________/----
+
+
+```
+<!-- Inspiration: http://ascii.co.uk/art/scroll -->
+</div>
+</div>
+
 ## Statement of purpose
 
 *The following 'statement of purpose' provides a basis for discussion, which is to be revised in consultation with the scientists involved.*
