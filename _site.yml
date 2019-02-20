@@ -13,6 +13,9 @@ navbar:
           href: round_table.html
         - text: "Hackathon"
           href: hackathon.html
+  right:
+    - icon: fa-github
+      href: https://github.com/MartinHinz/sig_sci_scripting_languages
 output:
   html_document:
     theme: cosmo
