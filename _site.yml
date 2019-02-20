@@ -7,6 +7,12 @@ navbar:
       href: index.html
     - text: "Statement of purpose"
       href: statement.html
+    - text: "CAA2019 Kraków"  
+      menu: 
+        - text: "Roundtable"
+          href: round_table.html
+        - text: "Hackathon"
+          href: hackathon.html
 output:
   html_document:
     theme: cosmo
