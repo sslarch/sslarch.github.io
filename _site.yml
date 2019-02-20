@@ -1,4 +1,4 @@
-name: "sif-ssla"
+name: "sig-ssla"
 output_dir: "."
 navbar:
   title: "SIG SSLA"
@@ -7,8 +7,6 @@ navbar:
       href: index.html
     - text: "Statement of purpose"
       href: statement.html
-    - text: "CAA Special Interest Groups"
-      href: about_sigs.html
 output:
   html_document:
     theme: cosmo
