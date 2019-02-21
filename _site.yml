@@ -7,11 +7,11 @@ navbar:
       href: index.html
     - text: "Statement of purpose"
       href: statement.html
-    - text: "CAA2019 Kraków"  
+    - text: "CAA2019 Kraków"
       menu: 
-        - text: "Roundtable"
+        - text: "S03 Roundtable"
           href: round_table.html
-        - text: "Hackathon"
+        - text: "W4 Hackathon"
           href: hackathon.html
   right:
     - icon: fa-github
