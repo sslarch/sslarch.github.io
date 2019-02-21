@@ -21,6 +21,22 @@ W   W    W     W      W     W      W     W    W   W
 
 *Martin Hinz, Clemens Schmid, Sophie Schmidt*
 
+### Organisational information
+
+**When:** 2019/04/XX, Details unkown    
+**Where:** Auditorium Maximum of the Jagiellonian University, Kraków, Details unknown
+
+### Discussants
+
+[Martin Hinz](https://twitter.com/martinusrihhi) (University of Bern)  
+[Joe Roe](https://twitter.com/joeroe90) (University of Copenhagen)  
+[Iza Romanowska](https://twitter.com/iza_romanowska) (Barcelona Supercomputing Center)  
+[Sophie Schmidt](https://twitter.com/idhrenil) (University of Cologne)  
+[Clemens Schmid](https://twitter.com/nevromecs) (Römisch-Germanisches Zentralmuseum Mainz)  
+[Lizzie Scholtus](https://twitter.com/scholtuslizzie) (University of Strasbourg)  
+
+### Abstract
+
 At last year's CAA, during the session on R in Archaeology, a suggestion was made to set up a Special Interest Group on Scientific Scripting Languages in Archaeology (SIG SSLA). We would like to comply with this proposal at this year's CAA. We would also like to take advantage of the forum to discuss the SIG's goals and agenda in a round table. 
 
 A scripting language is a programming language that allows interaction with a software interpreter to perform operations on data. It does usually not require compilation and is therefore associated with a rapid and agile development style that is particularly suitable for research, analysis and visualization of scientific data. Scripting languages may include but are not limited to R, Netlogo, Stan, OxCal, Bash or Python. 
