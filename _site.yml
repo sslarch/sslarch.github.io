@@ -1,4 +1,4 @@
-name: "sif-ssla"
+name: "sig-ssla"
 output_dir: "."
 navbar:
   title: "SIG SSLA"
@@ -7,8 +7,15 @@ navbar:
       href: index.html
     - text: "Statement of purpose"
       href: statement.html
-    - text: "CAA Special Interest Groups"
-      href: about_sigs.html
+    - text: "CAA2019 Kraków"
+      menu: 
+        - text: "S03 Roundtable"
+          href: round_table.html
+        - text: "W4 Hackathon"
+          href: hackathon.html
+  right:
+    - icon: fa-github
+      href: https://github.com/MartinHinz/sig_sci_scripting_languages
 output:
   html_document:
     theme: cosmo
