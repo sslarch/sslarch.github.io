@@ -15,7 +15,7 @@ navbar:
           href: hackathon.html
   right:
     - icon: fa-github
-      href: https://github.com/MartinHinz/sig_sci_scripting_languages
+      href: https://github.com/sslarch/sslarch.github.io
 output:
   html_document:
     theme: cosmo
