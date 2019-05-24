@@ -22,8 +22,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -331,38 +329,19 @@ $(document).ready(function () {
 </div>
 
 
-<div class="ascii_art_wrapper">
-<div class="ascii_art">
-<pre><code>,---------------------------------------------------,
-| [] [][][][] [][][][][] [][][][]  [][][]  [][][][] |
-|                                                   |
-| [][][][][][][][][][][][][][&lt;- ]  [][][]  [][][][] |
-| [__][A][S][][][][][][][][L][  ]          [][][][] |
-| [__][][][][][][][][][][][][___]    []    [][][]|| |
-| [_][][][______________][_][][_]  [][][]  [__][]|| |
-`---------------------------------------------------&#39;
-
-</code></pre>
-<!-- Inspiration: http://ascii.co.uk/art/computer -->
-</div>
-</div>
-<div id="w4-caa-scripting-languages-hackathon-i-can-you-code-this" class="section level2">
-<h2><a href="https://2019.caaconference.org/workshops/w4-caa-scripting-languages-hackathon-i-can-you-code-this/">W4</a> CAA Scripting Languages Hackathon I – Can you code this?</h2>
-<p><em>Clemens Schmid, Martin Hinz, Carolin Tietze</em></p>
-<div id="organisational-information" class="section level3">
-<h3>Organisational information</h3>
-<p><strong>When:</strong> 2019/04/23, Details unkown<br />
-<strong>Where:</strong> Auditorium Maximum of the Jagiellonian University, Kraków, Details unknown</p>
-</div>
-<div id="abstract" class="section level3">
-<h3>Abstract</h3>
-<p>In general, scientific scripting languages are the best interface for archaeologists to translate research questions into a machine-readable and executable form for quantitative analysis. For every step of data processing – data acquisition, analysis and presentation – there are high-quality software frameworks that enable fast, elegant, human-readable and reproducible coding. And yet, script languages are still not widely used! One of the main reason for this is the often steep learning curve. An important goal of the proposed Special Interest Group on Scientific Scripting Languages in Archaeology (SIG SSLA) is to provide guidance on how to overcome this obstacle.</p>
-<p>In our experience practice is the only way to learn to programme effectively. Therefore, this workshop will be a small archaeological hackathon for experienced and very new users of scripting languages like R, Python, SQL or JavaScript. The registered participants are divided into small groups of three to four people, who are interested in the same programming language but have different knowledge and skill level. These groups are equipped with both a simple archaeological data set and a catalogue of analytical questions. In order to be successful in the competition the groups must find good answers to the questions asked using the scripting language of their choice and elaborate them. A jury selects the winner according to the criteria: correctness, reproducibility, readability, shortness and computation speed.</p>
-<p>The competition data set will contain information on different data scales as well as spatial information – a typical archaeological compilation that does not require any special or prior knowledge for a general understanding. The questions range from simple counting and sorting operations to standard pivot tables and descriptive statistics to demanding tasks such as the application of multivariate analyses or spatial queries. They are designed to reflect the typical requirements of everyday research. Additionally, an important recurring and intermediate task will be data visualisation using graphs and maps. Neither the data set nor the questions are provided in advance to ensure spontaneous and creative work on the spot.</p>
-<p>The hackathon has a twofold aim of being fun and encouraging as well as challenging and instructive. These are the core values of the proposed SIG SSLA. New users learn strategies and concrete methods to tackle the common problems of computational data analysis in archaeology using the powerful toolset the different scripting languages provide. More experienced users are challenged to write good and clean code in a short time and share their knowledge with newcomers. The group formation process is inspired by the concept of an unconference and is intended to disrupt established hierarchies and exclusive interaction patterns of academic research that continue in small areas such as archaeology.</p>
-<p>This workshop will last 3.5 hours, with the actual group work phase lasting 3 hours. The winner of the competition will be announced and honoured at the CAA General Assembly in the context of the official proposal for the SIG SSLA. The scripts produced during the competition will then be distributed online.</p>
-<p>The participants should bring their own computer with their favourite development environment installed.</p>
-<p>The workshop is organized by the ISAAKiel group (Initiative for Statistical Analysis in Archaeology Kiel: <a href="https://isaakiel.github.io/" class="uri">https://isaakiel.github.io/</a>).</p>
+<p><a href="https://sslarch.github.io/"><img src="https://img.shields.io/website/https/sslarch.github.io.svg?maxAge=2592000" alt="Website" /></a> <a href="https://github.com/sslarch/sslarch.github.io"><img src="https://img.shields.io/github/contributors/sslarch/sslarch.github.io.svg?maxAge=2592000" alt="GitHub contributors" /></a></p>
+<div id="website-of-the-sig-ssla" class="section level2">
+<h2>Website of the SIG SSLA</h2>
+<p>To learn more please see <a href="https://sslarch.github.io" class="uri">https://sslarch.github.io</a>.</p>
+<div id="how-it-works" class="section level4">
+<h4>How it works</h4>
+<p>This an <a href="http://rmarkdown.rstudio.com/rmarkdown_websites.html">RMarkdown Website</a> based on <a href="https://github.com/rstudio/rmarkdown-website">this</a> example.</p>
+<ul>
+<li><p>To apply changes just clone the repo, edit the relevant .Rmd files, knit the files with the <kbd>Knit HTML</kbd> button of RStudio and push the changes to the .Rmd and the .html file. That’s it - no more magic involved.</p></li>
+<li><p>If you want to create a new subpage you also have to add it to the static part of the **_site.yml** file.</p></li>
+<li><p>To update everything after a change you can press the <kbd>Build All</kbd> button of RStudio or use <code>rmarkdown::render_site()</code>. This will trigger the attempt to rebuild <strong>index.Rmd</strong>, <strong>statement.Rmd</strong> and all the other .Rmd files in the repository.</p></li>
+<li><p>If a change does not appear online try to clear your browser cache.</p></li>
+</ul>
 </div>
 </div>
 

@@ -1,0 +1,22 @@
+<div class = "ascii_art_wrapper">
+<div class = "ascii_art">
+
+```
+    ,-----------------------------------,    
+---(_\ meeting on ...~~~~ ~~ ~~~~ ~~~~ ~ \-- 
+     | ~~ ~~ ~~~ ~~~~~ ~~~ ~~~ ~~ ~~~~~  |   
+     | ~~~~ ~~~ ~~~~ ~~~~ ~~~ ~~~~ ~~~~  |   
+     | ~~~ ~~~~~~~~~ ~~~~~~~~ ~~~ ~~ ~~  |   
+    _|                      - SIG SSLA   |   
+---(_/___________________________________/---
+
+
+
+```
+<!-- Inspiration: http://ascii.co.uk/art/scroll -->
+</div>
+</div>
+
+## Repository of protocols
+
+[**2019-04-24: First official meeting at the CAA Krakow**](protocols/2019-04-24.txt)

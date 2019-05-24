@@ -13,6 +13,8 @@ navbar:
           href: round_table.html
         - text: "W4 Hackathon"
           href: hackathon.html
+    - text: "Protocols"
+      href: protocol_repo.html
   right:
     - icon: fa-github
       href: https://github.com/sslarch/sslarch.github.io
