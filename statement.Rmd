@@ -19,8 +19,6 @@
 
 ## Statement of purpose
 
-*The following 'statement of purpose' provides a basis for discussion, which is to be revised in consultation with the scientists involved.*
-
 The purpose of the [CAA Special Interest Group](http://caa-international.org/special-interest-groups/) **Scientific Scripting Languages in Archaeology** is to promote the use of scripting languages in archaeology to better align the practice of archaeology with the goals of archaeological science. We will provide an exchange platform for scientists in and around archaeology who use scripting languages to conduct major or minor parts of their research. Scientific programming in non-scripting languages is not excluded, but this SIG focussed on software projects and data analysis work-flows that use code interactively. 
 
 The Special Interest Group is an open format that is intended to support discussion, the circulation of new ideas, and the integration of different approaches in connection with the objectives. Everyone may participate on equal terms in accordance with the [Ethics Policy](http://caa-international.org/about/ethics-policy/) of CAA International. To ensure expedient and civil exchange, the SIG committee will remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this policy. To be as inclusive as possible and also for the sake of reproducibility we strongly prefer open source over proprietary software.
@@ -44,7 +42,11 @@ The scopes and purposes of these scripting languages are highly different. Some 
 
 ### Reproducible research
 
-The use of scripting languages for research allows the user to document every necessary step in a research pipeline. The resulting script can be used to reproduce the data analysis by other researchers, given that also the input datasets are provided and -- if necessary -- the required software environment can be emulated. Scripting languages are therefore the ideal for reproducible research. R and and Python for example provide specialised frameworks to combine data, code and text (R Markdown, Jupyter Notebooks, ...). Reproducible research is important for archaeology because it allows other researchers to verify published findings, and to easily extend new methods to other datasets. 
+The use of scripting languages for research allows the user to document every necessary step in a research pipeline. The resulting script can be used to reproduce the data analysis by other researchers, given that also the input datasets are provided and -- if necessary -- the required software environment can be emulated. Scripting languages are therefore the ideal for reproducible research. R and and Python for example provide specialised frameworks to combine data, code and text (R Markdown, Jupyter Notebooks, ...). 
+
+Reproducible research is important for archaeology because it allows other researchers to verify published findings, to easily extend new methods to other datasets and to continue development on available code. 
+
+Some additional conditions to make this process as open and fair as possible are good code documentation, the attribution of software licenses to published code, the creation of stable releases with digital object identifiers (DOIs) and software citation in publications. Code should be equally important as publications. That also means that code generally should be subject to a scientific reviewing process.
 
 ### Version control
 
@@ -54,18 +56,13 @@ Reproducible research ideally also documents the science production process with
 
 Main objectives:
 
-- Promote the use of scripting languages to replace widely-used black-box software with transparent and reproducible code written in open source languages. 
+- Promote the use of scripting languages to replace widely-used black-box software with transparent and reproducible code written in open source languages
+- Promote the integration of coding into the basic archaeological curriculum
+- Promote the publication of archaeological research data
 - Teach and provide teaching materials for scripting languages
 - Discuss and comment on new developments in and for scripting languages
-- Define best practice standards and guides for writing, sharing and publishing code
 - Develop step-by-step pipelines for common archaeological tasks
+- Define best practice standards and guides for writing, sharing and publishing code
 - Construct a peer review network for code in publications and software libraries
 - Establish an inheritance network to arrange long term maintenance and responsibility for software written by and for archaeologists
-
-Additional possibilities:
-
-- Set up a web platform for discussion
-- Share news and announcements about the latest advanced publications using scripting languages, new software packages designed for archaeology, tutorials, seminars, conferences or summer schools via social media
-- Set up a web platform for an archaeological [rosetta code](http://rosettacode.org) collection
-- Work together on projects like collaboratively programming a custom software library
-- Create an own scripting language designed just for archaeological purposes
+- Stand up for diversity and fairness in the field of computational archaeology
