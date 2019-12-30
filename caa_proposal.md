@@ -12,7 +12,7 @@ The purpose of the CAA Special Interest Group Scientific Scripting Languages in 
 
 This SIG is particularly supportive of students and early career researches who may be interested in developing their skills and promoting more pervasive use of scientific scripting languages in research, publication and teaching. By promoting the widespread adoption of practical technological skills, we hope to establish a robust community of practice that may serve as a foundation for further growth.
 
-The SIG is an open format that supports discussion and the circulation of ideas drawn from various perspectives. Everyone may participate on equal terms, following CAA International's established Ethics Policy. To ensure expedient and civil discourse, the SIG committee will remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this policy. To be as inclusive as possible and also for the sake of reproducibility, we strongly prefer open-source over proprietary software. ==[ZB note: the links between inclusivity, reproducibility and open source software needs to be explained and argued for more thoroughly in order to justify the inclusion of the latter two in the same breath as a paragraph about the first.]==
+The SIG is an open format that supports discussion and the circulation of ideas drawn from various perspectives. Everyone may participate on equal terms, following CAA International's established Ethics Policy. To ensure expedient and civil discourse, the SIG committee will remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this policy. To be as inclusive as possible and also for the sake of reproducibility, we strongly prefer open-source over proprietary software.
 
 ## Scripting languages
 
@@ -41,10 +41,10 @@ These somewhat tangential yet meaningful implications relating to the use of sci
 ## Objectives of the SIG SSLA
 In summary, the SIG SSLA aims to:
 
-- Promote the use of scripting languages to replace widely-used black-box software with transparent and reproducible code written in open source languages ==[ZB note: why though?]==
+- promote the replacement of proprietary and opaque programs with open source and transparent software based on scripting languages, which encourage the advancement of open and reproducible research practices
 - help establish scripting as a readily-accessible component of the archaeologist's toolbox
 - promote the integration of coding into the basic archaeological teaching curriculum
-- promote the publication of archaeological research data ==[why though? the link with scripting needs to be demonstrated]==
+- promote the publication of archaeological research data so that they may be used by others, and to facilitate reproducible research practices overall
 - discuss and critically assess the development of scripting languages and the implications that they afford
 - develop step-by-step pipelines for common archaeological tasks
 - outline best practices and guidelines to support more effective writing, sharing and publishing code
