@@ -2,13 +2,13 @@ Dear honorable members of the CAA Steering Committee,
 
 With this letter, we would like to express our intention to establish a CAA Special Interest Group for Scientific Scripting Languages in Archaeology (SIG-SSLA) under the auspices of the CAA. The idea for this SIG was developed in 2018 in a session on R as an archaeological tool. Out of this event and the resulting discussions, it was proposed to form such a Special Interest Group to create a permanent platform for the exchange and discussion of ideas and to develop the practical use of R for archaeological applications. After further discussions with colleagues, it became clear that it would be a good idea to extend the focus to all scientific script languages.
 
-Consequently, a well-attended and constitutive round table meeting took place in Krakow at CAA 2019 (S03 Roundtable Scientific Scripting Languages in Archaeology - Limits and Opportunities of Open Research). At this meeting, a statement of purpose was presented and discussed. The SIG already exists de facto with a Google mailing list (https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology), a Github organization (https://github.com/sslarch) and its active members (currently 14). This group is currently coordinated by Sophie C. Schmidt, Martin Hinz and Clemens Schmid. 
+Consequently, a well-attended and constitutive round table meeting took place in Krakow at CAA 2019 (S03 Roundtable Scientific Scripting Languages in Archaeology - Limits and Opportunities of Open Research). At this meeting, a statement of purpose was presented and discussed. The SIG already exists de facto with a Google mailing list (https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology), a Github organization (https://github.com/sslarch) and its active members (currently 14). This group is currently coordinated by Sophie C. Schmidt, Martin Hinz and Clemens Schmid.
 
 For the CAA 2020, we would now like to propose to formally include this SIG in the canon of the SIGs of the CAA.
 
 ## Statement of purpose
 
-The purpose of the CAA Special Interest Group Scientific Scripting Languages in Archaeology is to promote the widespread implementation of computer scripts in archaeology. A script is a computer program that automates the execution of various kinds of tasks, and are typically used by scientists to process and visualize information in ways that are amenable to the principles of open research. The purpose of this SIG is to help foster the growing community of archaeologists who increasingly use scientific scripting languages to pursue archaeological interests.
+The purpose of the CAA Special Interest Group Scientific Scripting Languages in Archaeology is to promote the widespread implementation of computer scripts in archaeology. We will provide an exchange platform for scientists in and around archaeology who use scripting languages to conduct major or minor parts of their research. A script is a computer program that automates the execution of various kinds of tasks, and are typically used by scientists to process and visualize information in ways that are amenable to the principles of open research. The purpose of this SIG is to help foster the growing community of archaeologists who increasingly use scientific scripting languages to pursue archaeological interests.
 
 This SIG is particularly supportive of students and early career researches who may be interested in developing their skills and promoting more pervasive use of scientific scripting languages in research, publication and teaching. By promoting the widespread adoption of practical technological skills, we hope to establish a robust community of practice that may serve as a foundation for further growth.
 
@@ -18,7 +18,7 @@ The SIG is an open format that supports discussion and the circulation of ideas 
 
 A scripting language is a programming language that automates the execution of various data-driven tasks. The tendency for scripting langues to be run through an interpreter rather than as compiled from a prior human-readable state enables scripts to be implemented in a rapid, iterative and exploratory manner that is well suited for scientific research.
 
-Some popular scripting languages in archaeology and other sciences include:
+Examples of popular scripting languages in archaeology and other sciences include, but are not limited to:
 
 - R
 - Python
@@ -34,7 +34,9 @@ Some popular scripting languages in archaeology and other sciences include:
 
 The ease with which scripts can be understood by humans, as well as their tendency to be implemented in a step-wise manner, affords their capability to be well-documented. A well-documented script may potentially be used to reproduce analytical processes and verify their results. Scripting languages are therefore lauded as facilitators of open and reproducible research.
 
-The tendency for scripts to be stored in human-readable text-based file formats also makes them particularly amenable to flexible means of storage, dissemination and version control. For instance, the Git protocol is often implemented to track and cooperatively develop continually-evolving documents.
+Code should be equally important as publications. That also means that code generally should be subject to a scientific reviewing process. It is therefore one long-term aim of this SIG to offer guidelines how code publication and - review can be fruitfully implemented into research and publication processes (see Objectives).
+
+The tendency for scripts to be stored in human-readable text-based file formats also makes them particularly amenable to flexible means of storage, dissemination and version control. Reproducible research ideally also documents the science production process with all inductive and deductive steps of hypothesis building. A modern and powerful way to store a commented succession of changes in text and scripted data analysis is available with tools like Git or SVN which were initially designed for software development. They provide a simple environment to keep track of even minor changes, go back to earlier working stages and allow for well-documented collaborations thanks to forking. The combination of scripting languages and version control is an important basis for a fully comprehensible research process.
 
 These somewhat tangential yet meaningful implications relating to the use of scientific scripting languages underscore aspects of their utility that the SSLA aims to promote.
 
