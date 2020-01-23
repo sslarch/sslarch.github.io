@@ -1,4 +1,4 @@
-Dear honorable members of the CAA Steering Committee,
+Dear honourable members of the CAA Steering Committee,
 
 With this letter, we would like to express our intention to establish a CAA Special Interest Group for Scientific Scripting Languages in Archaeology (SIG-SSLA) under the auspices of the CAA. The idea for this SIG was developed in 2018 in a session on R as an archaeological tool. Out of this event and the resulting discussions, it was proposed to form such a Special Interest Group to create a permanent platform for the exchange and discussion of ideas and to develop the practical use of R for archaeological applications. After further discussions with colleagues, it became clear that it would be a good idea to extend the focus to all scientific script languages.
 
@@ -16,7 +16,7 @@ The SIG is an open format that supports discussion and the circulation of ideas 
 
 ## Scripting languages
 
-A scripting language is a programming language that automates the execution of various data-driven tasks. The tendency for scripting langues to be run through an interpreter rather than as compiled from a prior human-readable state enables scripts to be implemented in a rapid, iterative and exploratory manner that is well suited for scientific research.
+A scripting language is a programming language that automates the execution of various data-driven tasks. The tendency for scripting languages to be run through an interpreter rather than as compiled from a prior human-readable state enables scripts to be implemented in a rapid, iterative and exploratory manner that is well suited for scientific research.
 
 Examples of popular scripting languages in archaeology and other sciences include, but are not limited to:
 
@@ -34,7 +34,7 @@ Examples of popular scripting languages in archaeology and other sciences includ
 
 The ease with which scripts can be understood by humans, as well as their tendency to be implemented in a step-wise manner, affords their capability to be well-documented. A well-documented script may potentially be used to reproduce analytical processes and verify their results. Scripting languages are therefore lauded as facilitators of open and reproducible research.
 
-Code should be equally important as publications. That also means that code generally should be subject to a scientific reviewing process. It is therefore one long-term aim of this SIG to offer guidelines how code publication and - review can be fruitfully implemented into research and publication processes (see Objectives).
+Code should be equally important as publications. That also means that code generally should be subject to a scientific reviewing process. It is, therefore, one long-term aim of this SIG to offer guidelines on how code publication and - review can be fruitfully implemented into research and publication processes (see Objectives).
 
 The tendency for scripts to be stored in human-readable text-based file formats also makes them particularly amenable to flexible means of storage, dissemination and version control. Reproducible research ideally also documents the science production process with all inductive and deductive steps of hypothesis building. A modern and powerful way to store a commented succession of changes in text and scripted data analysis is available with tools like Git or SVN which were initially designed for software development. They provide a simple environment to keep track of even minor changes, go back to earlier working stages and allow for well-documented collaborations thanks to forking. The combination of scripting languages and version control is an important basis for a fully comprehensible research process.
 
