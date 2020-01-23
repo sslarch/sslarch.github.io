@@ -10,7 +10,7 @@ You already informed us, that you were sympathetic to such a SIG, but we would a
 
 For the bid Sophie Schmidt, Clemens Schmid and Martin Hinz volunteer to act as coordinators. Once the bid has been accepted, a democratic process will be initiated to decide on the appointment of the coordinators. We hope that this meets with your approval.
 
-Thank you very much your support!
+Thank you very much for your support!
 
 With best regards
 
