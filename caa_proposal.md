@@ -58,6 +58,6 @@ If you approve the formation of this SIG, we would also like to ask you if and h
 
 Thank you for considering this proposal.
 
-Best regards,
+With best regards,
 
-Sophie C. Schmidt, Martin Hinz and Clemens Schmid
+Sophie C. Schmidt, Martin Hinz, Zack Batist and Clemens Schmid
