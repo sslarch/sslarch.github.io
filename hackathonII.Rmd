@@ -21,10 +21,8 @@
 
 *Clemens Schmid, Martin Hinz*
 
-### Organisational information
+**Update: As CAA2020 is [not going to take place](https://caa-international.org/2020/06/11/caa-2020-cancelled/) this session will not happen either. We will think about the concept and may resubmit for CAA 2021.**
 
-**When:** Details unkown  
-**Where:** Details unkown  
 **Pre-session discussion:** https://github.com/sslarch/caa2020_hackathon/issues
 
 ### Abstract
