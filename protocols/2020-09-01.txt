@@ -1,0 +1,50 @@
+# Minutes of the Provisional Transition Steering Committee (SC) of SIG-SSLA
+2020-09-01, 13:00-13:30
+
+## Participants:
+- Sophie Schmidt
+- Zack Batist
+- Clemens Schmid
+- Martin Hinz
+
+## Activities currently necessary:
+- Information mail via the mailing list
+- Organise an inaugural meeting
+- Establish regular meetings
+- Outreach
+
+## inaugural meeting
+
+The inaugural meeting should be the kick-off for regular meetings (see below).
+
+agenda:
+- Report of recent developments
+- Collect suggestions and ideas from members
+- Set the modus operandi
+- Present potential candidates for the SC
+- Election of the Steering Committee
+
+
+Positions to be filled are:
+- Convenor
+- Vice Convenor
+- Secretary
+
+A doodle will be set up and sent in the first circulation to the members of the provisional SC and then to all members. It will be implemented at the end of this month (September 2020) or beginning of the next (October 2020).
+
+## Regular meetings
+The plan: These regular meetings should be held monthly and should last about 1 hour. This is to ensure regularity and reliability. Current developments in the field of scripting languages should be briefly presented and discussed. Extensive presentations ala conference contribution should be avoided.
+The date should be in the afternoon CET, so that the so far active members have the opportunity to participate. A approriate method will later be used to determine the optimal time, if more members have to be considered.
+
+## Information mail
+
+The information mail should be distributed via the newsletter as soon as possible and should inform about the above mentioned points.It should encourage active participation and attendance at the founding meeting, as well as to recruit further potential members for the group. In addition, it should call for the submission of a candidature for the Steering Committee, preferably with a text of max. ~1 paragraph or 100 words.
+
+
+## Further:
+- A running list of interesting projects and packages will be published on Github.This list is intended as a complementary service to existing lists (zackbatist/open-archaeo or benmarwick
+/ctv-archaeology) and is only meant to supplement, not replace them.
+- The mailing list should be activated more strongly, it should be made administratively accessible to the SC as soon as possible. Currently the address is still linked to Martin Hinz's personal Google Account, this is to be changed as soon as possible.
+- The creation of a Twitter account will be postponed for the time being, until the necessity is determined by the members.
+- For the time being, it will be refrained from setting up a statute until the necessity arises in daily business.
+- Once the SIG is constituted, a text with a link will be posted on the CAA International website.

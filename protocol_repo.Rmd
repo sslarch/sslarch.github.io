@@ -20,3 +20,5 @@
 ## Repository of protocols
 
 [**2019-04-24: First official meeting at the CAA Krakow**](protocols/2019-04-24.txt)
+[**2019-04-24: First official meeting at the CAA Krakow**](protocols/2019-04-24.txt)
+[**2019-04-24: Minutes of the Provisional Transition Steering Committee (SC) of SIG-SSLA**](protocols/2020-09-01.txt)
