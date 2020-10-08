@@ -7,16 +7,18 @@ navbar:
       href: index.html
     - text: "Statement of purpose"
       href: statement.html
-    - text: "CAA2019"
-      menu: 
-        - text: "S03 Roundtable"
-          href: round_table.html
-        - text: "W4 Hackathon"
-          href: hackathon.html
-    - text: "CAA2020"
-      menu: 
-        - text: "S27 Hackathon"
-          href: hackathonII.html
+    - text: "Sessions"
+      menu:
+      - text: "CAA2019"
+        menu: 
+          - text: "S03 Roundtable"
+            href: round_table.html
+          - text: "W4 Hackathon"
+            href: hackathon.html
+      - text: "CAA2020"
+        menu: 
+          - text: "S27 Hackathon"
+            href: hackathonII.html
     - text: "Protocols"
       href: protocol_repo.html
   right:
