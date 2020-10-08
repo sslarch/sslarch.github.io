@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 Dear honourable members of the CAA Steering Committee,
 
 With this letter, we would like to express our intention to establish a **CAA Special Interest Group** for **Scientific Scripting Languages in Archaeology (SIG-SSLA)** under the auspices of the CAA. The idea for this SIG was developed in 2018 in a session on R as an archaeological tool. Out of this event and the resulting discussions, it was proposed to form such a Special Interest Group to create a permanent platform for the exchange and discussion of ideas and to develop the practical use of R for archaeological applications. After further discussions with colleagues, it became clear that it would be a good idea to extend the focus to all scientific script languages.
