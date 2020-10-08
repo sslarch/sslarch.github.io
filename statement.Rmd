@@ -17,7 +17,7 @@
 </div>
 </div>
 
-# Statement of purpose
+## Statement of purpose
 
 The purpose of the [CAA Special Interest Group](http://caa-international.org/special-interest-groups/) **Scientific Scripting Languages in Archaeology** is to promote the widespread implementation of computer scripts in archaeology. We will provide an exchange platform for scientists in and around archaeology who use scripting languages to conduct major or minor parts of their research. Scripts are computer programs that automate the execution of various kinds of tasks and are typically used by scientists to process and visualize information in ways that are amenable to the principles of open research. The purpose of this SIG is to help foster the growing community of archaeologists who increasingly use scientific scripting languages to pursue archaeological interests.
 
@@ -25,7 +25,7 @@ This SIG is particularly supportive of students and early career researches who 
 
 The SIG is an open format that supports discussion and the circulation of ideas drawn from various perspectives. Everyone may participate on equal terms, following CAA International's established [Ethics Policy](http://caa-international.org/about/ethics-policy/). To ensure expedient and civil discourse, the SIG committee will remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this policy. To be as inclusive as possible and also for the sake of reproducibility, we strongly prefer open-source over proprietary software.
 
-## Scripting languages
+### Scripting languages
 
 A scripting language is a programming language that automates the execution of various data-driven tasks. The tendency for scripting languages to be run through an interpreter rather than as compiled from a prior human-readable state enables scripts to be implemented in a rapid, iterative and exploratory manner that is well suited for scientific research.
 
@@ -51,7 +51,7 @@ The tendency for scripts to be stored in human-readable text-based file formats 
 
 These somewhat tangential yet meaningful implications relating to the use of scientific scripting languages underscore aspects of their utility that the SSLA aims to promote.
 
-## Objectives of the SIG SSLA
+### Objectives of the SIG SSLA
 In summary, the SIG SSLA aims to:
 
 - promote the replacement of proprietary and opaque programs with open source and transparent software based on scripting languages, which encourage the advancement of open and reproducible research practices
