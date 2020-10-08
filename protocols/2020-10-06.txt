@@ -1,0 +1,100 @@
+SIG-SSLA Inaugural Meeting Result Protocol
+==========================================
+2020-10-06, 4pm  - 5:05 pm
+14 ppl attended
+
+Voting was done using directpoll.com
+
+## Report of recent developments (~ 5 min)
+
+- Approval by the CAA 2020-08-26
+- Provisional Transition Steering Committee (SC) of SIG-SSLA
+  2020-09-01 - Protocol online (https://sslarch.github.io/protocols/2020-09-01.txt)
+- Announcement in German Scientific Newsletter
+	- any other members that know similar newsletters?  -> please tell us so we can announce the SIG there too
+
+## Collect suggestions and ideas from members
+
+- A running list of interesting projects and packages will be published on Github (Zack Batist)
+- A monthly (virtual) meeting to report on (Clemens Schmid)
+	- current developments in SSLA in archaeology
+	- talk about new versions, new packages, new libraries, version updates
+	- field is not that large, so we could create an overview of that
+- Growth and diversity of the group (Ben Marwick, Martin Hinz) 
+	- growth of the group - introduce members to SSLA by creating semi-formal cooperations with other groups 
+	- society of archaeological sciences has connections to society of black archaeologists. smth. similar in Europe?
+	- we should include ppl from Asia, global South etc!
+- Teaching and dissemination (Ben Marwick, Dirk Seidensticker, Martin Hinz, Jesse Wolfhagen)
+	- teaching is important and part of the statement already up on our website. 
+	- platform for teaching tools? Provide things for new members, not just keeping ourselves up to date
+	- create groups that are focused on creating teaching material for specific SSLA
+	- first step: collect teaching material. Hub for all tutorials that are already there
+- Minimal Standards and Best Practises (Ben Marwick, Jesse Wolfhagen, Martin Hinz)
+	- statement of minimum standards? 
+	- we could be an authority what should be taught at least? 10 things everyone should know? 
+	- best practices? What makes scripts reproducible? what would you like to see as a reviewer?
+	- style guides? dependant on language - collect these and present them
+- Practical implementation, Priorisation and Schedule (Clemens Schmid, Sophie Schmidt, Martin Hinz)
+	- ambitious goals for later. let's start with "smaller achivable goals"
+	- collect the ideas in the e-mail-list. maybe create a thread there
+	- talk about ideas and prioritise at meetings
+	- explore possibilities to use github tools for task management
+
+## Set the modus operandi (Monthly Meetings)
+
+The plan: These regular meetings should be held monthly and should last about 1 hour. Current developments in the field of scripting languages should be briefly presented and discussed. Extensive presentations ala conference contribution should be avoided.
+
+- poll for monthy meetings: 13 agreed, 1 abstain
+
+### topic at monthly meetings:
+Agenda should be available as open collaborative Document (Dirk Seidensticker)
+
+General Schedule:
+
+1. monthly structured update on the activities and update on software updates etc (Joe Roe)
+2. upcoming conferences, meetings and sessions (Clemens Schmid)
+3. small presentations of specific issues or solutions (SC committee)
+
+### Date and Time
+- poll: first Tuesday every month, 5pm CET: 11 agreed, 1 against.
+- next meeting will be  **Nov. 3rd, 5 pm CET**
+- Due to inability of one member of the SC for this time, an alternative or alternating time slot might be found using a poll tool ('doodle')
+
+## Arising Topic: CAA Presence
+
+- we would like to be present at every CAA conferences with a session
+- CAA 2021 Cyprus Deadline 15th of November: until next meeting we think about potential SSLA Sessions and decide at next meeting
+
+## Arising Topic: Membership and Member List
+Definition of the scope, limits and privileges of membership not yet defined, have to be discussed until/in the next meeting. Currently, members are those that have subscribed to the mailing list.
+
+Currently, access to the Github Repo remains limited to the SC, this has to be redefined according to the members opinion.
+
+A list of members will be available at the homepage, this list will be filled by the members themselves based on a template that the SC will provide. Technically, this will be done using fork/pull request workflow
+
+## Election of Steering Committee 
+
+Sophie Schmidt -> Vice-Convenor: 11 agreed, 1 abstained
+![8ae472c8b0503d4b7416d382d6ad5f67.png](:/bd4d676bd21b4e7cbd73cecbd01adb48)
+Martin Hinz -> Convenor: 11 agreed, 1 abstained 
+![22e34bfc9c5610df03afe1f752ace01b.png](:/008b256feb56423f945634236718b62a)
+Clemens Schmid -> Secretary: 12 agreed
+![0fe8d00a944190b703d11dcfd9a1e37f.png](:/5259358bae6c47298cab0606d580ba05)
+
+Documented via Screenshot from directpoll.com
+
+## Any other business
+- For the time being, it will be refrained from setting up a statute until the necessity arises in daily business: Agreed upon without voting
+
+## Next Meeting
+
+**Nov. 3rd, 5 pm CET**
+Platform yet tbd. Jitsi worked, maybe there is a better alternative?
+TOP:
+1. monthly structured update on the activities and update on software updates
+2. upcoming conferences, meetings and sessions
+3. CAA 2021 Cyprus participation
+4. Membership details
+5. Practical implementation dissemination of teaching material
+
+Will be available as open collaborative document asap.
