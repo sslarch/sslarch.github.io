@@ -42,7 +42,7 @@ linkify <- function(x, url) { ifelse(x != "", paste0("[",x,"](",url,"/",x,")"),"
 readr::read_tsv("members.tsv") %>%
   replace(is.na(.), "") %>%
   dplyr::mutate(
-    Role = factor(Role, levels = c("Convener", "Vice convener", "Secretary", "Member")),
+    Role = factor(Role, levels = c("Convener", "Vice Convener", "Secretary", "Member")),
     Github = linkify(Github, "https://github.com"),
     ORCID = linkify(ORCID, "https://orcid.org")
   ) %>% 
