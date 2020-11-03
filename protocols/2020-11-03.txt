@@ -1,0 +1,52 @@
+Protocol Meeting 2020-11-03
+===========================
+11 ppl attended
+
+## Organisational issues
+
+- Members list on sslarch.github.io
+  - fine like it is, good to see so many people there
+  - new members can add themselfes to the list with a Pull Request against the homepage repository
+- Twitter
+  - a Twitter account would allow for better communication with non-members and official endorsements of strategic partners, e.g. other Special interest groups
+  - Sophie and Zack will prepare a draft for a guidelines/code of conduct document how to handle the twitter account and present the result at the next meeting
+- Logo
+  - collection of drafts at https://github.com/sslarch/logo
+  - redesign contest until the next meeting - submissions can be submitted directly to the repository
+- Official email account
+  - the SIG got an official email address from CAA
+  - it redirects to Martins mail address
+- Chat software
+  - in the future it might be useful to establish a group chat for the SIG
+  - so far it's unclear which tool fits best: Slack, Discord, Gitter, Rocket.chat, ...
+
+## News from the scripting languages world (Clemens)
+
+- New R version 4.0.3 (2020-10-10): https://cran.r-project.org/doc/manuals/r-release/NEWS.html
+- New Python version 3.9.0 (2020-10-05): https://www.python.org/downloads/release/python-390/
+- GIS map making challenge: https://www.gislounge.com/november-map-challenge/
+- New interesting R packages and package versions:
+  - Spell checking: https://github.com/ropensci/spelling
+  - Fixing coordinates: https://github.com/ropensci/parzer, https://github.com/ropensci/CoordinateCleaner
+  - WKT parsing: https://github.com/ropensci/wellknown  
+  - Fulltext search in published papers: https://github.com/ropensci/fulltext
+  - JSON parsing: https://dirk.eddelbuettel.com/code/rcpp.simdjson.html
+  - Unit tests: https://www.tidyverse.org/blog/2020/10/testthat-3-0-0/
+  - ODBC database interface: https://github.com/r-dbi/odbc/releases/tag/v1.3.0
+  - Fast in-memory data manipulation: https://arrow.apache.org/docs/r/index.html
+- New open Books 
+  - R Shiny web development: https://mastering-shiny.org
+  - R Javascript integration: https://book.javascript-for-r.com
+- Improved Python interpreter now available in R-Studio: https://blog.rstudio.com/2020/10/07/rstudio-v1-4-preview-python-support
+
+## CAA 2021
+
+- Software package (R, Python, etc.) development session + introductory workshop: https://groups.google.com/g/scientific-scripting-languages-in-archaeology/c/Fz0PKtbFFAE
+  - Session: Joe, Martin, Clemens (Joe comes up with an abstract proposal)
+  - Workshop: Sophie, Petr, (Clemens)
+
+## Practical implementation dissemination of teaching material
+
+Open teaching material for archaeology: https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B48586A9F-7C7A-4840-97AD-3C33D17D6E2A%7D
+
+## Next meeting: 2020-12-01
