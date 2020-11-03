@@ -46,6 +46,6 @@ readr::read_tsv("members.tsv") %>%
     Github = linkify(Github, "https://github.com"),
     ORCID = linkify(ORCID, "https://orcid.org")
   ) %>% 
-  dplyr::arrange(Role) %>%
+  dplyr::arrange(Role, Name) %>%
   knitr::kable()
 ```
