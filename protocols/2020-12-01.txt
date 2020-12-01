@@ -1,0 +1,44 @@
+Protocol Meeting 2020-12-01
+===========================
+9 ppl attended
+
+## Organisational issues
+
+- Twitter (some of these suggestions could become part of our Twitter guidelines)
+  - The account can be set up and should have the name CAA-SSLA
+  - Content collection can happen on our group chat
+  - The account should focus on archaeology and not so much on general developments in the scripting languages world
+  - Solid, hearty, high quality tweets should dominate
+  - Scheduling posts before posting and weekly/monthly collection posts may be powerful tools to increase impact
+  - We should post with one or multiple dedicated hashtags to allow for searching and filtering
+  - Regular tweets are better than random bursts of activity with weeks of silence in between
+- Logo
+  - There are different preferences in the group 
+  - We will organise a ranked poll to decide
+  - The winner of this survey will be announced at the next meeting
+- Group chat software
+  - Each system has clear advantages and disadvantages
+  - For now we will set up a Slack channel 
+  - Later we want to change to something more FOSS
+
+## Upcoming conferences, meetings and sessions
+
+- CAA2021
+  - The SIG session "Tools for the Revolution: developing packages for scientific programming in archaeology" by Joe Roe, Martin Hinz and Clemens Schmid was submitted
+  - We did not discuss the planned, accompanying workshop
+
+## Open exchange about activities and software updates
+
+- Zack Batist: OpenArchaeo Update - https://open-archaeo.info/
+  - Ideas: Github integration, improved segmentation 
+  - The work on this list could become a collaborative project for the SIG SSLA
+- Joseph Lewis: Work on a new package to prepare high resolution topographic data for Italy
+- Clemens: Exciting new version of magrittr
+  - https://www.tidyverse.org/blog/2020/11/magrittr-2-0-is-here/
+  - |> to be included as a "base" piping operator in an upcoming version of R
+- Joe Roe: Mapping of TFQAR to R solutions - https://github.com/sslarch/tfqar
+  - Completing this list and bridging gaps between the tools could as well be a project for the SIG SSLA
+- Zack Batist: Invitation to participate in the colloquium of the Archaeological Information Interest Group of Toronto University
+  - https://groups.google.com/g/archaeological-information-interest-group
+
+## Next meeting: January 5, 2021
