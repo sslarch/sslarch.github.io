@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h2 id="{{ .Title | urlize }}">{{ .Title }}</h2>
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  <ul>
+      {{ range .Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+  </ul>
+
+{{ end }}
