@@ -1,0 +1,81 @@
+/* ADD OR OVERRIDE THEME CSS HERE */
+
+/* Main menu */
+.header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.logo:before {
+    content: "[";
+}
+
+.logo:after {
+    content: "] $";
+}
+
+.header__logo:after {
+    content: none;
+}
+
+.header .menu {
+    flex: 1;
+    margin: 0;
+}
+
+.header .menu__inner {
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+.header .menu__inner li {
+    margin: auto 0 auto 1.5rem !important;
+    text-transform: lowercase;
+}
+
+.header .menu__inner li:before {
+    content: "./";
+    color: var(--accent);
+}
+
+
+/* Member list */
+.members {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: space-around;
+}
+
+.members .post {
+    border: 0;
+    margin: 0;
+    padding: 0 1rem 1rem 0;
+    width: 16rem;
+}
+
+.members .post-title {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+}
+
+.members .post-content {
+    margin: 0;
+}
+
+.members .post-title:after {
+    content: none;
+}
+
+.member-details {
+    margin: 0;
+}
+
+.member-details li:before {
+    content: none !important;
+}
+

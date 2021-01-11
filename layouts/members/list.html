@@ -1,0 +1,48 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  {{ range (.Pages.GroupByParam "group").Reverse }}
+  <h2 id="{{ urlize .Key }}">
+      {{ .Key }}
+      <a href="#{{ urlize .Key }}" class="hanchor" ariaLabel="Anchor">&#8983;</a>
+  </h2>
+
+  <div class="posts members">
+  {{ range .Pages }}
+      <div class="post on-list">
+        <h3 class="post-title">
+          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+        </h3>
+        <div class="post-meta">
+          {{ .Params.role }}
+        </div>
+
+        {{ if .Params.tags }}
+          <span class="post-tags">
+            {{ range .Params.tags }}
+            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
+              {{- . -}}
+            </a>&nbsp;
+            {{ end }}
+          </span>
+        {{ end }}
+
+        <div class="post-content">
+          <ul class="member-details">
+              <li><i class="fa fa-github"></i> <a href="https://github.com/{{ .Params.github }}">{{ .Params.github }}</a></li>
+              <li><i class="ai ai-orcid"></i> <a href="https://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>
+              <li><i class="fa fa-code"></i> {{ .Params.languages }}</li>
+          </ul>
+
+          {{ .Content | markdownify }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  {{ end }}
+{{ end }}

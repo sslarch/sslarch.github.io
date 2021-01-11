@@ -1,0 +1,103 @@
+Protocol Meeting 2020-11-03
+===========================
+
+attending: 9?
+
+Membership details: fine like it is, good to see so many people there
+
+Twitter:
+- Petr: what should be the content?
+- Sophie:
+	- news and updates on ssla issues
+	- raise awareness
+- Florian:
+	- Network of SIGs
+- Zack: who should manage
+	- what content, guidelines...
+- Sophie: volunteered
+- Martin: Code of conduct, next time define
+- zack and sophie will set up such a document: https://github.com/sslarch/sslarch.github.io/blob/master/twitter_guidelines.md 
+
+Logo:
+- Christop: if scaled, not readable
+- Joe: should speak more to 'outsider'
+- Martin: Redesign contest until next meeting
+
+Email:
+keep it currently as it is
+
+2. monthly update
+
+Clemens: central collection hub for news necessary
+
+New R and python versions
+no important or breaking changes
+
+new gis challenge
+https://www.gislounge.com/november-map-challenge/
+
+r open sci newsletter:
+new packages
+- spelling spell fixing (https://github.com/ropensci/spelling)
+- parzer for fixing coordinates (https://github.com/ropensci/parzer)
+- wellknown well known text parser (https://github.com/ropensci/wellknown)
+- fulltext searching in published papers (https://github.com/ropensci/fulltext)
+
+Rcpp
+wrapper for simdjson
+https://dirk.eddelbuettel.com/code/rcpp.simdjson.html
+
+Open Books
+https://mastering-shiny.org
+https://book.javascript-for-r.com
+
+Shinyverse:
+
+new version of testthat (3.0)
+https://www.tidyverse.org/blog/2020/10/testthat-3-0-0/
+Breaking!!!
+
+New Database interface:
+https://github.com/r-dbi/odbc/releases/tag/v1.3.0
+
+Arrow-Package: Data manipulation package
+https://arrow.apache.org/docs/r/news/index.html
+
+New Feature in R-Studio: Run Python Console
+https://twitter.com/rstudiotips/status/1313875704593805313
+
+Zack:
+- Discord or Slack?
+- Gitter?
+Joe:
+- good experience with discord
+
+Do research and decide next time
+
+3.1.
+Joe describes his idea again
+
+Workshop:
+Zack was unsure wheter or not we are competent enough
+joe: Workshop might be ok if makes that more accessible to other researchers
+sophie: supports this
+Clemens: modularised
+
+Jim: introductory most relevant
+
+Martin: helping with the session
+Clemens: workshop or session
+Sophie: workshop
+Petr: workshop
+
+Joe produces an abstract proposal, we discuss in inner group and submit, backed up by the SIG
+
+4. Practical implementation dissemination of teaching material
+
+Joe: suggest as link
+Sophie: moderated curated list of stuff
+https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B48586A9F-7C7A-4840-97AD-3C33D17D6E2A%7D
+
+Schedule in UTC?
+
+next meeting first of december

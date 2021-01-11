@@ -1,0 +1,8 @@
+---
+title: "Miguel Carrero"
+role: "Member"
+group: "Members"
+github: "MCarreroPazos"
+orcid: "0000-0001-9203-9954"
+languages: "R"
+---
