@@ -1,4 +1,5 @@
-baseURL = "https://sslarch.github.io/"
+#baseURL = "https://sslarch.github.io/"
+baseURL = "http://joeroe.io/sslarch.github.io/"
 languageCode = "en"
 title = "CAA SSLA"
 subtitle = 'CAA International Special Interest Group "Scientific Scripting Languages in Archaeology"'
