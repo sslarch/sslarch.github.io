@@ -15,7 +15,7 @@
   {{ range .Pages }}
       <div class="post on-list">
         <h3 class="post-title">
-          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          {{ .Title | markdownify }}
         </h3>
         <div class="post-meta">
           {{ .Params.role }}
