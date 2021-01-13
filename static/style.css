@@ -1,5 +1,14 @@
 /* ADD OR OVERRIDE THEME CSS HERE */
 
+/* Colours and typography */
+:root {
+    --color: #f9f9e9;
+}
+
+body {
+    font-weight: 300;
+}
+
 /* Main menu */
 .header {
     display: flex;
