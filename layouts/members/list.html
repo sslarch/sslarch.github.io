@@ -12,7 +12,7 @@
   </h2>
 
   <div class="posts members">
-  {{ range .Pages }}
+  {{ range .Pages.ByParam "role_level" }}
       <div class="post on-list">
         <h3 class="post-title">
           {{ .Title | markdownify }}
