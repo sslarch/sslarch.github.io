@@ -12,7 +12,7 @@ See below for instructions on how to edit the site directly, or [submit an issue
 
 You can make simple changes to the website directly on GitHub.
 To edit an existing page, first find the [markdown](https://www.markdownguide.org/) source of the page you want to edit in the `content/` directory.
-For example, <https://sslarch.github.io/documents/caa_proposal/> is generated from `[content/documents/caa_proposal.md](https://github.com/joeroe/sslarch.github.io/blob/master/content/documents/caa_proposal.md)`.
+For example, [/documents/caa_proposal/](https://sslarch.github.io/documents/caa_proposal/) is generated from [content/documents/caa_proposal.md](https://github.com/joeroe/sslarch.github.io/blob/master/content/documents/caa_proposal.md).
 Then click the edit icon to open an [edit form](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) which will guide you through committing your change and submitting a pull request.
 Your change will not be visible until your pull request is reviewed and accepted by the repository maintainers.
 
@@ -20,7 +20,7 @@ Your change will not be visible until your pull request is reviewed and accepted
 
 To add a new page, navigate to a directory and click `Add file > Create new file` and follow the same procedure as editing an existing page.
 
-The structure of the `content/` directory is used to organise the website: top-level pages (e.g. `https://sslarch.github.io/statement/`) are generated from an `.md` file with the same name in the root of `content/`, while those nested under a listing page (e.g. <https://sslarch.github.io/minutes/2019-04-24/>) should be created in the appropriate subdirectory.
+The structure of the `content/` directory is used to organise the website: top-level pages (e.g. [/statement/](https://sslarch.github.io/statement)) are generated from an `.md` file with the same name in the root of `content/`, while those nested under a listing page (e.g. [/minutes/2019-04-24](https://sslarch.github.io/minutes/2019-04-24/)) should be created in the appropriate subdirectory.
 You may want to copy the structure of an existing page for a new one.
 At a minimum, every page needs a YAML header with a title, for example:
 
