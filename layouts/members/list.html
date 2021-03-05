@@ -1,48 +1,28 @@
 {{ define "main" }}
-  {{ with .Content }}
-    <div class="index-content">
-      {{ . }}
-    </div>
-  {{ end }}
+    <h1 id="{{ .Title | urlize }}">{{ .Title | markdownify }}</h1>
 
-  {{ range (.Pages.GroupByParam "group").Reverse }}
-  <h2 id="{{ urlize .Key }}">
-      {{ .Key }}
-      <a href="#{{ urlize .Key }}" class="hanchor" ariaLabel="Anchor">&#8983;</a>
-  </h2>
+    {{ .Content }}
 
-  <div class="posts members">
-  {{ range .Pages.ByParam "role_level" }}
-      <div class="post on-list">
-        <h3 class="post-title">
-          {{ .Title | markdownify }}
-        </h3>
-        <div class="post-meta">
-          {{ .Params.role }}
+    {{ range (.Pages.GroupByParam "group").Reverse }}
+    <h2 id="{{ .Key | urlize }}">
+        {{ .Key | markdownify }}
+    </h2>
+
+    <div class="members">
+        {{ range .Pages.ByParam "role_level" }}
+        <div class="member">
+            <h3 class="member__id">
+                {{ .Title | markdownify }}
+                <p class="member__role">{{ .Params.role }}</p>
+            </h3>
+            <ul class="member__details">
+                <li><i class="fab fa-github"></i> <a href="https://github.com/{{ .Params.github }}">{{ .Params.github }}</a></li>
+                <li><i class="ai ai-orcid"></i> <a href="https://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>
+                <li><i class="fa fa-code"></i> {{ .Params.languages }}</li>
+            </ul>
         </div>
-
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
-            {{ end }}
-          </span>
         {{ end }}
+    </div>
 
-        <div class="post-content">
-          <ul class="member-details">
-              <li><i class="fa fa-github"></i> <a href="https://github.com/{{ .Params.github }}">{{ .Params.github }}</a></li>
-              <li><i class="ai ai-orcid"></i> <a href="https://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>
-              <li><i class="fa fa-code"></i> {{ .Params.languages }}</li>
-          </ul>
-
-          {{ .Content | markdownify }}
-        </div>
-      </div>
     {{ end }}
-  </div>
-
-  {{ end }}
 {{ end }}

@@ -7,16 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170mm"
-   height="170mm"
-   viewBox="0 0 170 170"
+   width="99.499992mm"
+   height="114.82558mm"
+   viewBox="0 0 99.49999 114.82558"
    version="1.1"
    id="svg8"
    sodipodi:docname="sig_ssla_logo.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/clemens/agora/logo/sig_ssla_logo_300_dpi_with_margins.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   inkscape:export-filename="/home/clemens/agora/logo/sig_ssla_logo_100_dpi.png"
+   inkscape:export-xdpi="100.06834"
+   inkscape:export-ydpi="100.06834">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,21 +27,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000001"
-     inkscape:cx="365.94765"
-     inkscape:cy="331.48515"
+     inkscape:cx="470.32849"
+     inkscape:cy="463.34484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1024"
-     inkscape:window-x="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="1029"
+     inkscape:window-x="1680"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
-     inkscape:snap-global="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-page="true" />
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,10 +57,11 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-53.789824,-14.68031)">
     <g
        id="g882"
-       transform="translate(-116.08333,19.988095)">
+       transform="translate(-97.543511,7.0811938)">
       <g
          inkscape:label="Layer 1"
          id="layer1-39"
