@@ -1,0 +1,24 @@
+.about__logo {
+    display: block;
+    height: 10rem;
+    margin: 0.5rem 0 1.5rem 0;
+}
+
+/* Member list */
+.member__id:before {
+    content: none;
+}
+
+.member__role {
+    color: var(--bright-bg);
+    margin: 0;
+}
+
+.member__details {
+    margin: 0;
+    padding: 0;
+}
+
+.member__details li::marker {
+    content: none;
+}

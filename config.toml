@@ -1,72 +1,45 @@
 #baseURL = "https://sslarch.github.io/"
 baseURL = "http://joeroe.io/sslarch.github.io/"
+theme = "risotto"
+title = "CAA/SSLA"
+author = "CAA SSLA"
+copyright = ""
 languageCode = "en"
-title = "CAA SSLA"
-subtitle = 'CAA International Special Interest Group "Scientific Scripting Languages in Archaeology"'
-theme = "terminal"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
 
-# Main menu
+# Automatically add content sections to main menu
 sectionPagesMenu = "main"
 
-[params.logo]
-  logoText = "CAA/SSLA"
-  logoHomeLink = "/"
+[params.theme]
+palette = "caa-ssla"
+mode = "dark-mode"
+
+[params.about]
+title = "Scientific Scripting Languages in Archaeology"
+description = "A special interest group of [CAA International](https://caa-international.org/) dedicated to scientific scripting languages in archaeology."
+logo = "images/sig_ssla_logo.svg"
+
+[[params.socialLinks]]
+icon = "fas fa-envelope"
+title = "Mailing list"
+url = "https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology"
+
+[[params.socialLinks]]
+icon = "fab fa-github"
+title = "GitHub organisation"
+url = "https://github.com/sslarch"
+
+[[params.socialLinks]]
+icon = "fab fa-twitter"
+title = "Tweet @caa_ssla"
+url = "https://twitter.com/caa_ssla"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
-
-[params]
-  # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
-
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
-
-  # if you set this to 0, only submenu trigger will be visible
-  #showMenuItems = 2
-
-  # show selector to switch language
-  showLanguageSelector = false
-
-  # set theme to full screen width
-  fullWidthTheme = false
-
-  # center theme with default width
-  centerTheme = true
-
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
-
-  # set all headings to their default size (depending on browser settings)
-  # it's set to `true` by default
-  # oneHeadingSize = false
-
-# Twitter cards
-[params.twitter]
-  creator = "CAA_SSLA"
-  site = "CAA_SSLA"
-
-# Localised text
-[languages]
-  [languages.en]
-    languageName = "English"
-    owner = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-
-
