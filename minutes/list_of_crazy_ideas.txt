@@ -1,0 +1,4 @@
+- Set up a web platform for an archaeological [rosetta code](http://rosettacode.org) collection
+- Work together on projects like collaboratively programming a custom software library
+- Create an own scripting language designed just for archaeological purposes
+- Create an own journal for archaeological software

@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>hackathon.utf8</title>
+
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">SIG SSLA</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="statement.html">Statement of purpose</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Sessions
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">CAA2019</a>
+      <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="round_table.html">S03 Roundtable</a>
+        </li>
+        <li>
+          <a href="hackathon.html">W4 Hackathon</a>
+        </li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">CAA2020</a>
+      <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="hackathonII.html">S27 Hackathon</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="protocol_repo.html">Protocols</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/sslarch/sslarch.github.io">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div class="ascii_art_wrapper">
+<div class="ascii_art">
+<pre><code>,---------------------------------------------------,
+| [] [][][][] [][][][][] [][][][]  [][][]  [][][][] |
+|                                                   |
+| [][][][][][][][][][][][][][&lt;- ]  [][][]  [][][][] |
+| [__][A][S][][][][][][][][L][  ]          [][][][] |
+| [__][][][][][][][][][][][][___]    []    [][][]|| |
+| [_][][][______________][_][][_]  [][][]  [__][]|| |
+`---------------------------------------------------&#39;
+
+</code></pre>
+<!-- Inspiration: http://ascii.co.uk/art/computer -->
+</div>
+</div>
+<div id="w4-caa-scripting-languages-hackathon-i-can-you-code-this" class="section level2">
+<h2><a href="https://2019.caaconference.org/workshops/w4-caa-scripting-languages-hackathon-i-can-you-code-this/">W4</a> CAA Scripting Languages Hackathon I – Can you code this?</h2>
+<p><em>Clemens Schmid, Martin Hinz, Carolin Tietze</em></p>
+<div id="organisational-information" class="section level3">
+<h3>Organisational information</h3>
+<p><strong>When:</strong> 2019/04/23, Details unkown<br />
+<strong>Where:</strong> Auditorium Maximum of the Jagiellonian University, Kraków, Details unknown</p>
+</div>
+<div id="abstract" class="section level3">
+<h3>Abstract</h3>
+<p>In general, scientific scripting languages are the best interface for archaeologists to translate research questions into a machine-readable and executable form for quantitative analysis. For every step of data processing – data acquisition, analysis and presentation – there are high-quality software frameworks that enable fast, elegant, human-readable and reproducible coding. And yet, script languages are still not widely used! One of the main reason for this is the often steep learning curve. An important goal of the proposed Special Interest Group on Scientific Scripting Languages in Archaeology (SIG SSLA) is to provide guidance on how to overcome this obstacle.</p>
+<p>In our experience practice is the only way to learn to programme effectively. Therefore, this workshop will be a small archaeological hackathon for experienced and very new users of scripting languages like R, Python, SQL or JavaScript. The registered participants are divided into small groups of three to four people, who are interested in the same programming language but have different knowledge and skill level. These groups are equipped with both a simple archaeological data set and a catalogue of analytical questions. In order to be successful in the competition the groups must find good answers to the questions asked using the scripting language of their choice and elaborate them. A jury selects the winner according to the criteria: correctness, reproducibility, readability, shortness and computation speed.</p>
+<p>The competition data set will contain information on different data scales as well as spatial information – a typical archaeological compilation that does not require any special or prior knowledge for a general understanding. The questions range from simple counting and sorting operations to standard pivot tables and descriptive statistics to demanding tasks such as the application of multivariate analyses or spatial queries. They are designed to reflect the typical requirements of everyday research. Additionally, an important recurring and intermediate task will be data visualisation using graphs and maps. Neither the data set nor the questions are provided in advance to ensure spontaneous and creative work on the spot.</p>
+<p>The hackathon has a twofold aim of being fun and encouraging as well as challenging and instructive. These are the core values of the proposed SIG SSLA. New users learn strategies and concrete methods to tackle the common problems of computational data analysis in archaeology using the powerful toolset the different scripting languages provide. More experienced users are challenged to write good and clean code in a short time and share their knowledge with newcomers. The group formation process is inspired by the concept of an unconference and is intended to disrupt established hierarchies and exclusive interaction patterns of academic research that continue in small areas such as archaeology.</p>
+<p>This workshop will last 3.5 hours, with the actual group work phase lasting 3 hours. The winner of the competition will be announced and honoured at the CAA General Assembly in the context of the official proposal for the SIG SSLA. The scripts produced during the competition will then be distributed online.</p>
+<p>The participants should bring their own computer with their favourite development environment installed.</p>
+<p>The workshop is organized by the ISAAKiel group (Initiative for Statistical Analysis in Archaeology Kiel: <a href="https://isaakiel.github.io/" class="uri">https://isaakiel.github.io/</a>).</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

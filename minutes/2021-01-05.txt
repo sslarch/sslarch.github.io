@@ -1,0 +1,44 @@
+Protocol Meeting 2021-01-05
+===========================
+9(+1?) ppl attended
+
+## Organisational issues
+
+- Twitter account
+  - @SIG_SSLA <- follow me on https://twitter.com/CAA_SSLA
+  - The (first) twitter crew consists of the following members: Sophie Schmidt, Zack Batist, Martin Hinz
+  - The crew shares the password and is actively using the account according to our twitter guidelines (https://github.com/sslarch/sslarch.github.io/blob/master/twitter_guidelines.md)
+  - Input for the twitter channel can be shared on the respective Slack channel
+- Experiences and opinions on Slack
+  - Everybody seems to be happy with the chat's setup for now
+- Logo
+  - Final poll among the most popular drafts
+    - 3: I
+    - 6: II
+    - 7: IIII <- !
+    - 9: I
+  - Logo number 7 of the draft collection becomes the new SIG-SSLA logo
+  - Clemens Schmid will clean up the logo repository (https://github.com/sslarch/logo) and prepare rendered versions for easy use
+
+## Upcoming conferences, meetings and sessions
+
+- CAA2021 Workshop
+  - Sophie, Petr and Clemens submitted a workshop as a type "other" session
+  - The interaction of the two sessions could be very interesting: The workshop can prepare or work with important concepts discussed in the second session
+- Any other conferences or meetings?
+  - EAA2021: Call for sessions is open. There should be some CAA@EAA sessions that could be interesting for your papers
+  - EAA could generally be a worthwile target for a future session organised by the SIG SSLA
+  - Reproducible Quantitative Research in Archaeology: Doing Open Science Archaeology (using R) - Ben Marwick, David Matzig, Felix Riede, Sophie Schmidt Sophie (https://www.hf.uio.no/iakh/english/research/dialogues-with-the-past/courses/reproducible-quantitative-research-in-archaeology-.html)
+  - Winter School: R for Archaeologists - Francesco Carrer, Joe Row (http://www.mappaproject.org/r4rchaeologists/)
+  - The World Archaeological Congress (https://www.wac-9.org/) was postponed (Covid-19)
+
+## Open exchange about activities and software updates
+
+- OpenArchao (https://open-archaeo.info/) was greatly improved thanks to Joe Roe and Zack Batist. The data needs constant updating though - everybody can join here!
+- Similar to OpenArchaeo, the SIG-SSLA could provide an open repository for conferences and workshops. Martin Hinz will come up with an implementation idea for the next meeting
+- Uncommented: https://merely-useful.github.io/py-rse/index.html
+- Some open discussion about new developments regarding spatial data manipulation in R
+  - stars package: spatiotemporal data handling with potentially interesting features for archaeology (https://r-spatial.github.io/stars)
+  - terra package: the future replacement of the raster package? (https://github.com/rspatial/terra)
+
+## Next meeting: February 2, 2021

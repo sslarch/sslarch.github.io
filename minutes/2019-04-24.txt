@@ -1,0 +1,47 @@
+Protocol of the Roundtable Discussion on Scientific Scripting Languages in Archaeology
+2019-04-24, 16:00-18:00
+
+
+Introductory Statements
+
+Martin Hinz: Stay DRY! Why scientific scripting speeds up research, fosters more interesting science and helps save taxpayers money.
+
+Lizzy Scholtus: Scripting languages community: an important tool to develop the existence of these techniques
+
+Joe Roe: The boundary between "scientific programming" and "software development"
+
+Iza Romanowska: Who are Research Software Engineers and why should we care?
+
+Clemens Schmid: (Don't Fear) The Reaper. A SIG as long term software maintenance network?
+
+
+Aims and objectives 
+    • develop guide lines / code of conduct for everyone: ask for code if reviewing or reject review, license code, readme files, cite packages, DOI code
+    • lobby for institutional support to make data scientists as important and recognized as a ceramic specialist , make code equal to publication (which means it will need a review system) – Research Software Engineers are not technicians 
+    • improve other people’s code and technology literacy (build modules for software carpentry? Give workshops? Make online courses available / visible to the archaeological community? searchable index for software / code etc used by archaeologists?) 
+    • focus on teaching – how to integrate coding into the basic archaeological curriculum
+    • lobby for diversity (women, POC etc can code just as well)
+    • develop agenda and research questions that can be answered with digital tools / coding
+    • lobby for transparency and reproducibility for good scientific and archaeological research
+Long term goals
+    • Develop structures similar to rOpenSci project (offer code review if you want your code reviewed, maintain software)
+    • Journal for archaeological software
+    • Salvage old code or at least put together a list of code that be good to save
+
+Infrastructure
+    • We will bid for a CAA SIG next year in Oxford
+        ◦ bid document needs to be submitted 2months before next AGM (no special guidelines)
+        ◦ members don’t need to stay in the CAA 
+        ◦ we can start working right now (“in preperation for the CAA SIG to be created”)
+    • Website (sslarch.github.io) (maintained by Joe and Iza) shall include
+            ▪ code of conduct, pointers to teaching / guide lines already existing 
+            ▪ list of names and list of software (and software to be salvaged) (tags should be standardized)
+            ▪ events
+            ▪ zotero / bibliography
+    • Github
+        ◦ create an issue to decide on name of SIG: Reproducible research in arch? Scientific scripting languages in arch? R in the title? What about SQL/ GIS … -stuff?
+    • Mailing list / google group
+        ◦ Already in place: sig.sci.script.arch@gmail.com 
+Long term ideas:
+    • Create task groups for different topics and list people with skills to find each other
+    • EU Cost funding for networking
