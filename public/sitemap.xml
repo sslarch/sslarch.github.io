@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sslarch.github.io/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sslarch.github.io/sessions/caa2020/hackathonii/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sslarch.github.io/sessions/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sslarch.github.io/sessions/caa2019/hackathon/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sslarch.github.io/sessions/caa2019/round_table/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sslarch.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sslarch.github.io/tags/</loc>
+  </url>
+  
+</urlset>

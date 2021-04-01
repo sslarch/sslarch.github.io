@@ -1,0 +1,28 @@
+{{ define "main" }}
+    <h1 id="{{ .Title | urlize }}">{{ .Title | markdownify }}</h1>
+
+    {{ .Content }}
+
+    {{ range (.Pages.GroupByParam "group").Reverse }}
+    <h2 id="{{ .Key | urlize }}">
+        {{ .Key | markdownify }}
+    </h2>
+
+    <div class="members">
+        {{ range .Pages.ByParam "role_level" }}
+        <div class="member">
+            <h3 class="member__id">
+                {{ .Title | markdownify }}
+                <p class="member__role">{{ .Params.role }}</p>
+            </h3>
+            <ul class="member__details">
+                <li><i class="fab fa-github"></i>&nbsp;<a href="https://github.com/{{ .Params.github }}">{{ .Params.github }}</a></li>
+                <li><i class="ai ai-orcid"></i>&nbsp;<a href="https://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>
+                <li><i class="fa fa-code"></i>&nbsp;{{ .Params.languages }}</li>
+            </ul>
+        </div>
+        {{ end }}
+    </div>
+
+    {{ end }}
+{{ end }}
