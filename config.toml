@@ -1,5 +1,4 @@
-#baseURL = "https://sslarch.github.io/"
-baseURL = "http://joeroe.io/sslarch.github.io/"
+baseURL = "https://sslarch.github.io/"
 theme = "risotto"
 title = "CAA/SSLA"
 author = "CAA SSLA"
