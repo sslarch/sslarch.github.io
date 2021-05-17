@@ -3,24 +3,6 @@ title: "Roundtable"
 date: 2019-04-24
 conference: CAA
 ---
-<div class = "ascii_art_wrapper">
-<div class = "ascii_art">
-
-```
- ______         ______       ______         _____  
-||     |       |      |     |      |       |     ||
-||_ I  |__     |  II  |     |  IV  |     __| III_||
-|__()____()   ()______()   ()______()   ()____()__|
-|__||____||   ||______||   ||______||   ||____||__|
-W   W    W     W      W     W      W     W    W   W
-
-
-
-
-```
-<!-- Inspiration: http://ascii.co.uk/art/chair -->
-</div>
-</div>
 
 ## [S03](https://ocs.caaconference.org/index.php?conference=caa&schedConf=CAA2019&page=schedConf&op=trackPolicies#track3) Roundtable Scientific Scripting Languages in Archaeology - Limits and Opportunities of Open Research
 

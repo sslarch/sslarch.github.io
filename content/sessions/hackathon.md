@@ -3,24 +3,6 @@ title: "Hackathon I"
 date: 2019-04-23
 conference: CAA
 ---
-<div class = "ascii_art_wrapper">
-<div class = "ascii_art">
-
-```
-,---------------------------------------------------,
-| [] [][][][] [][][][][] [][][][]  [][][]  [][][][] |
-|                                                   |
-| [][][][][][][][][][][][][][<- ]  [][][]  [][][][] |
-| [__][A][S][][][][][][][][L][  ]          [][][][] |
-| [__][][][][][][][][][][][][___]    []    [][][]|| |
-| [_][][][______________][_][][_]  [][][]  [__][]|| |
-`---------------------------------------------------'
-
-
-```
-<!-- Inspiration: http://ascii.co.uk/art/computer -->
-</div>
-</div>
 
 ## [W4](https://2019.caaconference.org/workshops/w4-caa-scripting-languages-hackathon-i-can-you-code-this/) CAA Scripting Languages Hackathon I – Can you code this?
 

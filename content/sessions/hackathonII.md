@@ -3,24 +3,6 @@ title: "Hackathon II"
 date: 2020-06-01
 conference: CAA
 ---
-<div class = "ascii_art_wrapper">
-<div class = "ascii_art">
-
-```
-,---------------------------------------------------,
-| [] [][][][] [][][][][] [][][][]  [][][]  [][][][] |
-|                                                   |
-| [][][][][][][][][][][][][][<- ]  [][][]  [][][][] |
-| [__][A][S][][][][][][][][L][  ]          [][][][] |
-| [__][][][][][][][][][][][][___]    []    [][][]|| |
-| [_][][][______________][_][][_]  [][][]  [__][]|| |
-`---------------------------------------------------'
-
-
-```
-<!-- Inspiration: http://ascii.co.uk/art/computer -->
-</div>
-</div>
 
 ## [S27](https://2020.caaconference.org/sessions/#header-text-1569420700855) CAA Scripting Languages Hackathon II – Unconference!
 
