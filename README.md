@@ -42,8 +42,13 @@ To preview more complex changes before submitting a pull request, [fork](https:/
 ```shell
 git clone --recursive https://github.com/<username>/sslarch.github.io
 ```
-
 The `--recursive` flag ensures that you also get the [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) containing the site's theme.
+
+If you already have a clone, but without the submodule you can run
+
+```shell
+git pull && git submodule init && git submodule update && git submodule status
+```
 
 You will need to have [hugo installed](https://gohugo.io/getting-started/installing/) to build the site.
 Use `hugo serve` to preview your changes live.
