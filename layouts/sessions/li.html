@@ -1,0 +1,5 @@
+<li>
+    <span class="meta">{{ .Params.conference }}</span>
+    <span class="meta">{{ .Date.Format "2006" }}</span>
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+</li>

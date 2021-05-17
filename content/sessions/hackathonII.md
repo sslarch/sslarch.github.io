@@ -1,6 +1,7 @@
 ---
 title: "Hackathon II"
-date: 2019-10-20
+date: 2020-06-01
+conference: CAA
 ---
 <div class = "ascii_art_wrapper">
 <div class = "ascii_art">
