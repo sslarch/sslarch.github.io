@@ -11,7 +11,7 @@ conference: CAA
 
 ### Organisational information
 
-* **When:** [2021-06-16, 09:50–14:30](https://2021.caaconference.org/programme/)
+* **When:** [2021-06-16, 09:50–14:30](https://2021.caaconference.org/programme/) (UTC)
 * **Where:** Online, Room S (morning), Room P (afternoon)
 
 ### Abstract
