@@ -7,12 +7,12 @@ conference: CAA
 
 ## [S17](https://2021.caaconference.org/sessions/#17) Tools for the Revolution: developing packages for scientific programming in archaeology?
 
-*Joe Roe, Martin Hinz, Clemens Schmid*
+*Organised by Joe Roe, Martin Hinz, and Clemens Schmid*
 
 ### Organisational information
 
-**When:** 2021-06-16, Details unkown    
-**Where:** Online, Details unknown
+* **When:** [2021-06-16, 09:50–14:30](https://2021.caaconference.org/programme/)
+* **Where:** Online, Room S (morning), Room P (afternoon)
 
 ### Abstract
 
@@ -33,18 +33,12 @@ We invite technical or theoretical papers on:
 - general concepts in package development as applied to archaeology (e.g. user interface design, unit testing, continuous integration, software peer review)
 - new packages or significant updates to existing ones
 
-The session is aimed at both developers, users, and prospective users of scientific programming languages in archaeology.
+The session is aimed at both developers, users, and prospective users of scientific programming languages in archaeology. The SIG is also organising a [companion workshop on R package development](/sessions/workshopi/) for beginners.
 
-A companion workshop on package development for beginners is also planned.
+#### References
 
-References:
-
-Aldenderfer, Mark. 1998. “Quantitative Methods in Archaeology: A Review of Recent Trends and Developments.” Journal of Archaeological Research 6 (2): 91–120.
-
-Baxter, Rob, N Chue Hong, Dirk Gorissen, James Hetherington, and Ilian Todorov. 2012. “The Research SoftwareEngineer.” In Digital Research 2012, Oxford.
-
-Kintigh, Keith W. 1987. “Quantitative Methods Designed for Archaeological Problems.” In Quantitative Research in Archaeology: Progress and Prospects, edited by Mark S Aldenderfer, 126–34. Newbury Park, CA: Sage.
-
-Kristiansen, Kristian. 2014. “Towards a New Paradigm: The Third Science Revolution and Its Possible Consequences in Archaeology.” Current Swedish Archaeology 22 (4): 11–34.
-
-Schmidt, Sophie C, and Ben Marwick. 2020. “Tool-Driven Revolutions in Archaeological Science.” Journal of Computer Applications in Archaeology 3 (1): 18–32. https://doi.org/10.5334/jcaa.29.
+* Aldenderfer, Mark. 1998. "Quantitative Methods in Archaeology: A Review of Recent Trends and Developments." *Journal of Archaeological Research* 6 (2): 91–120.
+* Baxter, Rob, N Chue Hong, Dirk Gorissen, James Hetherington, and Ilian Todorov. 2012. "The Research Software Engineer." In *Digital Research 2012*, Oxford.
+* Kintigh, Keith W. 1987. "Quantitative Methods Designed for Archaeological Problems." In *Quantitative Research in Archaeology: Progress and Prospects*, edited by Mark S Aldenderfer, 126–34. Newbury Park, CA: Sage.
+* Kristiansen, Kristian. 2014. "Towards a New Paradigm: The Third Science Revolution and Its Possible Consequences in Archaeology." *Current Swedish Archaeology* 22 (4): 11–34.
+* Schmidt, Sophie C, and Ben Marwick. 2020. "Tool-Driven Revolutions in Archaeological Science." *Journal of Computer Applications in Archaeology* 3 (1): 18–32. https://doi.org/10.5334/jcaa.29.
