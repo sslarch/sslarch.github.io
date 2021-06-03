@@ -35,10 +35,24 @@ We invite technical or theoretical papers on:
 
 The session is aimed at both developers, users, and prospective users of scientific programming languages in archaeology. The SIG is also organising a [companion workshop on R package development](/sessions/workshopi/) for beginners.
 
-#### References
+### Presentations
+
+* Clemens Schmid, Ayshin Ghalichi, Wolfgang Haak, and Stephen Schiffels, *Poseidon - A toolbox for archaeogenetic data management*
+* Eythan Levy, Gilles Geeraerts, and Frédéric Pluquet, *CHRONOLOG: a tool for computer-assisted chronological research*
+* Ben Marwick, *Digital Ecosystems in Archaeological Science: A History and Taxonomy of R packages in Archaeology*
+* David N. Matzig and Felix Riede, *outlineR: An R package to derive outline shapes from (multiple) artefacts on JPEG images*
+* Philip K. Fayad, Matteo Serpetti, and Stefano De Angeli, *An open-source approach for the vulnerability assessment of archaeological deposits using GPR data in QGIS environment*
+* Craig Alexander, Jose Pozo, and Thomas Huet, *Managing and analysing pictorial documentation with GIS and graphs*
+* Zachary Batist and Joe Roe, *Open archaeology: a survey of collaborative software engineering in archaeological research*
+
+### References
 
 * Aldenderfer, Mark. 1998. "Quantitative Methods in Archaeology: A Review of Recent Trends and Developments." *Journal of Archaeological Research* 6 (2): 91–120.
 * Baxter, Rob, N Chue Hong, Dirk Gorissen, James Hetherington, and Ilian Todorov. 2012. "The Research Software Engineer." In *Digital Research 2012*, Oxford.
 * Kintigh, Keith W. 1987. "Quantitative Methods Designed for Archaeological Problems." In *Quantitative Research in Archaeology: Progress and Prospects*, edited by Mark S Aldenderfer, 126–34. Newbury Park, CA: Sage.
 * Kristiansen, Kristian. 2014. "Towards a New Paradigm: The Third Science Revolution and Its Possible Consequences in Archaeology." *Current Swedish Archaeology* 22 (4): 11–34.
 * Schmidt, Sophie C, and Ben Marwick. 2020. "Tool-Driven Revolutions in Archaeological Science." *Journal of Computer Applications in Archaeology* 3 (1): 18–32. https://doi.org/10.5334/jcaa.29.
+
+### Links
+
+* [Session GitHub repository](https://github.com/sslarch/caa2021_packages)
