@@ -11,7 +11,7 @@ conference: CAA
 
 ### Organisational information
 
-* **When:** [2021-06-16, 09:50–14:30](https://2021.caaconference.org/programme/) (UTC)
+* **When:** [2021-06-16, 09:50–12:20](https://2021.caaconference.org/programme/) (UTC)
 * **Where:** Online, Room S (morning), Room P (afternoon)
 
 ### Abstract
@@ -37,13 +37,13 @@ The session is aimed at both developers, users, and prospective users of scienti
 
 ### Presentations
 
-* Clemens Schmid, Ayshin Ghalichi, Wolfgang Haak, and Stephen Schiffels, *Poseidon - A toolbox for archaeogenetic data management*
-* Eythan Levy, Gilles Geeraerts, and Frédéric Pluquet, *CHRONOLOG: a tool for computer-assisted chronological research*
-* Ben Marwick, *Digital Ecosystems in Archaeological Science: A History and Taxonomy of R packages in Archaeology*
-* David N. Matzig and Felix Riede, *outlineR: An R package to derive outline shapes from (multiple) artefacts on JPEG images*
-* Philip K. Fayad, Matteo Serpetti, and Stefano De Angeli, *An open-source approach for the vulnerability assessment of archaeological deposits using GPR data in QGIS environment*
-* Craig Alexander, Jose Pozo, and Thomas Huet, *Managing and analysing pictorial documentation with GIS and graphs*
-* Zachary Batist and Joe Roe, *Open archaeology: a survey of collaborative software engineering in archaeological research*
+* Clemens Schmid, Ayshin Ghalichi, Wolfgang Haak, and Stephen Schiffels, *[Poseidon - A toolbox for archaeogenetic data management](https://github.com/sslarch/caa2021_packages/raw/main/papers/P087.pdf)*
+* David N. Matzig and Felix Riede, *[outlineR: An R package to derive outline shapes from (multiple) artefacts on JPEG images](https://github.com/sslarch/caa2021_packages/raw/main/papers/P116.pdf)*
+* Eythan Levy, Gilles Geeraerts, and Frédéric Pluquet, *[CHRONOLOG: a tool for computer-assisted chronological research](https://github.com/sslarch/caa2021_packages/raw/main/papers/P091.pdf)*
+* Philip K. Fayad, Matteo Serpetti, and Stefano De Angeli, *[An open-source approach for the vulnerability assessment of archaeological deposits using GPR data in QGIS environment](https://github.com/sslarch/caa2021_packages/blob/main/papers/P148.pdf)*
+* Craig Alexander, Jose Pozo, and Thomas Huet, *[Managing and analysing pictorial documentation with GIS and graphs](https://github.com/sslarch/caa2021_packages/raw/main/papers/P150.pdf)*
+* Ben Marwick, *[Digital Ecosystems in Archaeological Science: A History and Taxonomy of R packages in Archaeology](https://github.com/sslarch/caa2021_packages/raw/main/papers/P108.pdf)*
+* Zachary Batist and Joe Roe, *[Open archaeology: a survey of collaborative software engineering in archaeological research](https://github.com/sslarch/caa2021_packages/raw/main/papers/P241.pdf)*
 
 ### References
 
@@ -56,3 +56,4 @@ The session is aimed at both developers, users, and prospective users of scienti
 ### Links
 
 * [Session GitHub repository](https://github.com/sslarch/caa2021_packages)
+* [CAA2021 session list](https://2021.caaconference.org/sessions/#17)
