@@ -76,12 +76,12 @@ a:hover, a:active {
 
 /* Lists */
 ul {
-    margin: 1rem 0;
+    margin: 0 0 1.5rem 0;
     padding-left: 1.25rem;
 }
 
 ol {
-    margin: 1rem 0;
+    margin: 0 0 1.5rem 0;
     padding-left: 1.75rem;
 }
 
@@ -93,7 +93,7 @@ ol ol {
 }
 
 ul li::marker {
-    content: '∗ ';
+    content: '∗\00A0';
     color: var(--bright-bg);
 }
 
@@ -101,10 +101,28 @@ ol li::marker {
     color: var(--bright-bg);
 }
 
+dt {
+  margin: 0;
+  font-weight: bold;
+}
+
+dd {
+  margin: 0 0 0 1.5rem;
+  font-style: italic;
+}
+
+dd + dt {
+  margin-top: 1.5rem;
+}
+
+dl {
+  margin: 0 0 1.5rem 0;
+}
+
 /* Blockquotes */
 blockquote {
     position: relative;
-    margin-left: 1.5rem;
+    margin: 0 0 1.5rem 1.5rem;
 }
 
 blockquote::before {
@@ -123,11 +141,17 @@ blockquote::before {
 /* Code */
 pre,
 code, 
-kbd {
-    overflow-x: scroll;
-    background: var(--dark-bg);
+kbd,
+samp {
+    background: var(--dark-bg) !important;
     font-family: var(--font-monospace);
     color: var(--bright-bg);
+}
+
+pre {
+    overflow-x: auto;
+    padding: 1.5rem;
+    margin: 0 0 1.5rem 0;
 }
 
 /* Emphasis */
@@ -146,6 +170,7 @@ mark {
 /* Other typographic elements */
 hr {
     border: 0;
+    margin-bottom: 1.5rem;
 }
 
 hr:after {
@@ -153,3 +178,31 @@ hr:after {
     color: var(--bright-bg);
 }
 
+
+/* Prevent super/sub from affecting line height */
+sup, sub {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.25rem;
+    font-size: unset;
+}
+sub { 
+    top: 0.25rem; 
+}
+
+/* Tables */
+table {
+    border-spacing: 0;
+    margin: 0 0 1.5rem 0;
+    overflow-wrap: anywhere;
+}
+th, td {
+    padding: 0 .75rem;
+    vertical-align: top;
+}
+th:first-child, td:first-child {
+    padding-left: 0;
+}
+th {
+    text-align: inherit;
+}
