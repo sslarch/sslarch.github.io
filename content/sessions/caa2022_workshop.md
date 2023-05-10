@@ -1,21 +1,23 @@
 ---
-title: "Workshop II"
+title: "How to navigate the coding archaeology world: an introduction to scientific co-creation using Git and Github"
+sessionType: workshop
 date: 2022-08-08
 publishDate: 2022-08-11
-conference: CAA
+conference: CAA 2022, Oxford
+conferenceUrl: https://2022.caaconference.org
+sessionCode: W2
+organisers:
+- Sophie Schmidt
+- Clemens Schmid
+- Florian Thiery
+aliases: [ workshopii ]
 ---
-
-## How to navigate the coding archaeology world: An introduction to scientific co-creation using Git and Github
-
-*Sophie Schmidt, Clemens Schmid, Florian Thiery*
-
-### Organisational information
 
 **When:** 2022-08-08, 15:30 - 17:00 BTS  
 **Where:** Online and in person, Lecture Theatre at the School of Archaeology (1 South Parks Road, Oxford, OX1 3TG) 
-**Workshop repository**: https://github.com/sslarch/caa2022_GitGitHub_workshop
 
-### Abstract
+
+## Abstract
 
 The archaeological community is moving beyond the traditional modes of scientific communication, such as research papers, monographs and conference talks, and interacts online on a daily basis. Especially for archaeologists, who use and develop advanced, computational tools, a new kind of platform increasingly extends mailing lists and social media here, and has proven invaluable for collaborative work: Version control systems to develop, share and test manuscripts, figures and code.
 
@@ -34,5 +36,5 @@ We will close with a real-world example from the Linked Open Data community – 
 
 The workshop will be online and open for up to 18 participants without any prior knowledge. It should be streamed, so non-participants can follow along. We ask participants to submit a very short motivational statement with their current knowledge on the subject instead of an abstract.
 
-
-
+## Links
+* [GitHub repository](https://github.com/sslarch/caa2022_GitGitHub_workshop)

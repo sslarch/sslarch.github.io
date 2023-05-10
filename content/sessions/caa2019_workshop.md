@@ -1,19 +1,21 @@
 ---
-title: "Hackathon I"
+title: Hackathon I – Can you code this?
+sessionType: workshop
 date: 2019-04-23
-conference: CAA
+conference: CAA 2019, Kraków
+conferenceUrl: https://2019.caaconference.org
+sessionCode: W4
+organisers:
+- Clemens Schmid
+- Martin Hinz
+- Carolin Tietze
+aliases: [ hackathon ]
 ---
 
-## [W4](https://2019.caaconference.org/workshops/w4-caa-scripting-languages-hackathon-i-can-you-code-this/) CAA Scripting Languages Hackathon I – Can you code this?
+**When:** 2019/04/23  
+**Where:** Auditorium Maximum of the Jagiellonian University
 
-*Clemens Schmid, Martin Hinz, Carolin Tietze*
-
-### Organisational information
-
-**When:** 2019/04/23, Details unkown    
-**Where:** Auditorium Maximum of the Jagiellonian University, Kraków, Details unknown
-
-### Abstract
+## Abstract
 
 In general, scientific scripting languages are the best interface for archaeologists to translate research questions into a machine-readable and executable form for quantitative analysis. For every step of data processing – data acquisition, analysis and presentation – there are high-quality software frameworks that enable fast, elegant, human-readable and reproducible coding. And yet, script languages are still not widely used! One of the main reason for this is the often steep learning curve. An important goal of the proposed Special Interest Group on Scientific Scripting Languages in Archaeology (SIG SSLA) is to provide guidance on how to overcome this obstacle.
 

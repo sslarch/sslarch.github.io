@@ -1,20 +1,22 @@
 ---
-title: "Session I"
+title: "Tools for the Revolution: developing packages for scientific programming in archaeology"
+sessionType: session
 date: 2021-06-16
 publishDate: 2021-05-17
-conference: CAA
+conference: "CAA 2021, Cyprus (Virtual)"
+conferenceUrl: https://2021.caaconference.org
+sessionCode: S17
+organisers:
+- Joe Roe
+- Martin Hinz
+- Clemens Schmid
+aliases: [ sessioni ]
 ---
 
-## [S17](https://2021.caaconference.org/sessions/#17) Tools for the Revolution: developing packages for scientific programming in archaeology?
+**When:** [2021-06-16, 09:50–12:20](https://2021.caaconference.org/programme/) (UTC)  
+**Where:** Online, Room S (morning), Room P (afternoon)
 
-*Organised by Joe Roe, Martin Hinz, and Clemens Schmid*
-
-### Organisational information
-
-* **When:** [2021-06-16, 09:50–12:20](https://2021.caaconference.org/programme/) (UTC)
-* **Where:** Online, Room S (morning), Room P (afternoon)
-
-### Abstract
+## Abstract
 
 The increasing use of scientific programming languages (e.g. R or Python) is transforming the practice of quantitative archaeology. This “tool-driven revolution” (Schmidt and Marwick 2020) promises to greatly improve the accessibility, power, and reproducibility of computational analyses. It is a core component of the “Third Science Revolution” (Kristiansen 2014), which has major theoretical and practical implications for the discipline of archaeology as a whole.
 
@@ -35,7 +37,7 @@ We invite technical or theoretical papers on:
 
 The session is aimed at both developers, users, and prospective users of scientific programming languages in archaeology. The SIG is also organising a [companion workshop on R package development](/sessions/workshopi/) for beginners.
 
-### Presentations
+## Presentations
 
 * Clemens Schmid, Ayshin Ghalichi, Wolfgang Haak, and Stephen Schiffels, *[Poseidon - A toolbox for archaeogenetic data management](https://github.com/sslarch/caa2021_packages/raw/main/papers/P087.pdf)*
 * David N. Matzig and Felix Riede, *[outlineR: An R package to derive outline shapes from (multiple) artefacts on JPEG images](https://github.com/sslarch/caa2021_packages/raw/main/papers/P116.pdf)*
@@ -45,7 +47,7 @@ The session is aimed at both developers, users, and prospective users of scienti
 * Ben Marwick, *[Digital Ecosystems in Archaeological Science: A History and Taxonomy of R packages in Archaeology](https://github.com/sslarch/caa2021_packages/raw/main/papers/P108.pdf)*
 * Zachary Batist and Joe Roe, *[Open archaeology: a survey of collaborative software engineering in archaeological research](https://github.com/sslarch/caa2021_packages/raw/main/papers/P241.pdf)*
 
-### References
+## References
 
 * Aldenderfer, Mark. 1998. "Quantitative Methods in Archaeology: A Review of Recent Trends and Developments." *Journal of Archaeological Research* 6 (2): 91–120.
 * Baxter, Rob, N Chue Hong, Dirk Gorissen, James Hetherington, and Ilian Todorov. 2012. "The Research Software Engineer." In *Digital Research 2012*, Oxford.
@@ -53,7 +55,7 @@ The session is aimed at both developers, users, and prospective users of scienti
 * Kristiansen, Kristian. 2014. "Towards a New Paradigm: The Third Science Revolution and Its Possible Consequences in Archaeology." *Current Swedish Archaeology* 22 (4): 11–34.
 * Schmidt, Sophie C, and Ben Marwick. 2020. "Tool-Driven Revolutions in Archaeological Science." *Journal of Computer Applications in Archaeology* 3 (1): 18–32. https://doi.org/10.5334/jcaa.29.
 
-### Links
+## Links
 
 * [Session GitHub repository](https://github.com/sslarch/caa2021_packages)
 * [CAA2021 session list](https://2021.caaconference.org/sessions/#17)

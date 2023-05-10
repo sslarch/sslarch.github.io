@@ -1,20 +1,22 @@
 ---
-title: "Roundtable"
+title: Scientific Scripting Languages in Archaeology – Limits and Opportunities of Open Research
+sessionType: roundtable
 date: 2019-04-24
-conference: CAA
+conference: CAA 2019, Kraków
+conferenceUrl: https://2019.caaconference.org
+sessionCode: S03
+organisers:
+- Martin Hinz
+- Clemens Schmid
+- Sophie Schmidt
+aliases: [ round_table ]
 ---
-
-## [S03](https://ocs.caaconference.org/index.php?conference=caa&schedConf=CAA2019&page=schedConf&op=trackPolicies#track3) Roundtable Scientific Scripting Languages in Archaeology - Limits and Opportunities of Open Research
-
-*Martin Hinz, Clemens Schmid, Sophie Schmidt*
-
-### Organisational information
 
 **When:** 2019/04/24, 16:00-18:00  
 **Where:** Auditorium Maximum of the Jagiellonian University, Kraków, seminar room, level 2
 [**Here you may find the protocol**](protocols/2019-04-24.txt)
 
-### Discussants
+## Discussants
 
 [Martin Hinz](https://twitter.com/martinusrihhi) (University of Bern)  
 [Joe Roe](https://twitter.com/joeroe90) (University of Copenhagen)  
@@ -23,7 +25,7 @@ conference: CAA
 [Clemens Schmid](https://twitter.com/nevromecs) (Römisch-Germanisches Zentralmuseum Mainz)  
 [Lizzie Scholtus](https://twitter.com/scholtuslizzie) (University of Strasbourg)  
 
-### Abstract
+## Abstract
 
 At last year's CAA, during the session on R in Archaeology, a suggestion was made to set up a Special Interest Group on Scientific Scripting Languages in Archaeology (SIG SSLA). We would like to comply with this proposal at this year's CAA. We would also like to take advantage of the forum to discuss the SIG's goals and agenda in a round table. 
 

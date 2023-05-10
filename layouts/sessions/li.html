@@ -1,5 +1,4 @@
 <li>
-    <span class="meta">{{ .Params.conference }}</span>
-    <span class="meta">{{ .Date.Format "2006" }}</span>
+    <span class="meta">{{ .Params.sessionType | humanize }}</span>:
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
 </li>

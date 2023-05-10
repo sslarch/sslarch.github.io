@@ -1,12 +1,15 @@
 ---
-title: "Hackathon II"
+title: Hackathon II – Unconference!
+sessionType: session
 date: 2020-06-01
-conference: CAA
+conference: CAA 2020 (cancelled)
+conferenceUrl: https://202.caaconference.org
+sessionCode: S27
+organisers:
+- Clemens Schmid
+- Martin Hinz
+aliases: [ hackathonii ]
 ---
-
-## [S27](https://2020.caaconference.org/sessions/#header-text-1569420700855) CAA Scripting Languages Hackathon II – Unconference!
-
-*Clemens Schmid, Martin Hinz*
 
 **Update: As CAA2020 is [not going to take place](https://caa-international.org/2020/06/11/caa-2020-cancelled/) this session will not happen either. We will think about the concept and may resubmit for CAA 2021.**
 

@@ -1,18 +1,22 @@
 ---
-title: "Session II"
+title: Workflows and experiences on collaborative working and community building using digital tools
+sessionType: session
 date: 2022-08-11
 publishDate: 2022-08-11
-conference: CAA
+conference: CAA 2022, Oxford
+conferenceUrl: https://2022.caaconference.org
+sessionCode: S15
+organisers:
+- Martin Hinz
+- Florian Thiery
+- Sophie C. Schmidt
+aliases: [ sessionii ]
 ---
 
-## [S15 Workflows and experiences on collaborative working and community building using digital tools](https://2022.caaconference.org/programme/)
+**When:** [2022-08-11, 15:30-17:00 BST](https://2022.caaconference.org/programme/)  
+**Where:** Online and Room 11 Examination Schools, 75-81 The High Street, Oxford, OX1 4BG
 
-### Organisational information
-
-* **When:** [2022-08-11, 15:30-17:00 BST](https://2022.caaconference.org/programme/) 
-* **Where:** Online and Room 11 Examination Schools, 75-81 The High Street, Oxford, OX1 4BG
-
-### Abstract
+## Abstract
 
 For a long time now, archaeological research has not been conducted by individual researchers who come up with brilliant theories in their study rooms and investigate them by themselves and on their own terms. It is a fact that no serious scientific research can be conducted without substantial and extensive collaboration.
 
@@ -33,7 +37,7 @@ We invite you to address, but not be limited to, the following questions in a sh
 
 After the presentations an open discussion led by the session chairs is intended to stimulate a further exchange of workflows. Both, this session and a workshop on scientific co-creation using Git and Github are organised by the CAA Special Interest Group for Scientific Scripting Languages in Archaeology in cooperation with the CAA SIG on Semantics and LOUD in Archaeology (Data-Dragon).
 
-### Presentations
+## Presentations
 1. FAIR Phytoliths Project: Working open-source for community benefit (Emma Karoune, Carla Lancelotti, Javier Ruiz-Pérez, Juan José García-Granero, Celine Kerfant and Marco Madella)
 
 2. Preserving Syrian heritage sites via technology (Brittany Delany)
@@ -42,11 +46,9 @@ After the presentations an open discussion led by the session chairs is intended
 
 4. Practically virtual: Experiences from the organisation of the CAA SIG Scientific Scripting Languages in Archaeology (Martin Hinz)
 
-5.. Collaborative writing: Using GitHub as a tool for collaborative writing and community building? (Florian Thiery and Sophie C. Schmidt)
+5. Collaborative writing: Using GitHub as a tool for collaborative writing and community building? (Florian Thiery and Sophie C. Schmidt)
 
 6. Hundreds of lost villages! Use of mobile applications in detection and inventory of abandoned settlements from the former East Prussia (Anna Majewska)
 
 7. Digital tools and methods for sharing knowledge and know-how about flint formations and collect samples between multidisciplinary researchers for prehistoric studies : the return of experience of PCRs “Réseau de lithothèques” and GDR SILEX (Vincent Delvigne, Christophe Tuffery and Paul Fernandes)
-
-Poster: XRONOS: An open repository and curation platform for chronometric data (Joe Roe and Martin Hinz)
 

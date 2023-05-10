@@ -1,20 +1,22 @@
 ---
-title: "Workshop I"
+title: Developing R packages
+sessionType: workshop
 date: 2021-06-14
 publishDate: 2021-05-17
-conference: CAA
+conference: CAA 2021, Cyprus (Virtual)
+conferenceUrl: https://2021.caaconference.org
+sessionCode: S31
+organisers:
+- Sophie C. Schmidt
+- Petr Pajdla
+- Clemens Schmid
+aliases: [ workshopi ]
 ---
 
-## [S31](https://2021.caaconference.org/sessions/#31) Workshop: Developing R packages?
+**When:** 2021-06-14  
+**Where:** Online
 
-*Sophie C. Schmidt, Petr Pajdla, Clemens Schmid*
-
-### Organisational information
-
-**When:** 2021-06-14, Details unkown    
-**Where:** Online, Details unknown
-
-### Abstract
+## Abstract
 
 A growing number of researchers use the scripting language R (R Core Team 2020) for scientific data analysis. Many organise their code in scripts and functions to perform sequences of data manipulation, statistics and visualisation. Sometimes these workflows gain in complexity and it becomes feasible to outsource core components into a dedicated R package. Packages are one of the best ways to make R code reproducible as they provide a well established structure to share functions, data and their documentation with other R-users. The vast numbers of packages by diverse developers on the Comprehensive R Archive Network (CRAN) indicate their popularity in the scientific community and they could very well become a pillar of scientific progress in archaeology (Schmidt and Marwick 2020). Indeed more and more packages are also being developed by and for archaeologists (e.g. http://open-archaeo.info).
 
@@ -35,7 +37,7 @@ Basic topics will include: Package setup, function documentation and development
 
 Basic R knowledge is strongly recommended for the workshop. Software requirements will be announced to registered attendees later.
 
-References:
+## References
 
 R Core Team. 2020. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. https://www.R-project.org/.
 

@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <h1 id="{{ .Title | urlize }}">{{ .Title | markdownify }}</h1>
+
+    {{ .Content }}
+
+    {{ range (.Pages.GroupByParam "conference").Reverse }}
+    <h2>{{ .Key }}</h2>
+    <ul>
+	    {{ range .Pages }}{{ .Render "li" }}{{ end }}
+    </ul>
+    {{ end }}
+
+{{ end }}
