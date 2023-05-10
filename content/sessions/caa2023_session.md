@@ -1,4 +1,8 @@
-# Session III
+---
+title: Session III
+date: 2023-04-05
+conference: CAA
+---
 
 ## S15. Reproducing, Reusing, and Revising Code and Data in Archaeology
 Organised by James R. Allison,
