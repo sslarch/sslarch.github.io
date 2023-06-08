@@ -63,14 +63,3 @@ Thank you for considering this proposal.
 With best regards,
 
 Sophie C. Schmidt, Martin Hinz, Zack Batist and Clemens Schmid
-
-A list of potential future members who have expressed an interest
-
-```{r echo=FALSE}
-supporters <- read.csv("supporters.csv")
-library(knitr)
-library(kableExtra)
-library(magrittr)
-kable(supporters, "latex", booktabs = T) %>% kable_styling(latex_options = c("striped","scale_down"))
-```
-
