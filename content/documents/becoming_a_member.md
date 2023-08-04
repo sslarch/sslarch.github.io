@@ -16,11 +16,11 @@ From here, there are now several ways in which you can integrate yourself and pa
 
 ### Regular Meetings
 
-The most important exchange platform is certainly our regular meeting. Once a month, on the 1st Friday, this takes place between 5-6 p.m. CET on Jitsi at the following address: https://unibe.meet.switch.ch/CAA_SIG_SSLA . Here we discuss the organisational development of our group, the latest software in the field of archaeology, and all other important things concerning our work as a group as well as your work with archaeological data. This is also the right place if you are interested in actively participating in the further development of the group and in contributing ideas and initiatives.
+The most important exchange platform is certainly our regular meeting. Once a month, on the 1st Wednesday, this takes place between 5-6 p.m. CET on Zoom. The link is send around a couple of days before via mailing list and google group. Here we discuss the organisational development of our group, the latest software in the field of archaeology, and all other important things concerning our work as a group as well as your work with archaeological data. This is also the right place if you are interested in actively participating in the further development of the group and in contributing ideas and initiatives.
 
-### Slack Workspace
+### Matrix Server
 
-We also recommend that you join our Slack workspace. To use Slack in general, you would need to register at: https://slack.com. Then you can log in to our workspace: sslarchworkspace.slack.com. It may also make sense to download and install the Slack software. If you have joined the workspace, it would be nice if you could briefly introduce yourself on the #general channel. Besides this channel we also have a channel to ask for help (#help-wanted), a channel where we share current job offers (#jobs), a channel where we share current papers and news (#news-and-papers), a channel to suggest content for our Twitter presence (#twitter), and another one where you can promote your own projects you are proud of (#nerd-bragging). Of course, there is also a channel for all the other important things in life (#random). And you are free to communicate directly with any of the members or create your own channels for specific initiatives and projects.
+We also recommend that you join our Matrix server for chatting. We use https://chat.archaeo.social , which is a general platform for digital and computational archaeologists. There you can be invited to our channel for CAA SSLA. If you have joined the server, it would be nice if you could briefly introduce yourself on the #general channel. We generate sub channels as needed. Most useful is, e. g. the #help-wanted channel, where you can ask questions and someone will surely be able to give advice. And you are free to communicate directly with any of the members or create your own channels for specific initiatives and projects.
 
 ### Members list
 
