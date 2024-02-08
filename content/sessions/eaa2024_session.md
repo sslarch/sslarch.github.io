@@ -1,5 +1,5 @@
 ---
-title: Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks
+title: 'Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks'
 sessionType: session
 date: 2024--08
 conference: EAA 2024, Rome
