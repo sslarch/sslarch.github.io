@@ -23,12 +23,12 @@ Nowadays computer applications as well as statistical and computational approach
 Several initiatives, such as the German National Research Data Infrastructure (NFDI) – especially NFDI4Objects – or the European Open Science Cloud (EOSC), engage with this topic to strengthen the position of Computational Archaeologists and Research Software Engineers, highlight the scientific merit of their work, and ensure researchers receive credit for computational approaches, software development, as well as for writing papers.
 To support this, this session invites contributions dealing with various aspects of Computational Archaeology, but not limited to:
 
-treating source code/software as research data
-presenting a “Little Minion”
-discussing challenges in Computational Archaeology
-advancing new algorithms and statistical/computational analysis methods
-(critical) use of AI, discussing pitfalls and complications
-addressing the divide between FAIR(4RS) principles and practices
-incorporating FAIR(4RS) principles into the teaching curriculum
-discussing approaches concerning problems and solutions to legacy data and software
-making complex statistical and computational methods accessible to main-stream archaeology
+- treating source code/software as research data
+- presenting a “Little Minion”
+- discussing challenges in Computational Archaeology
+- advancing new algorithms and statistical/computational analysis methods
+- (critical) use of AI, discussing pitfalls and complications
+- addressing the divide between FAIR(4RS) principles and practices
+- incorporating FAIR(4RS) principles into the teaching curriculum
+- discussing approaches concerning problems and solutions to legacy data and software
+- making complex statistical and computational methods accessible to main-stream archaeology
