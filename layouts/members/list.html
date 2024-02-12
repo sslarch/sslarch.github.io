@@ -9,16 +9,14 @@
     </h2>
 
     <div class="members">
-        {{ range .Pages.ByParam "role_level" }}
+        {{ range .Pages }}
         <div class="member">
-            <h3 class="member__id">
-                {{ .Title | markdownify }}
-                <p class="member__role">{{ .Params.role }}</p>
-            </h3>
+            <h3 class="member__id">{{ .Title | markdownify }}</h3>
+            {{ with .Params.role }}<p class="member__role">{{ . }}</p>{{ end }}
             <ul class="member__details">
-                <li><i class="fab fa-github"></i>&nbsp;<a href="https://github.com/{{ .Params.github }}">{{ .Params.github }}</a></li>
-                <li><i class="ai ai-orcid"></i>&nbsp;<a href="https://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>
-                <li><i class="fa fa-code"></i>&nbsp;{{ .Params.languages }}</li>
+                <li><i class="fab fa-github" role="img" title="GitHub"></i>&nbsp;<a href="https://github.com/{{ .Params.github }}">{{ .Params.github }}</a></li>
+                <li><i class="ai ai-orcid" role="img" title="ORCiD"></i>&nbsp;<a href="https://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>
+                <li><i class="fa fa-code" role="img" title="Programming languages"></i>&nbsp;{{ .Params.languages }}</li>
             </ul>
         </div>
         {{ end }}

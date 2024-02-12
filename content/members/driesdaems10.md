@@ -1,6 +1,5 @@
 ---
 title: "Dries Daems"
-role: "Member"
 group: "Members"
 github: "DriesDaems10"
 orcid: "0000-0002-644-9013"
