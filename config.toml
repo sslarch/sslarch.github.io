@@ -20,7 +20,7 @@ mode = "dark-mode"
 [params.about]
 title = "Scientific Scripting Languages in Archaeology"
 description = "A special interest group of [CAA International](https://caa-international.org/) dedicated to scientific scripting languages in archaeology."
-logo = "images/sig_ssla_logo.svg"
+logo_image = "images/sig_ssla_logo.svg"
 
 [[params.socialLinks]]
 icon = "fas fa-envelope"
