@@ -1,7 +1,7 @@
 ---
 title: 'Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks'
 sessionType: session
-date: 2024--08
+date: 2024-08-31
 conference: EAA 2024, Rome
 conferenceUrl: https://www.e-a-a.org/eaa2024
 sessionCode: 514
@@ -14,7 +14,7 @@ organisers:
 
 ---
 
-**When**: 2024--08 
+**When**: 2024-08-31
 **Where**: Sapienza University of Rome
 Piazzale Aldo Moro, 5, 00185 Roma RM, Italy
 
