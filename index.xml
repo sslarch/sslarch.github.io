@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>40th regular meeting</title><link>https://sslarch.github.io/minutes/2024-09-04/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-09-04/</guid><description>&lt;p>11 ppl attended&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>41th regular meeting</title><link>https://sslarch.github.io/minutes/2024-10-02/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-10-02/</guid><description>&lt;p>4 ppl attended&lt;/p>
+&lt;h2 id="sig-ssla-projects">SIG-SSLA Projects&lt;/h2>
+&lt;ul>
+&lt;li>Project TFQA:
+&lt;ul>
+&lt;li>&lt;strong>Progress:&lt;/strong> Significant progress has been made, thanks to Jim. He has implemented the first function, which could serve as the foundation for developing this into a complete package. There is a comment in the TFQA repository (Issue #3) with a link to Jim&amp;rsquo;s code.&lt;/li>
+&lt;li>&lt;strong>Next Steps:&lt;/strong> Please review the code and work towards structuring it into a package. Follow the provided example to expand functionality and increase the project&amp;rsquo;s scope.&lt;/li>
+&lt;li>&lt;strong>Task:&lt;/strong> Compile a &amp;ldquo;correlation table&amp;rdquo; comparing functionalities across &lt;strong>Tesselle&lt;/strong>, &lt;strong>base R&lt;/strong>, &lt;strong>TFQA&lt;/strong>, and other relevant packages. This will help us assess what functionality already exists and identify areas for further development.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Project: Session for CAA2025
+&lt;ul>
+&lt;li>&lt;strong>Session Update:&lt;/strong> The session has been accepted, and the Call for Papers (CfP) is expected to be released tomorrow.&lt;/li>
+&lt;li>&lt;strong>Action Item:&lt;/strong> Consider contributing a talk on APIs and DSLs (Domain-Specific Languages) to this session.&lt;/li>
+&lt;li>&lt;strong>Timeline:&lt;/strong> The CfP will likely close at the end of October or early November, so no immediate action is required before our next meeting. Keep the deadline in mind.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Project: Workshop for CAA2025
+&lt;ul>
+&lt;li>&lt;strong>Proposal:&lt;/strong> Sophie has proposed organizing an SSLA workshop or hackathon at CAA 2025, with a focus on advancing TFQA development.&lt;/li>
+&lt;li>&lt;strong>Target Audience:&lt;/strong> This workshop would be aimed at more experienced programmers and would offer a hybrid format, allowing for remote participation for those unable to attend in person in Athens.&lt;/li>
+&lt;li>&lt;strong>Action Item:&lt;/strong> A poll will be posted in the Elements Chat to gauge interest and support for this idea.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Other Topics:
+&lt;ul>
+&lt;li>&lt;strong>Postponed Items:&lt;/strong>
+&lt;ul>
+&lt;li>Discussion on software funding opportunities and the open-access collection has been deferred to the next meeting. Please contribute ideas and materials in the meantime.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>CRAN and OpenArcheo Discussion:&lt;/strong>
+&lt;ul>
+&lt;li>A suggestion emerged during a discussion about CRAN&amp;rsquo;s role. It was proposed that OpenArcheo could benefit from a filter for package language, making it easier to identify R packages not hosted on CRAN, particularly if issues persist with the CRAN Task View for Archaeology.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="next-sig-meeting-wednesday-november-6-2024">Next SIG Meeting: Wednesday, November 6, 2024&lt;/h2></description></item><item><title>40th regular meeting</title><link>https://sslarch.github.io/minutes/2024-09-04/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-09-04/</guid><description>&lt;p>11 ppl attended&lt;/p>
 &lt;h2 id="invited-talk">Invited talk&lt;/h2>
 &lt;p>Nicolas Frerebeau introduced the tesselle R package suite, an integrated set of packages for various archaeological research applications: &lt;a href="https://www.tesselle.org">https://www.tesselle.org&lt;/a>&lt;/p>
 &lt;p>Some of the questions that were raised in the discussion:&lt;/p>
@@ -42,7 +81,13 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="next-sig-meeting-wednesday-october-2-2024">Next SIG Meeting: Wednesday, October 2, 2024&lt;/h2></description></item><item><title>39th regular meeting</title><link>https://sslarch.github.io/minutes/2024-05-08/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-05-08/</guid><description>&lt;p>6 ppl attended&lt;/p>
+&lt;h2 id="next-sig-meeting-wednesday-october-2-2024">Next SIG Meeting: Wednesday, October 2, 2024&lt;/h2></description></item><item><title>Applying Archaeological Research Software Engineering as Little Minions: Statistical &amp; Computational Approaches to Daily Archaeological Tasks</title><link>https://sslarch.github.io/sessions/eaa2024_session/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/eaa2024_session/</guid><description>&lt;p>&lt;strong>When&lt;/strong>: 2024-08-31
+&lt;strong>Where&lt;/strong>: Sapienza University of Rome
+Piazzale Aldo Moro, 5, 00185 Roma RM, Italy&lt;/p>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Nowadays computer applications as well as statistical and computational approaches constitute a big part of the toolbox of every archaeologist, as they open tremendous possibilities for all research. These can be ready-to-use (proprietary) software applications but also “Little Minions” (self-scripted tools) or research software (e.g. implementation of statistic algorithms in R, Python), which are written by researchers. Both, research software and research data are part of Computational Archaeology and play an important role in up-to-date archaeological research. Optimally research data (and software) is FAIR(4RS) – Findable, Accessible, Interoperable, Re-usable (for Research Software) – and reproducible of which other users can benefit from or even develop further. The increasing number of topics and papers at the international and national chapters of the CAA show manifold applications but also implications. Working Groups like the SIG SSLA (&lt;a href="https://sslarch.github.io">https://sslarch.github.io&lt;/a>) or the “Little Minions” (&lt;a href="https://littleminions.link">https://littleminions.link&lt;/a>) also deal with Computational Archaeology and are building a community.
+Several initiatives, such as the German National Research Data Infrastructure (NFDI) – especially NFDI4Objects – or the European Open Science Cloud (EOSC), engage with this topic to strengthen the position of Computational Archaeologists and Research Software Engineers, highlight the scientific merit of their work, and ensure researchers receive credit for computational approaches, software development, as well as for writing papers.
+To support this, this session invites contributions dealing with various aspects of Computational Archaeology, but not limited to:&lt;/p></description></item><item><title>39th regular meeting</title><link>https://sslarch.github.io/minutes/2024-05-08/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-05-08/</guid><description>&lt;p>6 ppl attended&lt;/p>
 &lt;h2 id="open-exchange-and-announcements">Open exchange and announcements&lt;/h2>
 &lt;ul>
 &lt;li>Even more summerschools:
@@ -323,7 +368,16 @@
 &lt;p>open online debate space for until 10th December, log in and give your opinion&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>ArchaeFOSS takes placec next week: &lt;a href="https://www.archeofoss.org/2023/">https://www.archeofoss.org/2023/&lt;/a>&lt;/p></description></item><item><title>34th regular meeting</title><link>https://sslarch.github.io/minutes/2023-10-04/</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2023-10-04/</guid><description>&lt;p>7 ppl attended&lt;/p>
+&lt;p>ArchaeFOSS takes placec next week: &lt;a href="https://www.archeofoss.org/2023/">https://www.archeofoss.org/2023/&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>panel by Joe Roe and Zack Baptist on Social Media and Fediverse in archaeology&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="various">various&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>new: topic of dark data: unused data in databases, usually 60% in a database&lt;/p></description></item><item><title>34th regular meeting</title><link>https://sslarch.github.io/minutes/2023-10-04/</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2023-10-04/</guid><description>&lt;p>7 ppl attended&lt;/p>
 &lt;h2 id="open-exchange">Open exchange&lt;/h2>
 &lt;ul>
 &lt;li>Ben Marwick:
@@ -857,7 +911,10 @@
 &lt;p>List of tutorials is filter-able (names, authors, tags, programming language), links to points on the Map&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>more information can be shown with a &amp;ldquo;pop up&amp;rdquo; modal&lt;/p></description></item><item><title>24th regular meeting</title><link>https://sslarch.github.io/minutes/2022-11-07/</link><pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-11-07/</guid><description>&lt;p>7 ppl attended&lt;/p>
+&lt;p>more information can be shown with a &amp;ldquo;pop up&amp;rdquo; modal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>the modal doesn&amp;rsquo;t yet work well in the mobile version (scrolling doesn&amp;rsquo;t fixate on the pop up)&lt;/p></description></item><item><title>24th regular meeting</title><link>https://sslarch.github.io/minutes/2022-11-07/</link><pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-11-07/</guid><description>&lt;p>7 ppl attended&lt;/p>
 &lt;h2 id="talk-by-lucy-timbrell">Talk by Lucy Timbrell&lt;/h2>
 &lt;p>Timbrell, L., Grove, M., Manica, A. et al. A spatiotemporally explicit paleoenvironmental framework for the Middle Stone Age of eastern Africa. Sci Rep 12, 3689 (2022). &lt;a href="https://doi.org/10.1038/s41598-022-07742-y">https://doi.org/10.1038/s41598-022-07742-y&lt;/a>&lt;/p>
 &lt;ul>
@@ -868,7 +925,16 @@
 &lt;p>reconstructs changes in behaviour and use of ecotones&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>all code in R&lt;/p></description></item><item><title>23rd regular meeting</title><link>https://sslarch.github.io/minutes/2022-10-12/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-10-12/</guid><description>&lt;p>7 ppl attended&lt;/p>
+&lt;p>all code in R&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>data and code online at &lt;a href="https://osf.io/y98rq/">https://osf.io/y98rq/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>used data from: &lt;a href="https://osf.io/8n43x">https://osf.io/8n43x&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>go read it.&lt;/p></description></item><item><title>23rd regular meeting</title><link>https://sslarch.github.io/minutes/2022-10-12/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-10-12/</guid><description>&lt;p>7 ppl attended&lt;/p>
 &lt;h2 id="administrative-matters">Administrative matters&lt;/h2>
 &lt;ul>
 &lt;li>The slack chat software is not suitable for us any more, because it deletes messages after 90 days. Martin Hinz and Joe Roe will prepare an experimental setup with the matrix chat software, which we can explore and discuss in the next meeting&lt;/li>
@@ -894,7 +960,8 @@ Carleton, W. C. , J. Conolly, and G. Iannone (2012). A locally-adaptive model of
 Carleton, W., McCauley, B., Costopoulos, A., &amp;amp; Collard, M. (2018). An evolutionary agent-based model contradicts Dunnell’s version of the waste hypothesis for cultural elaboration. &lt;a href="https://doi.org/10.31235/osf.io/2h36u">https://doi.org/10.31235/osf.io/2h36u&lt;/a> &lt;a href="https://github.com/wccarleton/abm_waste">https://github.com/wccarleton/abm_waste&lt;/a>&lt;/p></description></item><item><title>Workflows and experiences on collaborative working and community building using digital tools</title><link>https://sslarch.github.io/sessions/caa2022_session/</link><pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/caa2022_session/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> &lt;a href="https://2022.caaconference.org/programme/">2022-08-11, 15:30-17:00 BST&lt;/a>&lt;br>
 &lt;strong>Where:&lt;/strong> Online and Room 11 Examination Schools, 75-81 The High Street, Oxford, OX1 4BG&lt;/p>
 &lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>For a long time now, archaeological research has not been conducted by individual researchers who come up with brilliant theories in their study rooms and investigate them by themselves and on their own terms. It is a fact that no serious scientific research can be conducted without substantial and extensive collaboration.&lt;/p></description></item><item><title>How to navigate the coding archaeology world: an introduction to scientific co-creation using Git and Github</title><link>https://sslarch.github.io/sessions/caa2022_workshop/</link><pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/caa2022_workshop/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> 2022-08-08, 15:30 - 17:00 BTS&lt;br>
+&lt;p>For a long time now, archaeological research has not been conducted by individual researchers who come up with brilliant theories in their study rooms and investigate them by themselves and on their own terms. It is a fact that no serious scientific research can be conducted without substantial and extensive collaboration.&lt;/p>
+&lt;p>The internet facilitated a significant change in work processes, something we have been able to experience vividly in the last two years. Since it was intended from the start as a tool to enable scientific exchange, it is all the more astonishing that collaborative work via the internet did not develop further from back-and-forth emailing of text manuscripts for such a long time. By now there are a variety of different systems and solutions: communication via Slack or Signal, co-writing via Google Docs or Overleaf, data co-creation in online database systems, Open Science Framework or Wikidata, as well as code co-development via GitHub or GitLab.&lt;/p></description></item><item><title>How to navigate the coding archaeology world: an introduction to scientific co-creation using Git and Github</title><link>https://sslarch.github.io/sessions/caa2022_workshop/</link><pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/caa2022_workshop/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> 2022-08-08, 15:30 - 17:00 BTS&lt;br>
 &lt;strong>Where:&lt;/strong> Online and in person, Lecture Theatre at the School of Archaeology (1 South Parks Road, Oxford, OX1 3TG)&lt;/p>
 &lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The archaeological community is moving beyond the traditional modes of scientific communication, such as research papers, monographs and conference talks, and interacts online on a daily basis. Especially for archaeologists, who use and develop advanced, computational tools, a new kind of platform increasingly extends mailing lists and social media here, and has proven invaluable for collaborative work: Version control systems to develop, share and test manuscripts, figures and code.&lt;/p></description></item><item><title>21st regular meeting</title><link>https://sslarch.github.io/minutes/2022-07-04/</link><pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-07-04/</guid><description>&lt;p>We had a busy and productive meeting today, where we explored how exactly the teaching material map can be set up on our website.
@@ -1000,7 +1067,17 @@ Palaeolithic site location distributions in Galicia, NW Iberian Peninsula&lt;/em
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>topics&lt;/p></description></item><item><title>17th regular meeting</title><link>https://sslarch.github.io/minutes/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-03-07/</guid><description>&lt;p>9 ppl attended&lt;/p>
+&lt;p>topics&lt;/p>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Bash&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;li>Netlogo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>idea: create an opinionated graph, in a way a decision tree&lt;/p></description></item><item><title>17th regular meeting</title><link>https://sslarch.github.io/minutes/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2022-03-07/</guid><description>&lt;p>9 ppl attended&lt;/p>
 &lt;h2 id="organisational-matters">Organisational matters&lt;/h2>
 &lt;ul>
 &lt;li>Discussion on structure and content of the regular SIG-SSLA meetings
@@ -1147,7 +1224,26 @@ These tutorials will take place as online lectures from 2 to 4 pm (Berlin time) 
 - Friday, 29 October 2021: &amp;#34;Classical vs. Data Driven Regularization Methods in Imaging&amp;#34;
 - **Friday, 26 November 2021: &amp;#34;Population wide Medical Image and Shape Analysis&amp;#34;**
 - Friday, 18 February 2022: &amp;#34;Neural MRI&amp;#34;
-&lt;/code>&lt;/pr</description></item><item><title>12th regular meeting</title><link>https://sslarch.github.io/minutes/2021-10-04/</link><pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2021-10-04/</guid><description>&lt;p>6 ppl attended&lt;/p>
+&lt;/code>&lt;/pre>&lt;h2 id="sig-activities">SIG activities&lt;/h2>
+&lt;ul>
+&lt;li>Teaching material list: Sophie Schmidt has shared a google document in the respective slack channel. Please invest some minutes of brainstorming to add the relevant materials you know.&lt;/li>
+&lt;/ul>
+&lt;h2 id="show-and-tell">Show and tell&lt;/h2>
+&lt;ul>
+&lt;li>James Allison presented R code to parse, transform and analyse the output of the Agent-based &amp;ldquo;Village model&amp;rdquo; software: &lt;a href="https://github.com/jallison7/village-output-analysis">https://github.com/jallison7/village-output-analysis&lt;/a>
+&lt;ul>
+&lt;li>Some relevant feedback items:
+&lt;ul>
+&lt;li>Plotly might simplify interactive data analysis (&lt;a href="https://plotly.com/r/">https://plotly.com/r/&lt;/a>, &lt;code>ggplotly()&lt;/code>)&lt;/li>
+&lt;li>Stream processing might be useful to summarise large text files that do not fit into memory (e.g. &lt;a href="https://gist.github.com/nevrome/2d13733583d9f0c0dfaadc4c0b12aedf">https://gist.github.com/nevrome/2d13733583d9f0c0dfaadc4c0b12aedf&lt;/a>)&lt;/li>
+&lt;li>&amp;ldquo;Split-Apply-Combine&amp;rdquo; workflows can be implemented nicely with dplyr&amp;rsquo;s &lt;code>group_by&lt;/code> + &lt;code>summarize&lt;/code> (e.g. &lt;a href="https://datacarpentry.org/R-genomics/04-dplyr.html#split-apply-combine_data_analysis_and_the_summarize()_function">https://datacarpentry.org/R-genomics/04-dplyr.html#split-apply-combine_data_analysis_and_the_summarize()_function&lt;/a>)&lt;/li>
+&lt;li>High performance computing environments for model runs can also be rented, if no such infrastructure is available (e.g. &lt;a href="https://towardsdatascience.com/how-to-run-rstudio-on-aws-in-under-3-minutes-for-free-65f8d0b6ccda">https://towardsdatascience.com/how-to-run-rstudio-on-aws-in-under-3-minutes-for-free-65f8d0b6ccda&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="next-meeting-monday-december-6-2021">Next meeting: Monday, December 6, 2021&lt;/h2></description></item><item><title>12th regular meeting</title><link>https://sslarch.github.io/minutes/2021-10-04/</link><pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2021-10-04/</guid><description>&lt;p>6 ppl attended&lt;/p>
 &lt;h2 id="organisational-matters">Organisational matters&lt;/h2>
 &lt;ul>
 &lt;li>Following a doodle poll we decided to try another regular meeting date for the following months: The first monday every month, 17pm, CEST. Please see the google calendar for more information.&lt;/li>
@@ -1158,7 +1254,28 @@ These tutorials will take place as online lectures from 2 to 4 pm (Berlin time) 
 &lt;li>New Approaches in Digital Archaeology: &lt;a href="https://archaeology.nsc.ru/events/nada">https://archaeology.nsc.ru/events/nada&lt;/a>&lt;/li>
 &lt;li>Theoretical Approaches to Computational Archaeology: &lt;a href="http://www.prehistoire.org/offres/gestion/actus_515_42365-911/theoretical-approaches-to-computational-archaeology.html">http://www.prehistoire.org/offres/gestion/actus_515_42365-911/theoretical-approaches-to-computational-archaeology.html&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>Please remeber to add these and other new events to the SIG&amp;rsquo;s Google calendar.&lt;/p></description></item><item><title>11th regular meeting</title><link>https://sslarch.github.io/minutes/2021-09-03/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2021-09-03/</guid><description>&lt;p>6 ppl attended&lt;/p>
+&lt;p>Please remeber to add these and other new events to the SIG&amp;rsquo;s Google calendar.&lt;/p>
+&lt;h2 id="sig-activities">SIG activities&lt;/h2>
+&lt;ul>
+&lt;li>Teaching material list
+&lt;ul>
+&lt;li>Sophie Schmidt will now create a Google sheet document to collect information&lt;/li>
+&lt;li>Ideally every SIG member should invest 10 minutes of brainstorming to collect teaching resources&lt;/li>
+&lt;li>The list will then be sorted by the core members of the teaching list committee&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="show-and-tell">Show and tell&lt;/h2>
+&lt;ul>
+&lt;li>Martin Hinz: API and R API packages on the example of XRONOS
+&lt;ul>
+&lt;li>Website: &lt;a href="https://www.xronos.ch">https://www.xronos.ch&lt;/a>&lt;/li>
+&lt;li>R package: &lt;a href="https://github.com/xronos-ch/xronos.R">https://github.com/xronos-ch/xronos.R&lt;/a>&lt;/li>
+&lt;li>Useful in this context: &lt;a href="https://github.com/r-lib/vctrs">https://github.com/r-lib/vctrs&lt;/a> &amp;amp; &lt;a href="https://github.com/r-lib/httr2">https://github.com/r-lib/httr2&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>James Allison will talk next month about R data parsing and transformation code he wrote to handle the output of a specific Agent-based modelling software tool&lt;/p></description></item><item><title>11th regular meeting</title><link>https://sslarch.github.io/minutes/2021-09-03/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2021-09-03/</guid><description>&lt;p>6 ppl attended&lt;/p>
 &lt;h2 id="organisational-matters">Organisational matters&lt;/h2>
 &lt;ul>
 &lt;li>Zack Batist already sent out an invitation to the Google calendar on the mailing list. Everybody has read permissions to embed the calendar with their own ones, but only explicitly approved SIG members will get editing permissions to prevent abuse. Zack manages the permissions&lt;/li>
@@ -1228,7 +1345,10 @@ These tutorials will take place as online lectures from 2 to 4 pm (Berlin time) 
 * Ask Me About: bad sci-fi, old movies, my cats
 * Other Roles at the iSchool/UofT:
 * Learn More Here: zackbatist.github.io, twitter.com/mtl_zack
-&lt;/code>&lt;/pr</description></item><item><title>Tools for the Revolution: developing packages for scientific programming in archaeology</title><link>https://sslarch.github.io/sessions/caa2021_session/</link><pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/caa2021_session/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> &lt;a href="https://2021.caaconference.org/programme/">2021-06-16, 09:50–12:20&lt;/a> (UTC)&lt;br>
+&lt;/code>&lt;/pre>&lt;h2 id="conferences-meetings-and-sessions">Conferences, meetings and sessions&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>CAA2021 debriefing&lt;/p></description></item><item><title>Tools for the Revolution: developing packages for scientific programming in archaeology</title><link>https://sslarch.github.io/sessions/caa2021_session/</link><pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/caa2021_session/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> &lt;a href="https://2021.caaconference.org/programme/">2021-06-16, 09:50–12:20&lt;/a> (UTC)&lt;br>
 &lt;strong>Where:&lt;/strong> Online, Room S (morning), Room P (afternoon)&lt;/p>
 &lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The increasing use of scientific programming languages (e.g. R or Python) is transforming the practice of quantitative archaeology. This “tool-driven revolution” (Schmidt and Marwick 2020) promises to greatly improve the accessibility, power, and reproducibility of computational analyses. It is a core component of the “Third Science Revolution” (Kristiansen 2014), which has major theoretical and practical implications for the discipline of archaeology as a whole.&lt;/p></description></item><item><title>Developing R packages</title><link>https://sslarch.github.io/sessions/caa2021_workshop/</link><pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/caa2021_workshop/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> 2021-06-14&lt;br>
@@ -1770,13 +1890,7 @@ These tutorials will take place as online lectures from 2 to 4 pm (Berlin time) 
 &lt;strong>Where:&lt;/strong> Auditorium Maximum of the Jagiellonian University&lt;/p>
 &lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In general, scientific scripting languages are the best interface for archaeologists to translate research questions into a machine-readable and executable form for quantitative analysis. For every step of data processing – data acquisition, analysis and presentation – there are high-quality software frameworks that enable fast, elegant, human-readable and reproducible coding. And yet, script languages are still not widely used! One of the main reason for this is the often steep learning curve. An important goal of the proposed Special Interest Group on Scientific Scripting Languages in Archaeology (SIG SSLA) is to provide guidance on how to overcome this obstacle.&lt;/p></description></item><item><title>Statement of purpose</title><link>https://sslarch.github.io/about/</link><pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/about/</guid><description>&lt;h2 id="sig-ssla">SIG SSLA&lt;/h2>
-&lt;p>The purpose of the &lt;a href="http://caa-international.org/special-interest-groups/">CAA Special Interest Group&lt;/a> &lt;strong>Scientific Scripting Languages in Archaeology&lt;/strong> is to promote the widespread implementation of computer scripts in archaeology. We will provide an exchange platform for scientists in and around archaeology who use scripting languages to conduct major or minor parts of their research. Scripts are computer programs that automate the execution of various kinds of tasks and are typically used by scientists to process and visualize information in ways that are amenable to the principles of open research. The purpose of this SIG is to help foster the growing community of archaeologists who increasingly use scientific scripting languages to pursue archaeological interests.&lt;/p></description></item><item><title>Andrea Titolo</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Applying Archaeological Research Software Engineering as Little Minions: Statistical &amp; Computational Approaches to Daily Archaeological Tasks</title><link>https://sslarch.github.io/sessions/eaa2024_session/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/sessions/eaa2024_session/</guid><description>&lt;p>&lt;strong>When&lt;/strong>: 2024&amp;ndash;08
-&lt;strong>Where&lt;/strong>: Sapienza University of Rome
-Piazzale Aldo Moro, 5, 00185 Roma RM, Italy&lt;/p>
-&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>Nowadays computer applications as well as statistical and computational approaches constitute a big part of the toolbox of every archaeologist, as they open tremendous possibilities for all research. These can be ready-to-use (proprietary) software applications but also “Little Minions” (self-scripted tools) or research software (e.g. implementation of statistic algorithms in R, Python), which are written by researchers. Both, research software and research data are part of Computational Archaeology and play an important role in up-to-date archaeological research. Optimally research data (and software) is FAIR(4RS) – Findable, Accessible, Interoperable, Re-usable (for Research Software) – and reproducible of which other users can benefit from or even develop further. The increasing number of topics and papers at the international and national chapters of the CAA show manifold applications but also implications. Working Groups like the SIG SSLA (&lt;a href="https://sslarch.github.io">https://sslarch.github.io&lt;/a>) or the “Little Minions” (&lt;a href="https://littleminions.link">https://littleminions.link&lt;/a>) also deal with Computational Archaeology and are building a community.
-Several initiatives, such as the German National Research Data Infrastructure (NFDI) – especially NFDI4Objects – or the European Open Science Cloud (EOSC), engage with this topic to strengthen the position of Computational Archaeologists and Research Software Engineers, highlight the scientific merit of their work, and ensure researchers receive credit for computational approaches, software development, as well as for writing papers.
-To support this, this session invites contributions dealing with various aspects of Computational Archaeology, but not limited to:&lt;/p></description></item><item><title>Ben Marwick</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Bjørn Peare Bartholdy</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>David N. Matzig</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Dirk Seidensticker</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Dries Daems</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Florian Thiery</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Francisco Javier Luengo Gutiérrez</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>How to join the SIG SSLA?</title><link>https://sslarch.github.io/documents/becoming_a_member/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/documents/becoming_a_member/</guid><description>&lt;p>So, you want to become a member of the CAA Special Interest Group for Scientific Scripting Languages in Archaeology? You have questions about the qualifications you need? You want to know how to become a member? Wondering what the benefits are? Ask no more! Here are the answers you&amp;rsquo;ve been looking for.&lt;/p>
+&lt;p>The purpose of the &lt;a href="http://caa-international.org/special-interest-groups/">CAA Special Interest Group&lt;/a> &lt;strong>Scientific Scripting Languages in Archaeology&lt;/strong> is to promote the widespread implementation of computer scripts in archaeology. We will provide an exchange platform for scientists in and around archaeology who use scripting languages to conduct major or minor parts of their research. Scripts are computer programs that automate the execution of various kinds of tasks and are typically used by scientists to process and visualize information in ways that are amenable to the principles of open research. The purpose of this SIG is to help foster the growing community of archaeologists who increasingly use scientific scripting languages to pursue archaeological interests.&lt;/p></description></item><item><title>Andrea Titolo</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Ben Marwick</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Bjørn Peare Bartholdy</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>David N. Matzig</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Dirk Seidensticker</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Dries Daems</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Florian Thiery</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Francisco Javier Luengo Gutiérrez</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>How to join the SIG SSLA?</title><link>https://sslarch.github.io/documents/becoming_a_member/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/documents/becoming_a_member/</guid><description>&lt;p>So, you want to become a member of the CAA Special Interest Group for Scientific Scripting Languages in Archaeology? You have questions about the qualifications you need? You want to know how to become a member? Wondering what the benefits are? Ask no more! Here are the answers you&amp;rsquo;ve been looking for.&lt;/p>
 &lt;h2 id="what-is-needed-to-become-a-member">What is needed to become a member&lt;/h2>
 &lt;p>As for the prerequisites, there are really none, except an interest in advancing transparency in archaeological research through both human and machine-readable computer programs. Whether you are already an experienced programmer in this field, or you are just starting out, it does not matter. Our group aims to provide an inclusive forum for exchange. Furthermore, we have made it our task to spread the knowledge about the possibilities and advantages of scripts over point and click software for scientific work and to establish it in a broad user group. Therefore, we are happy about every new member and hope that you will enrich us with your input and questions. To become a member of the Special Interest Group, you also do not have to be necessarily a member of CAA as such.&lt;/p></description></item><item><title>James Allison</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Joe Roe</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Joseph Lewis</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Letter to the members of the SIG</title><link>https://sslarch.github.io/documents/letter_members_bid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/documents/letter_members_bid/</guid><description>&lt;p>Dear colleagues,&lt;/p>
 &lt;p>You are receiving this message because you are listed on the mailing list as a potential member of a CAA Special Interest Group (SIG) &amp;lsquo;Scientific Scripting Languages in Archaeology&amp;rsquo;.&lt;/p>
