@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>41th regular meeting</title><link>https://sslarch.github.io/minutes/2024-10-02/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-10-02/</guid><description>&lt;p>4 ppl attended&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>42nd regular meeting</title><link>https://sslarch.github.io/minutes/2024-11-06/</link><pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-11-06/</guid><description>&lt;p>5 ppl attended&lt;/p>
+&lt;h2 id="general-exchange">General exchange&lt;/h2>
+&lt;ul>
+&lt;li>CAA 2025 conference
+&lt;ul>
+&lt;li>Please consider to submit an abstract to our main session on computational interfaces (APIs/DSLs) and advertise it among your colleagues: &lt;a href="https://2025.caaconference.org/call-for-papers/session-list/#S52">https://2025.caaconference.org/call-for-papers/session-list/#S52&lt;/a>&lt;/li>
+&lt;li>Nobody has so far taken the initative for the proposed TFQA workshop/hackathon (see the minutes from our previous meeting: &lt;a href="https://sslarch.github.io/minutes/2024-10-02)">https://sslarch.github.io/minutes/2024-10-02)&lt;/a>, but multiple SIG members have offered to join as participants if it was to happen. Please consider organizing it - the SIG would not leave you hanging&lt;/li>
+&lt;li>Lisa Steinmann advertised a CAA2025 session on &amp;ldquo;Comparing the Incomparable: Managing and Analyzing Data from Heterogeneous Sources in Archaeological Research&amp;rdquo; (&lt;a href="https://2025.caaconference.org/call-for-papers/session-list/#S17">https://2025.caaconference.org/call-for-papers/session-list/#S17&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Diamond Archaeology
+&lt;ul>
+&lt;li>Zack Batist introduced a new website project listing Diamond Open Access journals in Archaeology: &lt;a href="https://diamond.open-archaeo.info">https://diamond.open-archaeo.info&lt;/a>&lt;/li>
+&lt;li>Feel free to join the project and the ongoing discussion on how to further develop this resource&lt;/li>
+&lt;li>The SIG SSLA decided to advertise it on their Mastodon account&lt;/li>
+&lt;li>Zack also created a new GitHub organization for this and other projects (&lt;a href="https://github.com/open-archaeo">https://github.com/open-archaeo&lt;/a>) to where he eventually also wants to move the repo behind the original open-archeo website (&lt;a href="https://open-archaeo.info">https://open-archaeo.info&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Funding sources list
+&lt;ul>
+&lt;li>A discussion in a previous meeting (&lt;a href="https://sslarch.github.io/minutes/2024-09-04">https://sslarch.github.io/minutes/2024-09-04&lt;/a>) let to the creation of a list of funding resources for scientific open source software development: &lt;a href="https://github.com/orgs/sslarch/discussions/52">https://github.com/orgs/sslarch/discussions/52&lt;/a>&lt;/li>
+&lt;li>As these opportunities are prone to change we decided not to present or organize them beyond the GitHub discussion thread where they currently are&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Computational Archaeology Discord Community
+&lt;ul>
+&lt;li>Reminder that this network exists as well - it is closely related to the goals of the SIG SSLA: &lt;a href="https://book.archnetworks.net/#Discord">https://book.archnetworks.net/#Discord&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>James Allison&amp;rsquo;s LDen
+&lt;ul>
+&lt;li>James started the translation work of specific TFQA functions: &lt;a href="https://github.com/jallison7/LDen">https://github.com/jallison7/LDen&lt;/a>&lt;/li>
+&lt;li>He asked for feedback on performance issues and multiple SIG members offered to look into the code&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Dwindling numbers
+&lt;ul>
+&lt;li>Attendance at the SIG SSLA meetings is low right now. Ideas to improve that:
+&lt;ul>
+&lt;li>Advertise on the Computational Archaeology Discord&lt;/li>
+&lt;li>Invite back former regulars&lt;/li>
+&lt;li>Invite more female speakers to our presentation format&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="next-sig-meeting-wednesday-dezember-4-2024">Next SIG Meeting: Wednesday, Dezember 4, 2024&lt;/h2>
+&lt;p>We invited an external speaker, but at the time of writing these minutes we already know that they are not available for this meeting. More information will follow.&lt;/p></description></item><item><title>41th regular meeting</title><link>https://sslarch.github.io/minutes/2024-10-02/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-10-02/</guid><description>&lt;p>4 ppl attended&lt;/p>
 &lt;h2 id="sig-ssla-projects">SIG-SSLA Projects&lt;/h2>
 &lt;ul>
 &lt;li>Project TFQA:
