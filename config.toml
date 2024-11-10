@@ -33,6 +33,11 @@ title = "GitHub organisation"
 url = "https://github.com/sslarch"
 
 [[params.socialLinks]]
+icon = "fab fa-mastodon"
+title = "Toot @CAA_SSLA"
+url = "https://archaeo.social/@CAA_SSLA"
+
+[[params.socialLinks]]
 icon = "fab fa-twitter"
 title = "Tweet @caa_ssla"
 url = "https://twitter.com/caa_ssla"
