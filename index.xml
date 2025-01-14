@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>42nd regular meeting</title><link>https://sslarch.github.io/minutes/2024-11-06/</link><pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-11-06/</guid><description>&lt;p>5 ppl attended&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>43rd regular meeting</title><link>https://sslarch.github.io/minutes/2025-01-08/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-01-08/</guid><description>&lt;p>4 ppl attended&lt;/p>
+&lt;h2 id="recap-noteworthy-developments-in-2024-in-and-around-the-sig">Recap: Noteworthy developments in 2024 in and around the SIG&lt;/h2>
+&lt;ul>
+&lt;li>Change in chat software. We moved from Slack to &lt;a href="https://chat.archaeo.social">https://chat.archaeo.social&lt;/a>&lt;/li>
+&lt;li>Invited talks. Nicolas Frerebeau introduced the tesselle R package suite in October: &lt;a href="https://www.tesselle.org">https://www.tesselle.org&lt;/a>&lt;/li>
+&lt;li>Emerging resources:
+&lt;ul>
+&lt;li>A list for software funding opportunities: &lt;a href="https://github.com/orgs/sslarch/discussions/52">https://github.com/orgs/sslarch/discussions/52&lt;/a>&lt;/li>
+&lt;li>A list of Diamond Open Access journals: &lt;a href="https://diamond.open-archaeo.info">https://diamond.open-archaeo.info&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SIG Projects. Reviving old, archaeological research software with focus on the TFQA suite: &lt;a href="https://github.com/sslarch/tfqar">https://github.com/sslarch/tfqar&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="caa2025-conference">CAA2025 conference&lt;/h2>
+&lt;ul>
+&lt;li>It currently seems as if the SIG&amp;rsquo;s session on APIs and DSLs got enough submissions and will come together: &lt;a href="https://2025.caaconference.org/call-for-papers/session-list/#S52">https://2025.caaconference.org/call-for-papers/session-list/#S52&lt;/a>&lt;/li>
+&lt;li>The conference program is still unclear, but is currently announced to extend over five days (5-9 May)!&lt;/li>
+&lt;/ul>
+&lt;h2 id="ideasplans-for-the-sig-in-2025">Ideas/Plans for the SIG in 2025&lt;/h2>
+&lt;ul>
+&lt;li>Invited talks by Shawn Graham (already invited, needs scheduling) and Emily Coco (Sébastien Plutniak offered to ask her)&lt;/li>
+&lt;li>Proposal by James Allison: Work committedly on the TFQAR project and present the progress in a session at CAA2026? Maybe with a focus on spatial data analysis.&lt;/li>
+&lt;li>Bridge our Mastodon account to Bluesky and be more visible on social media: &lt;a href="https://archaeo.social/@CAA_SSLA">https://archaeo.social/@CAA_SSLA&lt;/a>&lt;/li>
+&lt;li>A new survey to optimize our meeting time (will be announced separately)&lt;/li>
+&lt;/ul>
+&lt;h2 id="various-news">Various news&lt;/h2>
+&lt;ul>
+&lt;li>The French CAA chapter is officially confirmed: &lt;a href="https://caafrance.hypotheses.org">https://caafrance.hypotheses.org&lt;/a>&lt;/li>
+&lt;li>Sébastien heard about ongoing work on reviving &lt;em>Le Stratifiant&lt;/em>, a software tool for archaeological stratigraphy modelling: &lt;a href="https://abp.hypotheses.org/files/2017/07/2010-actes-Vienne.pdf">https://abp.hypotheses.org/files/2017/07/2010-actes-Vienne.pdf&lt;/a>&lt;/li>
+&lt;li>PhD Position in Oslo: &lt;a href="https://www.jobbnorge.no/en/available-jobs/job/271130/doctoral-research-fellowship-in-archaeology">https://www.jobbnorge.no/en/available-jobs/job/271130/doctoral-research-fellowship-in-archaeology&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="next-sig-meeting-wednesday-february-5-2025">Next SIG Meeting: Wednesday, February 5, 2025&lt;/h2></description></item><item><title>42nd regular meeting</title><link>https://sslarch.github.io/minutes/2024-11-06/</link><pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2024-11-06/</guid><description>&lt;p>5 ppl attended&lt;/p>
 &lt;h2 id="general-exchange">General exchange&lt;/h2>
 &lt;ul>
 &lt;li>CAA 2025 conference
