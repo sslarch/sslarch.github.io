@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>43rd regular meeting</title><link>https://sslarch.github.io/minutes/2025-01-08/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-01-08/</guid><description>&lt;p>4 ppl attended&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>44th regular meeting</title><link>https://sslarch.github.io/minutes/2025_02_07/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_02_07/</guid><description>&lt;p>5 ppl attended&lt;/p>
+&lt;h2 id="social-media">Social Media&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>archaeo.social&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://chat.archaeo.social">https://chat.archaeo.social&lt;/a> (maintained by Joe Roe and Zack Batist) keeps growing, with more working groups using it (e.g. HAAM - &lt;a href="https://haam-community.github.io">https://haam-community.github.io&lt;/a>, SPAAM - &lt;a href="https://www.spaam-community.org">https://www.spaam-community.org&lt;/a>)&lt;/li>
+&lt;li>The financial costs to maintain and extend the mastodon and matrix servers currently exceed the level of donations&lt;/li>
+&lt;li>Users should consider donating: &lt;a href="https://opencollective.com/archaeosocial">https://opencollective.com/archaeosocial&lt;/a>&lt;/li>
+&lt;li>Potential questions from the SIG SSLA to the CAA:
+&lt;ul>
+&lt;li>(1) Could the CAA suport the SIG financially to enable us to donate to archaeo.social?&lt;/li>
+&lt;li>(2) Would the CAA itself be interested in using chat.archaeo.social?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(2) must first be discussed with Joe: The growth of archaeo.social comes with technical and social (legal?) challenges, e.g. because of content moderation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>bluesky&lt;/p></description></item><item><title>43rd regular meeting</title><link>https://sslarch.github.io/minutes/2025-01-08/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-01-08/</guid><description>&lt;p>4 ppl attended&lt;/p>
 &lt;h2 id="recap-noteworthy-developments-in-2024-in-and-around-the-sig">Recap: Noteworthy developments in 2024 in and around the SIG&lt;/h2>
 &lt;ul>
 &lt;li>Change in chat software. We moved from Slack to &lt;a href="https://chat.archaeo.social">https://chat.archaeo.social&lt;/a>&lt;/li>
