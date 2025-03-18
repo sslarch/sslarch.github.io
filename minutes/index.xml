@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>44th regular meeting</title><link>https://sslarch.github.io/minutes/2025_02_07/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_02_07/</guid><description>&lt;p>5 ppl attended&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>45th regular meeting</title><link>https://sslarch.github.io/minutes/2025_03_07/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_03_07/</guid><description>&lt;p>7 ppl attended&lt;/p>
+&lt;h2 id="discussion">Discussion&lt;/h2>
+&lt;p>This meeting was almost entirely dominated by a spontaneous discussion about applications, effects, and ethics of artificial intelligence in archaeology. Here are some of the tangible resources that where mentioned and referenced:&lt;/p>
+&lt;ul>
+&lt;li>A deep-learning-based &amp;ldquo;search engine&amp;rdquo; for Archaeologists
+&lt;ul>
+&lt;li>News article: &lt;a href="https://phys.org/news/2022-02-google-archaeologists.html">https://phys.org/news/2022-02-google-archaeologists.html&lt;/a>&lt;/li>
+&lt;li>Dashboard: &lt;a href="https://agnessearch.nl">https://agnessearch.nl&lt;/a>&lt;/li>
+&lt;li>Thesis: &lt;a href="https://scholarlypublications.universiteitleiden.nl/handle/1887/3274287">https://scholarlypublications.universiteitleiden.nl/handle/1887/3274287&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Stephen Wolfram&amp;rsquo;s explanation of the inner workings of LLMs
+&lt;ul>
+&lt;li>Blog post: &lt;a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work">https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Jean-Claude Gardin, one of the founders of archaeological computing, and his struggle with archaeological expert systems
+&lt;ul>
+&lt;li>A summary of his theoretical work: &lt;a href="https://doi.org/10.1007/s10816-015-9241-3">https://doi.org/10.1007/s10816-015-9241-3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A postdoctoral fellowship to support the understanding of AI in the social sciences and humanities
+&lt;ul>
+&lt;li>Call for submissions: &lt;a href="https://apply.sloan.org/prog/call_for_submissions_metascience_and_ai_postdoctoral_fellowship">https://apply.sloan.org/prog/call_for_submissions_metascience_and_ai_postdoctoral_fellowship&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>The topics raised in the discussion included the misleading semblance of objectivity projected by LLMs (linked to long-standing divides in archaeological theory about positivism), how AI applications may be a strong and convincing argument for Open Data in archaeology, and different levels of transparency in Open Source AI models.&lt;/p></description></item><item><title>44th regular meeting</title><link>https://sslarch.github.io/minutes/2025_02_07/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_02_07/</guid><description>&lt;p>5 ppl attended&lt;/p>
 &lt;h2 id="social-media">Social Media&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -1069,7 +1096,7 @@ Let me know if you do not know where to look or if you do not have access.&lt;/p
 &lt;li>see whether the tutorials are complete with info so far&lt;/li>
 &lt;li>add more edges to go on the map as routes&lt;/li>
 &lt;/ul>
-&lt;h2 id="teaching-materials-map-httpsgithubcomsslarchmapofcomputationalarchaeology">teaching materials map (&lt;a href="https://github.com/sslarch/MapofComputationalArchaeology)">https://github.com/sslarch/MapofComputationalArchaeology)&lt;/a>:&lt;/h2>
+&lt;h2 id="teaching-materials-map-">teaching materials map (&lt;a href="https://github.com/sslarch/MapofComputationalArchaeology)">https://github.com/sslarch/MapofComputationalArchaeology)&lt;/a>:&lt;/h2>
 &lt;ul>
 &lt;li>access needed via the github of SSLARCH&lt;/li>
 &lt;li>can be exported as png tiles&lt;/li>
@@ -1556,7 +1583,7 @@ These tutorials will take place as online lectures from 2 to 4 pm (Berlin time) 
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="3-open-exchange-about-activities-and-software-updates">3. Open exchange about activities and software updates&lt;/h2>
-&lt;h3 id="31-little-minions-httplittleminionslink">3.1. Little Minions, &lt;a href="http://littleminions.link/">http://littleminions.link/&lt;/a>&lt;/h3>
+&lt;h3 id="31-little-minions">3.1. Little Minions, &lt;a href="http://littleminions.link/">http://littleminions.link/&lt;/a>&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>working group:&lt;/p></description></item><item><title>5th regular meeting</title><link>https://sslarch.github.io/minutes/2021-03-05/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2021-03-05/</guid><description>&lt;p>7 ppl attended&lt;/p>
