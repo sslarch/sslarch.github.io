@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>45th regular meeting</title><link>https://sslarch.github.io/minutes/2025_03_07/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_03_07/</guid><description>&lt;p>7 ppl attended&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>46th regular meeting</title><link>https://sslarch.github.io/minutes/2025_04_04/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_04_04/</guid><description>&lt;p>10 ppl attended&lt;/p>
+&lt;h2 id="general-exchange">General exchange&lt;/h2>
+&lt;ul>
+&lt;li>Multiple SIG members participated in the Kiel conference last month (&lt;a href="https://www.kielconference.uni-kiel.de">https://www.kielconference.uni-kiel.de&lt;/a>) &amp;ndash; some colleagues joining our SIG SSLA meeting where invited at this conference.&lt;/li>
+&lt;li>Last month&amp;rsquo;s discussion of artificial intelligence in archaeology led to a (yet incomplete) write-up of Zack Batist, which he shared here: &lt;a href="https://github.com/open-archaeo/ai">https://github.com/open-archaeo/ai&lt;/a>. See also: the &amp;ldquo;archaeology machine learning&amp;rdquo; repository (&lt;a href="https://github.com/lakillo/archaeology-machine-learning">https://github.com/lakillo/archaeology-machine-learning&lt;/a>) and a preprint on &amp;ldquo;Machine learning applications in archaeological practices: a review&amp;rdquo; (&lt;a href="https://arxiv.org/abs/2501.03840)">https://arxiv.org/abs/2501.03840)&lt;/a>.&lt;/li>
+&lt;li>The ATRIUM 3D training school on 3D models in archaeology is inviting applications: &lt;a href="https://arup-cas.github.io/atrium-school3d">https://arup-cas.github.io/atrium-school3d&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="caa2025">CAA2025&lt;/h2>
+&lt;ul>
+&lt;li>Most likely there will be an inofficial gathering across SIGs at the CAA, but so far the details (time and location) are unclear. Probably more will be known at the next meeting shortly before the conference.&lt;/li>
+&lt;li>Recommended sessions as raised by SIG members in the meeting (see &lt;a href="https://2025.caaconference.org/call-for-papers/session-list)">https://2025.caaconference.org/call-for-papers/session-list)&lt;/a>:
+&lt;ul>
+&lt;li>S6: Model-Driven Urban Archaeology&lt;/li>
+&lt;li>S17: Comparing the Incomparable: Managing and Analyzing Data from Heterogeneous Sources in Archaeological Research&lt;/li>
+&lt;li>S19: Reusable Digital Research Workflows for Archaeology (Atrium session, see &lt;a href="https://atrium-research.eu">https://atrium-research.eu&lt;/a>)&lt;/li>
+&lt;li>S31: New Steps in Computational Methods and Theory to Studying Past Seafaring and Human-Water Interactions&lt;/li>
+&lt;li>S52: Computational interfaces: Exploring the Potential of Application Programming Interfaces (APIs) and Domain-Specific Languages (DSLs) in Archaeology (our SIG SSLA session)&lt;/li>
+&lt;li>Special mention: S22: Embracing Digital Ethics: practical applications of ethical frameworks in digital archaeology (see also &lt;a href="https://archaeologicalethics.org">https://archaeologicalethics.org&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tfqa-project">TFQA project&lt;/h2>
+&lt;ul>
+&lt;li>James Allison shared a repository with TFQA-inspired code on chi-square tests for analyzing contingency tables (&lt;a href="https://github.com/jallison7/TableAnalysis)">https://github.com/jallison7/TableAnalysis)&lt;/a>. See the respective write-up here: &lt;a href="https://github.com/jallison7/TableAnalysis/blob/main/SAA%202019%20simple%20statistics%20presentation.pdf">https://github.com/jallison7/TableAnalysis/blob/main/SAA%202019%20simple%20statistics%20presentation.pdf&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="sig-organisation">SIG organisation&lt;/h2>
+&lt;ul>
+&lt;li>The survey on a summer break for the SIG SSLA in 2025 (&lt;a href="https://nuudel.digitalcourage.de/Idmb7oXdULNlOOlW">https://nuudel.digitalcourage.de/Idmb7oXdULNlOOlW&lt;/a>) revealed that multiple colleagues would like to proceed with the monthly meetings also in June, July and August. Martin, Sophie and Clemens are only available to a limited degree, but thankfully Zack Batist offered to take over much of the organisational work for these months (inviting to the meeting, sharing the minutes).&lt;/li>
+&lt;li>Besides the one of Shawn Graham (see below) other invited talks will be scheduled after the summer months.&lt;/li>
+&lt;/ul>
+&lt;h2 id="next-sig-meeting-friday-may-2-2025">Next SIG Meeting: Friday, May 2, 2025&lt;/h2>
+&lt;p>Most likely Shawn Graham will talk about his experiments with large language models in archaeology.&lt;/p></description></item><item><title>45th regular meeting</title><link>https://sslarch.github.io/minutes/2025_03_07/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025_03_07/</guid><description>&lt;p>7 ppl attended&lt;/p>
 &lt;h2 id="discussion">Discussion&lt;/h2>
 &lt;p>This meeting was almost entirely dominated by a spontaneous discussion about applications, effects, and ethics of artificial intelligence in archaeology. Here are some of the tangible resources that where mentioned and referenced:&lt;/p>
 &lt;ul>
