@@ -51,8 +51,27 @@
 &lt;/ul&gt;
 &lt;h2 id="ideas-for-invited-speakers-for-sig-ssla-meetings-in-2026"&gt;Ideas for invited speakers for SIG SSLA meetings in 2026&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Possible overarching themes:&lt;/p&gt;</description></item><item><title>52nd regular meeting</title><link>https://sslarch.github.io/minutes/2025-12-05/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-12-05/</guid><description>&lt;p&gt;8 ppl attended&lt;/p&gt;
+&lt;li&gt;Possible overarching themes:
+&lt;ul&gt;
+&lt;li&gt;Open Source&lt;/li&gt;
+&lt;li&gt;Open Science&lt;/li&gt;
+&lt;li&gt;Agent-based modelling&lt;/li&gt;
+&lt;li&gt;Data storytelling / narrative approaches&lt;/li&gt;
+&lt;li&gt;Digital infrastructure and long-term preservation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Brainstorming for potential speakers:
+&lt;ul&gt;
+&lt;li&gt;Mark Lake: &lt;a href="https://profiles.ucl.ac.uk/8693-mark-lake"&gt;https://profiles.ucl.ac.uk/8693-mark-lake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarah &amp;amp; Eric Cansa, Paulina Przystupa (Open Context): &lt;a href="https://opencontext.org/about/people"&gt;https://opencontext.org/about/people&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dries Daems (NASSA): &lt;a href="https://archaeology-abm.github.io/NASSA-hub"&gt;https://archaeology-abm.github.io/NASSA-hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mike Burton (CoMSES Network): &lt;a href="https://www.comses.net"&gt;https://www.comses.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Any of the contributors of &lt;a href="https://zenodo.org/records/10806319"&gt;https://zenodo.org/records/10806319&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;tDAR project members &lt;a href="https://core.tdar.org"&gt;https://core.tdar.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="next-sig-meeting-friday-february-6-2026"&gt;Next SIG Meeting: Friday, February 6, 2026&lt;/h2&gt;</description></item><item><title>52nd regular meeting</title><link>https://sslarch.github.io/minutes/2025-12-05/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-12-05/</guid><description>&lt;p&gt;8 ppl attended&lt;/p&gt;
 &lt;h2 id="general-exchange"&gt;General exchange&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Update TFQA revival project: &lt;a href="https://github.com/sslarch/tfqar"&gt;https://github.com/sslarch/tfqar&lt;/a&gt;, &lt;a href="https://github.com/jallison7/LDen"&gt;https://github.com/jallison7/LDen&lt;/a&gt;. James Allison plans to work on data output for the spatial analysis code at the beginning of the next year. SIG members have offered to help with concrete tasks when they emerge.&lt;/li&gt;
