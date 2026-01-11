@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>52nd regular meeting</title><link>https://sslarch.github.io/minutes/2025-12-05/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-12-05/</guid><description>&lt;p&gt;8 ppl attended&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Martin Hinz</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>53rd regular meeting</title><link>https://sslarch.github.io/minutes/2026-01-09/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-01-09/</guid><description>&lt;p&gt;7 ppl attended&lt;/p&gt;
+&lt;h2 id="maintainathon-12-16-january-2026"&gt;Maintainathon (12-16 January 2026)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The upcoming Maintainathon event was the central topic of this meeting.&lt;/li&gt;
+&lt;li&gt;Motivation and goals:
+&lt;ul&gt;
+&lt;li&gt;Promote best practices in computational archaeology and the wider research software community.&lt;/li&gt;
+&lt;li&gt;Encourage archaeologists to adopt sustainable coding habits.&lt;/li&gt;
+&lt;li&gt;Demystify maintenance and highlight that even small contributions matter for better accessibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Website and resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sslarch.github.io/maintainathon"&gt;https://sslarch.github.io/maintainathon&lt;/a&gt; (repository: &lt;a href="https://github.com/sslarch/maintainathon"&gt;https://github.com/sslarch/maintainathon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Main content so far is the resources page at &lt;a href="https://sslarch.github.io/maintainathon/resources.html#optimizing-for-speed-and-efficiency"&gt;https://sslarch.github.io/maintainathon/resources.html#optimizing-for-speed-and-efficiency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Social media strategy:
+&lt;ul&gt;
+&lt;li&gt;Frequent posts during the event through the SIG SSLA Mastodon account (mainly controlled by Zack Batist, with support from other SIG membergs).&lt;/li&gt;
+&lt;li&gt;The SIG SSLA mastodon account is bridged to Bluesky. Matteo Tomasini checks he bridge account in case questions/discussions emerge on Bluesky.&lt;/li&gt;
+&lt;li&gt;All SIG members are encouraged to check Mastodon daily, post, reblog posts, and generally amplify the event!&lt;/li&gt;
+&lt;li&gt;Topics to post about (some SIG members already announced what they want to work on):
+&lt;ul&gt;
+&lt;li&gt;Highlights from the Maintainathon resources (will be covered by the SIG SSLA account)&lt;/li&gt;
+&lt;li&gt;The upcoming SIG-related CAA2026 workshops:
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;From Zero to Plotting: R for Anyone&amp;rdquo; (organised by Petr Pajdla)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Code review and best practices in programming&amp;rdquo; (organised by Matteo Tomasini)&lt;/li&gt;
+&lt;li&gt;see &lt;a href="https://2026.caaconference.org/workshops-2"&gt;https://2026.caaconference.org/workshops-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Creating or updating roadmaps and README files&lt;/li&gt;
+&lt;li&gt;Removing old and unused dependencies&lt;/li&gt;
+&lt;li&gt;Adding .cff files to repositories (Sophie Schmidt)&lt;/li&gt;
+&lt;li&gt;aoristAAR updates (Martin Hinz)&lt;/li&gt;
+&lt;li&gt;New blog posts (Clemens Schmid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Suggested hashtags:
+&lt;ul&gt;
+&lt;li&gt;#DigiArchMaintainathon (!)&lt;/li&gt;
+&lt;li&gt;#DigitalArchaeology&lt;/li&gt;
+&lt;li&gt;#ComputationalArchaeology&lt;/li&gt;
+&lt;li&gt;#maintainathon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;To promote the event even before the week starts we want to reach out to the Digital Archaeology Discord and the archaeo.social matrix chat.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ideas-for-invited-speakers-for-sig-ssla-meetings-in-2026"&gt;Ideas for invited speakers for SIG SSLA meetings in 2026&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Possible overarching themes:&lt;/p&gt;</description></item><item><title>52nd regular meeting</title><link>https://sslarch.github.io/minutes/2025-12-05/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2025-12-05/</guid><description>&lt;p&gt;8 ppl attended&lt;/p&gt;
 &lt;h2 id="general-exchange"&gt;General exchange&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Update TFQA revival project: &lt;a href="https://github.com/sslarch/tfqar"&gt;https://github.com/sslarch/tfqar&lt;/a&gt;, &lt;a href="https://github.com/jallison7/LDen"&gt;https://github.com/jallison7/LDen&lt;/a&gt;. James Allison plans to work on data output for the spatial analysis code at the beginning of the next year. SIG members have offered to help with concrete tasks when they emerge.&lt;/li&gt;
