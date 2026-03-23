@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>54th regular meeting</title><link>https://sslarch.github.io/minutes/2026-02-06/</link><pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-02-06/</guid><description>&lt;p&gt;7 ppl attended&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on CAA/SSLA</title><link>https://sslarch.github.io/minutes/</link><description>Recent content in Minutes on CAA/SSLA</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title>55th regular meeting</title><link>https://sslarch.github.io/minutes/2026-03-06/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-03-06/</guid><description>&lt;p&gt;6 ppl attended&lt;/p&gt;
+&lt;h2 id="caa2026-vienna"&gt;CAA2026 (Vienna)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Many SIG members are attending CAA2026 in Vienna.&lt;/li&gt;
+&lt;li&gt;The programme has been released: &lt;a href="https://2026.caaconference.org/program"&gt;https://2026.caaconference.org/program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Timing of the conference was discussed critically, as it includes Good Friday and overlaps with the UK Archaeological Science Conference: &lt;a href="https://www.ukas2026.co.uk"&gt;https://www.ukas2026.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Workshops involving SIG members:
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Code review and best practices in programming&amp;rdquo; (Matteo Tomasini&amp;rsquo;s workshop); Sophie Schmidt and James Allison will join as participants.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;From Zero to Plotting: R for Anyone&amp;rdquo; (Petr Pajdla&amp;rsquo;s workshop); Sophie Schmidt offered to help as a tutor.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Increasing interoperability and reproducibility of archaeometric data with R&amp;rdquo; (Clemens Schmid is involved in the underlying project); see &lt;a href="https://github.com/archaeothommy/ASTR"&gt;https://github.com/archaeothommy/ASTR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sessions highlighted by SIG members:
+&lt;ul&gt;
+&lt;li&gt;S30: Unstoppable Vision, Immovable Practice: An Adversarial Debate on Linked Open Dreams and the Reality of Archaeological Data Collection&lt;/li&gt;
+&lt;li&gt;S31: Computational Archaeology Revisited: Building Bridges with Mathematics and Computer Science&lt;/li&gt;
+&lt;li&gt;S34: Modelling Seafaring: Methodological Retrospective and Future Roadmap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SIG SSLA Meet-up at CAA2026
+&lt;ul&gt;
+&lt;li&gt;Proposed day and time:
+&lt;ul&gt;
+&lt;li&gt;Wednesday evening (chosen to avoid overlap with both the ice breaker event and the conference dinner)&lt;/li&gt;
+&lt;li&gt;After 19:45, meeting directly at the restaurant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Potential venues discussed:
+&lt;ul&gt;
+&lt;li&gt;Bierteufl: &lt;a href="https://maps.app.goo.gl/Khz5iwguptq4Uqqi8"&gt;https://maps.app.goo.gl/Khz5iwguptq4Uqqi8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gmoa Keller: &lt;a href="https://maps.app.goo.gl/ehY2xnY5bcavuGuP6"&gt;https://maps.app.goo.gl/ehY2xnY5bcavuGuP6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Both locations are relatively far away from the conference venue; closer alternatives may be preferable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Organisation and communication:
+&lt;ul&gt;
+&lt;li&gt;James Allison will collect a list of suitable restaurants from a colleague.&lt;/li&gt;
+&lt;li&gt;A reservation will be necessary once a venue is chosen.&lt;/li&gt;
+&lt;li&gt;SIG members are encouraged to actively invite (“drag along”) other potential members.&lt;/li&gt;
+&lt;li&gt;An invitation with final details (venue, exact timing) will be sent via the mailing list; participants should announce if they plan to attend.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="election-of-the-sig-ssla-board"&gt;Election of the SIG SSLA Board&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Martin Hinz announced that he is stepping down from his role as Convener.&lt;/li&gt;
+&lt;li&gt;Matteo Tomasini stood for election as Convener; his candidacy was formally proposed by Petr Pajdla.&lt;/li&gt;
+&lt;li&gt;Election results:
+&lt;ul&gt;
+&lt;li&gt;6 members voted.&lt;/li&gt;
+&lt;li&gt;Matteo Tomasini was unanimously elected as Convener.&lt;/li&gt;
+&lt;li&gt;Sophie Schmidt was re-elected as Vice-Convener.&lt;/li&gt;
+&lt;li&gt;Clemens Schmid was re-elected as Secretary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The SIG expressed its sincere thanks to Martin Hinz for his outstanding work as Convener since the founding of the SIG!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="news-and-resources"&gt;News and resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Material culture networks paper (PCI Archaeology): &lt;a href="https://archaeo.peercommunityin.org/PCIArchaeology/articles/rec?id=639"&gt;https://archaeo.peercommunityin.org/PCIArchaeology/articles/rec?id=639&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Advanced R course for geospatial data analysis (FU Berlin): &lt;a href="https://www.geo.fu-berlin.de/en/v/soga-r/index.html"&gt;https://www.geo.fu-berlin.de/en/v/soga-r/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Report on AI recommendations in science (Royal Statistical Society): &lt;a href="https://rss.org.uk/RSS/media/File-library/Policy/2026/AI-is-Statistics-FINAL.pdf"&gt;https://rss.org.uk/RSS/media/File-library/Policy/2026/AI-is-Statistics-FINAL.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;QGIS plugin for downloading Czech archaeological data: &lt;a href="https://plugins.qgis.org/plugins/amcr_viewer"&gt;https://plugins.qgis.org/plugins/amcr_viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ESTER Project: ESTimation of the prehistoric population of Eurasia based on a large number of Records (Martin Hinz, Sophie Schmidt): &lt;a href="https://ester-project.org"&gt;https://ester-project.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="next-sig-meetings"&gt;Next SIG Meetings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next meeting: during CAA2026 in Vienna, Wednesday, April 1, in the evening (details will follow).&lt;/li&gt;
+&lt;li&gt;Following regular meeting: Planned for May 8 (not on May 1st), tentative invited talk (to be confirmed and announced)&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>54th regular meeting</title><link>https://sslarch.github.io/minutes/2026-02-06/</link><pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-02-06/</guid><description>&lt;p&gt;7 ppl attended&lt;/p&gt;
 &lt;h2 id="maintainathon-recap"&gt;maintainathon recap&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
