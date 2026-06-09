@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Matteo Tomasini</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>56th regular meeting</title><link>https://sslarch.github.io/minutes/2026-05-08/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-05-08/</guid><description>&lt;p&gt;7 ppl attended&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on CAA/SSLA</title><link>https://sslarch.github.io/</link><description>Recent content in Home on CAA/SSLA</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sslarch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Matteo Tomasini</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sophie Schmidt</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Clemens Schmid</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>57th regular meeting</title><link>https://sslarch.github.io/minutes/2026-06-05/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-06-05/</guid><description>&lt;ul&gt;
+&lt;li&gt;5 ppl attemded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="announcements-publications-communications-from-the-world-of-ssla"&gt;Announcements, publications, communications from the world of SSLA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;research stipend by German Archaeologcal Institute for landscape archaeology, remote sensing etc: &lt;a href="https://www.dainst.org/karriere/stipendien/noslug/136"&gt;https://www.dainst.org/karriere/stipendien/noslug/136&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;will start in October&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hackathon 30th June - 03rd July for bibliometric analysis on iDAIbibliographical data: &lt;a href="https://www.dkz2r.de/events/2026-06-30"&gt;https://www.dkz2r.de/events/2026-06-30&lt;/a&gt;_archaeoanalysis_hackathon/
+&lt;ul&gt;
+&lt;li&gt;there&amp;rsquo;s a data scientist to advise&lt;/li&gt;
+&lt;li&gt;catering will be great&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="topics-about-our-website"&gt;topics about our website&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;we have a sessions page on our SIG website: &lt;a href="https://sslarch.github.io/sessions/"&gt;https://sslarch.github.io/sessions/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;please everyone, if you did a conference session linked to the SIG in the last couple of years, have a look, whether your session is on there&lt;/li&gt;
+&lt;li&gt;if missing, add your session and do a pull request&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;feedback from exchange at CAA international: &amp;ldquo;how to become a member&amp;rdquo; needs some rework (too wordy, maybe too complicated?)
+&lt;ul&gt;
+&lt;li&gt;add a tl;dr ?&lt;/li&gt;
+&lt;li&gt;add a &amp;ldquo;become a member&amp;rdquo;-button?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;idea: add a tab to the SIG website adding blogposts or teaching material directly
+&lt;ul&gt;
+&lt;li&gt;everyone present liked the idea&lt;/li&gt;
+&lt;li&gt;maybe we could dedicate a session every six months to blog post writing and then do a collaboratively speed blogging, like &lt;a href="https://www.software.ac.uk/guide/speed-blogging-and-tips-writing-speed-blog-post"&gt;https://www.software.ac.uk/guide/speed-blogging-and-tips-writing-speed-blog-post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;first ideas:
+&lt;ul&gt;
+&lt;li&gt;KlassificatoR - tutorial: &lt;a href="https://gitlab.com/oliver.nakoinz/klassifikator"&gt;https://gitlab.com/oliver.nakoinz/klassifikator&lt;/a&gt; -&amp;gt; add to documents (Sophie will check in with co-authors)
+&lt;ul&gt;
+&lt;li&gt;write blog post about the tutorial and link to it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;possible blog post by Martin: decision between R and Python workflow for Bayesian analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Matteo will have a look of how to implement the changes to SIG SSLA website
+&lt;ul&gt;
+&lt;li&gt;will create a pull request to website
+-&amp;gt; until next meeting in September&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="summer-break--after-summer-activities"&gt;Summer break / after summer activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;this was the last meeting for summer
+&lt;ul&gt;
+&lt;li&gt;no meetings in July and August&lt;/li&gt;
+&lt;li&gt;next meeting will be 4th September
+&lt;ul&gt;
+&lt;li&gt;topic: speed blog posts and planning meeting +&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;reach out to Dries and other speakers in September again&lt;/li&gt;
+&lt;li&gt;what topic would be interesting for the future
+&lt;ul&gt;
+&lt;li&gt;scripting for data management: pipelines from API to wrangling&lt;/li&gt;
+&lt;li&gt;show us your setup for scripting (little plugins/tools/&amp;hellip; that make your life easier) as a show and tell (not as an invited speaker)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="show--tell"&gt;Show &amp;amp; Tell&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SeriARC: &lt;a href="https://github.com/Archaeoscan/SeriARC"&gt;https://github.com/Archaeoscan/SeriARC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;idea adding 14C-dates to the parable of the correspondence analysis (old idea by Clemens)&lt;/li&gt;
+&lt;li&gt;Martin: let&amp;rsquo;s do this in Bayesian -&amp;gt; BaySer: &lt;a href="https://github.com/MartinHinz/bayser"&gt;https://github.com/MartinHinz/bayser&lt;/a&gt;
+-&amp;gt; BaySer-Web: Web interface -&amp;gt; &lt;a href="https://github.com/MartinHinz/bayser-web"&gt;https://github.com/MartinHinz/bayser-web&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;limited CPU capacities, so use bayser locally if you need more computing power&lt;/li&gt;
+&lt;li&gt;check it out, would be good to be proof-read logically
+-&amp;gt; keep your eyes peeled for a paper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="next-meeting-will-be-4th-september"&gt;next meeting will be 4th September&lt;/h1&gt;</description></item><item><title>56th regular meeting</title><link>https://sslarch.github.io/minutes/2026-05-08/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://sslarch.github.io/minutes/2026-05-08/</guid><description>&lt;p&gt;7 ppl attended&lt;/p&gt;
 &lt;h2 id="talk-by-danlu-chen"&gt;Talk by Danlu Chen&lt;/h2&gt;
 &lt;p&gt;Danlu Chen presented recent work on machine learning and natural language processing for ancient writing systems, focusing on cuneiform data.&lt;/p&gt;
 &lt;h3 id="cuneiml"&gt;CuneiML&lt;/h3&gt;
