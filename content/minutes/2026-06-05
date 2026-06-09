@@ -1,0 +1,55 @@
+---
+title: "57th regular meeting"
+date: 2026-06-05
+---
+- 5 ppl attemded
+
+## Announcements, publications, communications from the world of SSLA
+
+- research stipend by German Archaeologcal Institute for landscape archaeology, remote sensing etc: https://www.dainst.org/karriere/stipendien/noslug/136
+    - will start in October
+- Hackathon 30th June - 03rd July for bibliometric analysis on iDAIbibliographical data: https://www.dkz2r.de/events/2026-06-30\_archaeoanalysis\_hackathon/
+    - there's a data scientist to advise
+    - catering will be great
+
+### topics about our website
+
+- we have a sessions page on our SIG website: https://sslarch.github.io/sessions/
+    - please everyone, if you did a conference session linked to the SIG in the last couple of years, have a look, whether your session is on there
+    - if missing, add your session and do a pull request
+- feedback from exchange at CAA international: "how to become a member" needs some rework (too wordy, maybe too complicated?)
+    - add a tl;dr ?
+    - add a "become a member"-button?
+- idea: add a tab to the SIG website adding blogposts or teaching material directly
+    - everyone present liked the idea
+    - maybe we could dedicate a session every six months to blog post writing and then do a collaboratively speed blogging, like https://www.software.ac.uk/guide/speed-blogging-and-tips-writing-speed-blog-post
+    - first ideas:
+        - KlassificatoR - tutorial: https://gitlab.com/oliver.nakoinz/klassifikator -> add to documents (Sophie will check in with co-authors)
+            - write blog post about the tutorial and link to it
+        - possible blog post by Martin: decision between R and Python workflow for Bayesian analysis
+- Matteo will have a look of how to implement the changes to SIG SSLA website
+    - will create a pull request to website
+    -> until next meeting in September
+
+## Summer break / after summer activities
+
+- this was the last meeting for summer
+    - no meetings in July and August
+    - next meeting will be 4th September
+        - topic: speed blog posts and planning meeting +
+- reach out to Dries and other speakers in September again
+- what topic would be interesting for the future
+    - scripting for data management: pipelines from API to wrangling
+    - show us your setup for scripting (little plugins/tools/... that make your life easier) as a show and tell (not as an invited speaker)
+
+## Show & Tell
+
+- SeriARC: https://github.com/Archaeoscan/SeriARC
+- idea adding 14C-dates to the parable of the correspondence analysis (old idea by Clemens)
+- Martin: let's do this in Bayesian -> BaySer: https://github.com/MartinHinz/bayser
+-> BaySer-Web: Web interface -> https://github.com/MartinHinz/bayser-web
+    - limited CPU capacities, so use bayser locally if you need more computing power
+    - check it out, would be good to be proof-read logically
+    -> keep your eyes peeled for a paper
+
+# next meeting will be 4th September
