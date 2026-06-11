@@ -2,9 +2,9 @@
 title: "Join Us"
 ---
 
-## How to become a member
-
 To become a member, simply join our mailing list at https://groups.google.com/g/scientific-scripting-languages-in-archaeology.
+
+## How to become an active member
 
 From here, there are now several ways in which you can integrate yourself and participate in the discussion. We are interested in advancing transparency in archaeological research through both human and machine-readable computer programs. Whether you are already an experienced programmer in this field, or you are just starting out, it does not matter. Our group aims to provide an inclusive forum for exchange. Furthermore, we have made it our task to spread the knowledge about the possibilities and advantages of scripts over point and click software for scientific work and to establish it in a broad user group. Therefore, we are happy about every new member and hope that you will enrich us with your input and questions. To become a member of the Special Interest Group, you also do not have to be necessarily a member of CAA as such.
 
