@@ -3,7 +3,7 @@ theme = "risotto"
 title = "CAA/SSLA"
 author = "CAA SSLA"
 copyright = ""
-languageCode = "en"
+locale = "en-US"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
