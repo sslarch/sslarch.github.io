@@ -1,0 +1,5 @@
+<li>
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    <span class="meta">{{ .Date.Format "2006-01-02" }}</span> 
+    <p>by {{ .Params.author.name }}</p>
+</li>
