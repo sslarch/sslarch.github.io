@@ -1,6 +1,5 @@
 ---
-title: "How to join the SIG SSLA?"
-expiryDate: 2026-06-10
+title: "Join Us"
 ---
 
 So, you want to become a member of the CAA Special Interest Group for Scientific Scripting Languages in Archaeology? You have questions about the qualifications you need? You want to know how to become a member? Wondering what the benefits are? Ask no more! Here are the answers you've been looking for.

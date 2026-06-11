@@ -2,6 +2,8 @@
 title: "Home"
 ---
 
+Have you heard of us at a conference or elsewehere, and would like to join our activities? [BECOME A MEMBER HERE!](./join-us/)
+
 ## Special Interest Group on Scientific Scripting Languages in Archaeology 
 
 This [CAA International](https://caa-international.org) [Special Interest Group ](https://caa-international.org/special-interest-groups) (SIG) focusses on the application of [Scripting Languages](https://en.wikipedia.org/wiki/Scripting_language) in archaeological research. To learn more about the purpose and goals of this SIG take a look at our [Statement of purpose](https://sslarch.github.io/about/).
@@ -10,7 +12,7 @@ If computational archaeology is new to you, you can explore our fictional map, i
 
 [![Cutout from the Map of Computational Archaeology](/images/comparchmap.png)](https://sslarch.github.io/MapofComputationalArchaeology/)
 
-If you are already working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to [become a member](https://sslarch.github.io/documents/becoming_a_member/).
+If you are already working in the field of quantitative archaeology, if you are using scripting languages as part of your analysis and daily work, and if you would like to contribute and take part in the decision making of this group, please feel free and encouraged to [become a member](./join-us/).
 
 {{< googleCalendar >}}
 
