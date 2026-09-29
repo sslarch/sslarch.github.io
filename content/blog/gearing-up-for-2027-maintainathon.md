@@ -2,7 +2,8 @@
 title: Gearing up for the next Digital Archaeology Maintainathon
 author: Zack Batist
 date: 2026-09-23
-tags: DigiArchMaintainathon
+tags:
+  - DigiArchMaintainathon
 draft: false
 ---
 
