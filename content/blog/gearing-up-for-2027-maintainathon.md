@@ -3,7 +3,7 @@ title: Gearing up for the next Digital Archaeology Maintainathon
 author: Zack Batist
 date: 2026-09-23
 tags: DigiArchMaintainathon
-draft: true
+draft: false
 ---
 
 This past January, the SSLA organized the inaugural [Digital Archaeology Maintainathon](https://sslarch.github.io/maintainathon/), a week-long event promoting sound and sustainable coding practices. Archaeologists were invited to to revisit and update older codebases, learn about each other's work, and reflect on how they make and maintain software as part of their research all while posting using the #DigiArchMaintainathon hashtag.
