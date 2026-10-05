@@ -1,0 +1,90 @@
+# Announces new blog posts on Mastodon (@CAA_SSLA at archaeo.social).
+# Docs: docs/mastodon-autopost.md
+#
+# Requires the repository secret MASTODON_TOKEN, an access token with only
+# the write:statuses scope.
+#
+# A post is announced when a push turns it from "not published" into
+# "published". That covers a new file with draft: false and an existing file
+# that changes from draft: true to draft: false. Edits to posts that were
+# already published are ignored.
+name: Post new blog entries to Mastodon
+
+on:
+  push:
+    branches: [master]
+    # Skip the run entirely unless a push touches blog content.
+    paths:
+      - 'content/blog/**'
+
+jobs:
+  toot:
+    runs-on: ubuntu-latest
+    # Covers the wait for the Pages deploy. A failed deploy ends the job here
+    # and nothing is posted.
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history so the diff against the pre-push commit always resolves.
+          fetch-depth: 0
+
+      - name: Post newly published entries
+        env:
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          # Reads a post on stdin and succeeds if its front matter has draft: true.
+          is_draft() {
+            awk '/^---[[:space:]]*$/{n++; next} n==1' | grep -qiE '^draft:[[:space:]]*true'
+          }
+
+          # List Markdown files added or modified across the whole push, comparing
+          # the state before the push with the state after it. Section index pages
+          # are dropped.
+          git diff --name-only --diff-filter=AM "$BEFORE" "$GITHUB_SHA" -- 'content/blog/*.md' \
+            | grep -v '/_index.md$' \
+            | while read -r f; do
+                # Skip posts that are still drafts after this push.
+                is_draft < "$f" && continue
+
+                # Skip posts that were already published before this push.
+                if git show "$BEFORE:$f" > /dev/null 2>&1 && ! git show "$BEFORE:$f" | is_draft; then
+                  continue
+                fi
+
+                # Title from front matter, with surrounding quotes removed.
+                title=$(grep -m1 -E '^title:' "$f" | sed -E "s/^title:[[:space:]]*//; s/^[\"']//; s/[\"'][[:space:]]*$//")
+
+                # Hugo builds the URL from the filename, or from the folder name
+                # for a bundle (blog/my-post/index.md). A slug: or url: override
+                # in front matter is not read, so the link would be wrong.
+                if [ "$(basename "$f")" = "index.md" ]; then
+                  slug=$(basename "$(dirname "$f")")
+                else
+                  slug=$(basename "$f" .md)
+                fi
+                url="https://sslarch.github.io/blog/$slug/"
+
+                # Read tags from front matter. Handles both the inline form
+                # (tags: [a, b]) and the block list form (tags:, then - a).
+                tags=$(awk '/^---[[:space:]]*$/{n++; next} n==1' "$f" | awk '
+                  /^tags:[[:space:]]*\[/ { sub(/^tags:[[:space:]]*\[/,""); sub(/\][[:space:]]*$/,""); gsub(/,/,"\n"); print; next }
+                  /^tags:[[:space:]]*$/ { intags=1; next }
+                  intags && /^[[:space:]]*-/ { sub(/^[[:space:]]*-[[:space:]]*/,""); print; next }
+                  { intags=0 }')
+
+                # Turn each tag into a CamelCase hashtag ("open science" becomes
+                # #OpenScience). Duplicates are dropped, case-insensitively.
+                hashtags=$(printf '%s\n' "$tags" \
+                  | sed -E "s/[\"']//g; s/^[[:space:]]+//; s/[[:space:]]+$//" \
+                  | awk 'NF { out=""; n=split($0,w,/[ _-]+/); for(i=1;i<=n;i++) out=out toupper(substr(w[i],1,1)) substr(w[i],2); if(!seen[tolower(out)]++) printf "#%s ", out }')
+
+                # Wait until the deploy workflow has published the page.
+                until curl -sfI "$url" > /dev/null; do sleep 20; done
+
+                # Post the status. Mastodon builds the link preview card.
+                curl -sf -X POST https://archaeo.social/api/v1/statuses \
+                  -H "Authorization: Bearer $MASTODON_TOKEN" \
+                  --data-urlencode "status=New on the SIG SSLA blog: $title $url $hashtags"
+              done
