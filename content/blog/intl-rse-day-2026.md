@@ -27,6 +27,6 @@ Unsure of how important RSE work has been to the field of archaeology? We collec
    - Batist Z and Roe J "Open Archaeology, Open Source? Collaborative practices in an emerging community of archaeological software engineers", Internet Archaeology 67. (2024) <https://doi.org/10.11141/ia.67.13>
 - And finally, some recommendations for reviewing archaeological software:
    - Homburg T, Klammt A, Hubert M, Schmid C, Schmidt SC, Thiery F, and Trognitz M (2020), Archäologische Informationen, Bd.43. <https://doi.org/10.11588/ai.2020.1.81423>
-
+- Interested in more? The [Journal of Computer Applications in Archaeology](https://journal.caa-international.org/) publishes papers using software to understand the past. Give a look!
 
 
