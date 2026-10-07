@@ -21,7 +21,7 @@ We also hold regular meetings during the first Friday of each month to keep each
 
 Unsure of how important RSE work has been to the field of archaeology? We collected some great papers that you could peruse over your next coffee break!
 
-- The software `rcarbon` enables the calibration and analysis of radiocarbon dates in R. It's stands in its usage because it is completely open source and free! 
+- The software `rcarbon` enables the calibration and analysis of radiocarbon dates in R. It stands out in its usage because it is completely open source and free! 
     - Crema ER and Bevan A, ‘INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS’, Radiocarbon, 63 (2021), 23–39 <http://dx.doi.org/10.1017/RDC.2020.95>
 - XRONOS is the Open Access Database for absolute chronological archaeological information, developed by our very own Joe Roe and Martin Hinz. It combines all available chronological data into one single database!
     - Roe JA, and Hinz M "XRONOS: An open repository and curation platform for chronometric data." CAA 2022. 2022. <https://xronos.ch>
