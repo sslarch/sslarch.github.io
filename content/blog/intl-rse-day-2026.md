@@ -8,7 +8,7 @@ tags:
   - research software engineers
   - digital archaeology
   - computational archaeology
-draft: true
+draft: false
 ---
 
 Today, October 8th 2026, we celebrate International RSE Day! 
