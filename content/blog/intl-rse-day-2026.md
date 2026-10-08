@@ -31,6 +31,7 @@ Unsure of how important RSE work has been to the field of archaeology? We collec
    - Homburg T, Klammt A, Hubert M, Schmid C, Schmidt SC, Thiery F, and Trognitz M (2020), Archäologische Informationen, Bd.43. <https://doi.org/10.11588/ai.2020.1.81423>
 
 
-Interested in more? The [Journal of Computer Applications in Archaeology](https://journal.caa-international.org/) publishes papers using software to understand the past. Give a look! If you are looking to connect to other RSE around you, check out the various national and international RSE associations: <https://society-rse.org/international-rse-organisations/>
+Interested in more? The [Journal of Computer Applications in Archaeology](https://journal.caa-international.org/) publishes papers using software to understand the past. Give a look! 
+And if you are interested in connecting with other RSE around you, check out the various national and international RSE associations: <https://society-rse.org/international-rse-organisations/>
 
 
